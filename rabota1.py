@@ -63,6 +63,7 @@ while True:
             count_words += len(line1)#броя думи на един ред
         file.close()
         print(f"Words in {file_name2}: {count_words}")
+        count_words = 0
 
 
     else:   #когато не е въведена валидна команда ни извежда грешка
