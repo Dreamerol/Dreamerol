@@ -1,4 +1,4 @@
 Professional chocolate eater :)
 
-FMI student during the day - integrator during the night! ;)
+FMI student during the day - Calculus integrator during the night! ;)
 
