@@ -1,11 +1,8 @@
 <p align="center">
 
 <!-- Project 1 -->
-
- <a href="https://github.com/yourusername/project1">
+<a href="https://github.com/yourusername/project1">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" width="600"><br>
-  🎮 Cool Game
-</a>
   🎮 Cool Game
 </a>
 
