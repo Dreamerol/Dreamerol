@@ -1,80 +1,65 @@
-Mihaela Koseva
+# 👋 Hi, I'm YourName
 
-FMI student during the day - Calculus integrator during the night! ;)
-
-# 👋 Hi, I'm Mishi
-
-💻 I like building creative and fun projects  
+💻 I love building creative projects  
 🎨 Interested in design, coding, and cool ideas  
 
 ---
 
 ## 🌟 Featured Projects
----
 
-### 🎮 Cool Game
-<img src="https://via.placeholder.com/600x300" width="600">
+<p align="center">
 
-A fun little game I made using Unity. It focuses on simple mechanics and clean design.
+<a href="https://github.com/yourusername/project1">
+  <img src="https://via.placeholder.com/300x200" width="250"><br>
+  🎮 Cool Game
+</a>
 
-🔗 https://github.com/Dreamerol/SDA_Tasks
+<a href="https://github.com/yourusername/project2">
+  <img src="https://via.placeholder.com/300x200" width="250"><br>
+  🌐 Aesthetic Website
+</a>
 
----
+<a href="https://github.com/yourusername/project3">
+  <img src="https://via.placeholder.com/300x200" width="250"><br>
+  📱 Mobile App
+</a>
 
-### 🌐 Aesthetic Website
-<img src="https://via.placeholder.com/600x300" width="600">
-
-A soft, pastel-themed portfolio website with responsive design.
-
-🔗 https://github.com/yourusername/website  
-
----
-
-### 📱 Mobile App
-<img src="https://via.placeholder.com/600x300" width="600">
-
-A simple mobile app project I built while learning app development.
-
-🔗 https://github.com/yourusername/app  
+</p>
 
 ---
 
 ## 🧪 Experiments
----
 
-### 🤖 AI Mini Project
-<img src="https://via.placeholder.com/600x300" width="600">
+<p align="center">
 
-Trying out beginner-friendly machine learning concepts.
+<a href="https://github.com/Dreemerol/SDA_Tasks">
+  <img src="https://via.placeholder.com/300x200" width="250"><br>
+  🤖 AI Project
+</a>
 
-🔗 https://github.com/yourusername/ai-project  
+<a href="https://github.com/yourusername/project5">
+  <img src="https://via.placeholder.com/300x200" width="250"><br>
+  🎨 Design Ideas
+</a>
 
----
-
-### 🎨 Design Playground
-<img src="https://via.placeholder.com/600x300" width="600">
-
-Random UI/UX experiments and small creative ideas.
-
-🔗 https://github.com/yourusername/design  
+</p>
 
 ---
 
 ## 📚 Currently Learning
----
 
-- AI, ML
+- HTML, CSS, JavaScript  
 - Git & GitHub  
-- Math Modelling and Analysis  
+- UI/UX Design  
+- Python / Machine Learning  
 
 ---
 
 ## 📫 Contact
+
+- Email: your@email.com  
+- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+
 ---
 
-- Email: michaelakoseva@email.com  
-- GitHub: https://github.com/Dreamerol  
-
----
-
-✨ Thanks for visiting my profile!
+✨ Thanks for visiting my profile!  
