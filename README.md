@@ -1,60 +1,57 @@
 
 
-## FMI student, during the day, Calculus Integrator during the night! :)
+## FMI student during the day, Calculus Integrator during the night! :)
 ![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Mihaela%20Koseva&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Neural%20Networks%20%7C%20Data%20Analysis&descSize=20&descAlign=60)
 
 ---
 
-## 🚀 Featured Projects
-## 🚀 Featured Projects
-
-## 🚀 Featured Projects
+## ⛰️ Featured Projects
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/Neural_Networks_Lab">
+      <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
         <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
       </a><br>
-      <b>Neural Networks Lab</b>
+      <b>Neural Networks</b>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/SIR_Model_Project">
-        <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="250"/>
+      <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
+        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
       </a><br>
-      <b>SIR Model Prediction</b>
+      <b>Profit Predictor</b>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/Backpropagation_Project">
-        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="250"/>
+      <a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
+        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
       </a><br>
-      <b>Backpropagation Tasks</b>
+      <b>Placebo Effect</b>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 About This Repository
+## 🧠 About the Repositories
 
-This repository focuses on building and understanding **Neural Networks from scratch and with modern frameworks**.  
-It includes implementations of **backpropagation, optimization techniques, and mathematical modelling** applied to real-world problems.
+My projects are focused mainly on Data Analysis, applying mathematical methods for solving real-world problems, using Machine Learning Algorithms, Neural Networks for making predictions in various of fields - medicine, physics, mathemaics. Some of the projects consist of solved task to improve my problem-solving and analytical skills like the repo - Data Structures and Algorithms, Databases_SQL and many others.
 
 ---
 
-## 🔑 Key Skills Demonstrated
+## 🔑 Key Skills Learned
 
-- 🤖 Neural Networks (TensorFlow & from scratch)  
+- 🤖 Neural Network (Tensorflow)  
 - 📉 Backpropagation & Gradient Descent  
 - 📊 Data Visualization & Analysis  
-- 💡 Mathematical Modelling (SIR Model, ODEs)  
-- 🧮 Optimization & Loss Minimization  
+- 💡 Data structures & Algorithms
+- 🧮 Databases SQL
+- 🐬 Numerical Analysis
 
 ---
 
-## 📌 Goal
+## 🌎 Future
 
-To demonstrate strong foundations in **Machine Learning, Deep Learning, and Mathematical Thinking**, with practical implementations and real-world applications.
+Eager to learn new applications of Machine Learning, Deep Learning, AI for solving real-world problems.
 
 ---
 
