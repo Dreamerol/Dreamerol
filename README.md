@@ -1,7 +1,7 @@
 
 
 ## FMI student during the day, Calculus Integrator during the night! :)
-![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Mihaela%20Koseva&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Data%Analyst%20%7C%20Software%20Developer&descSize=20&descAlign=60)
+![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Mihaela%20Koseva&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Developer&descSize=20&descAlign=60)
 
 ---
 
@@ -11,7 +11,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-        <img src="https://images.unsplash.com/photo-1761740533449-b8d4385e60b0?q=80&w=1100&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250" height="150"/>
+        <img src="https://images.unsplash.com/photo-1761740533449-b8d4385e60b0?q=80&w=1100&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250"/>
       </a><br>
       <b>Neural Networks</b>
     </td>
