@@ -1,9 +1,9 @@
 
 
-# Hello  
-FMI student, during the day, Calculus Integrator during the night! :)
+# FMI student, during the day, Calculus Integrator during the night! :)
+[NN_Banner]
 
-![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Your%20Name&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Neural%20Networks%20%7C%20Machine%20Learning&descSize=20&descAlign=60)
+![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Mihaela%20Koseva&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Neural%20Networks%20%7C%20Data%20Analysis&descSize=20&descAlign=60)
 
 ---
 
