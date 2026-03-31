@@ -8,21 +8,28 @@ FMI student, during the day, Calculus Integrator during the night! :)
 ---
 
 ## 🚀 Featured Projects
+
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Dreamerol/Neural_Networks_Lab">
+  <a href="https://github.com/yourusername/Neural_Networks_Lab">
     <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
   </a>
-
-  <a href="https://github.com/Dreamerol/Neural_Networks_Lab">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yourusername/SIR_Model_Project">
     <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="250"/>
   </a>
-
-  <a href="https://github.com/Dreamerol/Neural_Networks_Lab">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yourusername/Backpropagation_Project">
     <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="250"/>
   </a>
-</p>>
+</p>
+
+<p align="center">
+  <b>Neural Networks Lab</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>SIR Model Prediction</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Backpropagation Tasks</b>
+</p>
 
 ---
 
