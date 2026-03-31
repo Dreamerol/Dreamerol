@@ -3,7 +3,7 @@ FMI student, during the day, Calculus Integrator during the night! :)
 
 # 👋 Welcome to My Neural Networks Lab
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Your%20Name&fontSize=40&fontColor=00ffff&animation=fadeIn&desc=Neural%20Networks%20%7C%20Machine%20Learning&descSize=20)
+![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Your%20Name&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Neural%20Networks%20%7C%20Machine%20Learning&descSize=20&descAlign=60)
 
 ---
 
