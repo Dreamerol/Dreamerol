@@ -10,30 +10,30 @@ FMI student, during the day, Calculus Integrator during the night! :)
 ## 🚀 Featured Projects
 ## 🚀 Featured Projects
 
-<div style="display: flex; justify-content: center; align-items: top; gap: 40px;">
+## 🚀 Featured Projects
 
-  <div style="text-align: center;">
-    <a href="https://github.com/yourusername/Neural_Networks_Lab">
-      <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
-    </a>
-    <div><b>Neural Networks Lab</b></div>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/yourusername/SIR_Model_Project">
-      <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="250"/>
-    </a>
-    <div><b>SIR Model Prediction</b></div>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/yourusername/Backpropagation_Project">
-      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="250"/>
-    </a>
-    <div><b>Backpropagation Tasks</b></div>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/Neural_Networks_Lab">
+        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
+      </a><br>
+      <b>Neural Networks Lab</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/SIR_Model_Project">
+        <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="250"/>
+      </a><br>
+      <b>SIR Model Prediction</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/Backpropagation_Project">
+        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="250"/>
+      </a><br>
+      <b>Backpropagation Tasks</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
