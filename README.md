@@ -11,22 +11,19 @@ FMI student, during the day, Calculus Integrator during the night! :)
 
 <p align="center">
   <a href="https://github.com/yourusername/Neural_Networks_Lab">
-    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/>
+    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="250"/><br>
+    <b>Neural Networks Lab</b>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yourusername/SIR_Model_Project">
-    <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="250"/>
+    <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="250"/><br>
+    <b>SIR Model Prediction</b>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yourusername/Backpropagation_Project">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="250"/>
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="250"/><br>
+    <b>Backpropagation Tasks</b>
   </a>
-</p>
-
-<p align="center">
-  <b>Neural Networks Lab</b> <br><br>
-  <b>SIR Model Prediction</b> <br><br>
-  <b>Backpropagation Tasks</b>
 </p>
 
 ---
