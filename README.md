@@ -1,7 +1,18 @@
 >
 
 ## FMI student during the day, Calculus Integrator during the night! :)
-![NN Banner](https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mihaela%20Koseva&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Engineer&descSize=16)
+/ ![NN Banner](https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mihaela%20Koseva&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Engineer&descSize=16) /
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/programmer.gif" width="280"/>
+</p>
+
+<h2 align="center">Mihaela Koseva</h2>
+
+<p align="center">
+Data Analyst • Software Engineer
+</p>
+
+<br/><br/>
 
 
 <br/>
