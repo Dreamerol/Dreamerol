@@ -43,7 +43,15 @@ Currently focusing on 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗠�
 
 ## About the Repositories
 
-My projects are focused mainly on Data Analysis, applying mathematical methods for solving real-world problems, using Machine Learning Algorithms and Neural Networks for making predictions in various fields – medicine, physics, mathematics. Some of the projects consist of solved tasks to improve my problem-solving and analytical skills, like the repo – Data Structures and Algorithms, SQL Databases, and many others. In addition, I have real-world experience at ZigiWave, where I worked on projects involving data analysis, reporting, SQL queries, and automation, applying my skills to deliver actionable insights and support business decisions.
+I design and build scalable, data-driven systems by combining Software Engineering, Data Analysis, and Machine Learning. My work focuses on transforming complex data into reliable, production-ready solutions that solve real-world problems.
+
+I have experience developing end-to-end projects, including data processing pipelines, predictive models, and backend logic, with a strong emphasis on clean architecture, performance optimization, and maintainability.
+
+My technical background includes Data Structures and Algorithms, database design, and writing efficient SQL queries, allowing me to build systems that are both robust and scalable.
+
+At ZigiWave, I contributed to real-world projects involving data analysis, reporting systems, SQL optimization, and process automation. My work supported business operations by delivering actionable insights and improving efficiency through data-driven solutions.
+
+I approach every project with an engineering mindset — focusing on scalability, reliability, and long-term maintainability.
 
 ---
 
