@@ -1,13 +1,12 @@
 >
 
 ## FMI student during the day, Calculus Integrator during the night! :)
-<!-- 🎉 Custom Header Banner -->
 <p align="center">
-  ![Mihaela Koseva Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=300&section=header&text=Mihaela%20Koseva&fontSize=55&fontColor=00ffff&animation=fadeIn)
+  <img src="https://www.dropbox.com/s/h9lufzthzr46qrn9rgy2u/your-image.png?raw=1" alt="Mihaela Koseva Banner" width="100%"/>
 </p>
 
 <h1 align="center">Mihaela Koseva</h1>
-<p align="center">Data Analyst & Software Engineer</p>
+<p align="center">Data Analyst & Software Engineer</p>>
 
 ---
 
