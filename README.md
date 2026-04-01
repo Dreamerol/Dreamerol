@@ -1,27 +1,5 @@
 >
-[<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GitHub Banner</title>
-<style>
-    body { margin:0; padding:0; display:flex; justify-content:center; align-items:center; height:100vh; background:#f0f0f0; font-family:Arial,sans-serif; }
-    a { text-decoration:none; }
-    .banner { position:relative; width:1200px; height:300px; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.2); }
-    .banner img { width:100%; height:100%; object-fit:cover; }
-    .banner-text { position:absolute; bottom:20px; left:30px; color:#00ffff; font-size:36px; font-weight:bold; text-shadow:2px 2px 4px rgba(0,0,0,0.7); }
-</style>
-</head>
-<body>
-<a href="https://github.com/" target="_blank">
-    <div class="banner">
-        <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981b?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200" alt="Data Analyst Banner">
-        <div class="banner-text">Mihaela Koseva – Data Analyst & Software Engineer</div>
-    </div>
-</a>
-</body>
-</html>](https://images.unsplash.com/photo-1555949963-aa79dcee981b?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200)
+https://images.unsplash.com/photo-1555949963-aa79dcee981b?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
