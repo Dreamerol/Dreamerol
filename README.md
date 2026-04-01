@@ -54,18 +54,21 @@ At ZigiWave, I contributed to real-world projects involving data analysis, repor
 I approach every project with an engineering mindset — focusing on scalability, reliability, and long-term maintainability.
 
 🔹 Data Analytics & Reporting System
+
 Designed and implemented a data analysis pipeline using Python and SQL
 Processed and analyzed large datasets to extract actionable insights
 Built automated reports to support business decision-making
 Improved efficiency by automating repetitive data workflows
 
 🔹 Machine Learning Prediction Model
+
 Developed predictive models using Machine Learning algorithms and Neural Networks
 Performed data preprocessing, feature engineering, and model evaluation
 Applied models to real-world datasets in domains such as healthcare and physics
 Optimized model performance and accuracy
 
 🔹 Algorithms & Data Structures
+
 Solved complex algorithmic problems to strengthen problem-solving skills
 Implemented efficient solutions with focus on time and space complexity
 Covered topics such as graphs, trees, dynamic programming, and sorting
