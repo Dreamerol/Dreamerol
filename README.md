@@ -1,7 +1,34 @@
 >
 
 ## FMI student during the day, Calculus Integrator during the night! :)
-![NN Banner][(https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mihaela%20Koseva&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Engineer&descSize=16) ](https://chatgpt.com/s/m_69cc86226be88191a8ae9f1733110656)
+![NN Banner][<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>GitHub Banner</title>
+<style>
+  .banner {
+    width: 1200px;
+    height: 300px;
+    background-image: url('YOUR_BACKGROUND_IMAGE_URL');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+  }
+</style>
+</head>
+<body>
+  <div class="banner">
+    Data Analyst & Software Engineer
+  </div>
+</body>
+</html>
 ---
 
 ## Featured Projects
