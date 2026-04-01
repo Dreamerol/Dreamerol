@@ -2,12 +2,11 @@
 
 ## FMI student during the day, Calculus Integrator during the night! :)
 <p align="center">
-  <img src="https://www.dropbox.com/s/h9lufzthzr46qrn9rgy2u/your-image.png?raw=1" alt="Mihaela Koseva Banner" width="100%"/>
+  <img src="https://www.dropbox.com/s/h9lufzthzr46qrn9rgy2u/.png?raw=1" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Mihaela Koseva</h1>
-<p align="center">Data Analyst & Software Engineer</p>>
-
+<p align="center">Data Analyst & Software Engineer 👩‍💻</p>
 ---
 
 ## Featured Projects
