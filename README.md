@@ -56,38 +56,35 @@ My projects are focused mainly on Data Analysis, applying mathematical methods f
 
 
 ### 📊 Neural Networks
-![Neural Networks](https://images.unsplash.com/photo-1612831455541-d066e9b2f92b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTI3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&q=80&w=400)
-🔗 [View Project](https://github.com/Dreamerol/NeuralNetworks)
+![Neural Networks](https://images.unsplash.com/photo-1581091215361-0c40e0eeac6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 **Focus:** Machine Learning, AI, Neural Networks  
 → Built neural network models to predict outcomes in various fields  
 → Applied backpropagation, gradient descent, and optimization  
-→ Visualized results and analyzed performance metrics
+→ Visualized results and analyzed performance metrics  
 
 ---
 
 ### 💹 Profit Predictor
-![Profit Predictor](https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTI3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&q=80&w=400)
-🔗 [View Project](https://github.com/Dreamerol/ProfitPredictor)
+![Profit Predictor](https://images.unsplash.com/photo-1581090700227-7b21c90ed0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, Pandas, Scikit-learn  
 **Focus:** Data Analysis, Machine Learning  
 → Built predictive models for financial and business data  
 → Analyzed trends and visualized key metrics  
-→ Improved model accuracy through data preprocessing
+→ Improved model accuracy through data preprocessing  
 
 ---
 
 ### 💊 Placebo Effect
-![Placebo Effect](https://images.unsplash.com/photo-1581090700227-7b21c90ed0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTI3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&q=80&w=400)
-🔗 [View Project](https://github.com/Dreamerol/PlaceboEffect)
+![Placebo Effect](https://images.unsplash.com/photo-1581091870626-4c8cd28d68ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
 **Focus:** Data Analysis, Statistics, Experimental Design  
 → Studied placebo effect using real-world datasets  
 → Performed statistical analysis and visualized outcomes  
-→ Applied data cleaning, EDA, and result interpretation
+→ Applied data cleaning, EDA, and result interpretation  
 
 ---
 
