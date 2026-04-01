@@ -1,9 +1,8 @@
 >
-![Mihaela Koseva Banner](https://github.com/Dreamerol/Dreamerol/raw/main/banner.png)
+![GitHub Banner](https://images.pexels.com/photos/7439124/pexels-photo-7439124.jpeg)
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
----
 
 ## Featured Projects
 
