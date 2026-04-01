@@ -41,7 +41,7 @@ Gained hands-on experience as a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃�
 Currently focusing on 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, with practical experience in 𝗣𝘆𝘁𝗵𝗼𝗻 and 𝗦𝗤𝗟, using tools such as 𝗣𝗮𝗻𝗱𝗮𝘀, 𝗡𝘂𝗺𝗣𝘆, and 𝗠𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 to extract insights and build 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 solutions. Actively developing 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 skills and applying models to real-world problems. 
 
 
-## 🧠 About the Repositories
+## About the Repositories
 
 My projects are focused mainly on Data Analysis, applying mathematical methods for solving real-world problems, using Machine Learning Algorithms and Neural Networks for making predictions in various fields – medicine, physics, mathematics. Some of the projects consist of solved tasks to improve my problem-solving and analytical skills, like the repo – Data Structures and Algorithms, SQL Databases, and many others. In addition, I have real-world experience at ZigiWave, where I worked on projects involving data analysis, reporting, SQL queries, and automation, applying my skills to deliver actionable insights and support business decisions.
 
@@ -100,7 +100,7 @@ Python | SQL | Pandas | Power BI | Machine Learning
 
 ## 🌎 Future
 
-Eager to learn new applications of Machine Learning, Deep Learning, AI for solving real-world problems.
+Data + AI + Software Engineering | Building scalable solutions for real-world problems
 
 ---
 
