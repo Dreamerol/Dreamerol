@@ -1,7 +1,7 @@
 >
 
 ## FMI student during the day, Calculus Integrator during the night! :)
-![NN Banner][<p align="center">
+[<p align="center">
   ![Mihaela Koseva Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=300&section=header&text=Mihaela%20Koseva&fontSize=55&fontColor=00ffff&animation=fadeIn)
 </p>
 
