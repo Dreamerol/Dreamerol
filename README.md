@@ -1,4 +1,119 @@
+***
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mihaela Koseva - Portfolio</title>
+  <style>
+    /* Основни стилове */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #141E30, #243B55);
+      color: #00ffff;
+    }
 
+    header {
+      text-align: center;
+      padding: 50px 20px;
+      background: linear-gradient(90deg, #0f2027, #203a43, #2c5364);
+    }
+
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+      animation: fadeIn 2s ease-in-out;
+    }
+
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+      animation: fadeIn 3s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    section.projects {
+      padding: 40px 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card {
+      background: rgba(0, 255, 255, 0.05);
+      border: 1px solid #00ffff;
+      border-radius: 12px;
+      padding: 20px;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .project-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 255, 255, 0.3);
+    }
+
+    .project-card h3 {
+      margin-top: 0;
+      color: #00ffff;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #0f2027;
+      margin-top: 40px;
+    }
+
+    footer a {
+      color: #00ffff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Mihaela Koseva</h1>
+    <p>Data Analyst & Software Engineer</p>
+  </header>
+
+  <section class="projects">
+    <div class="project-card">
+      <h3>Deliveries Database System</h3>
+      <p>SQL / Analytics — Built a normalized relational database, optimized queries, and created dashboards for decision-making.</p>
+      <a href="https://github.com/Dreamerol/DATA_BASES_SQL" target="_blank">GitHub Project</a>
+    </div>
+
+    <div class="project-card">
+      <h3>Database & SQL Project</h3>
+      <p>Relational Databases, Query Optimization, Reporting, KPIs — implemented real-world data solutions.</p>
+      <a href="https://github.com/Dreamerol" target="_blank">GitHub Profile</a>
+    </div>
+
+    <!-- Можеш да добавиш още проекти по същия начин -->
+  </section>
+
+  <footer>
+    <p>Свържи се с мен:</p>
+    <a href="mailto:mihaela@example.com">Email</a> |
+    <a href="https://www.linkedin.com/in/mihaela-koseva" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/Dreamerol" target="_blank">GitHub</a>
+  </footer>
+
+</body>
+</html>
+
+***
 
 ## FMI student during the day, Calculus Integrator during the night! :)
 ![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Mihaela%20Koseva&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Developer&descSize=20&descAlign=60)
