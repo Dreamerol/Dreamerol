@@ -1,5 +1,5 @@
 >
-![Mihaela Koseva Banner](https://dl.dropboxusercontent.com/s/32ifygrmgag7rfij1wvdn/istockphoto-1313251605-612x612.jpg)
+![Mihaela Koseva Banner](https://github.com/Dreamerol/Dreamerol/raw/main/banner.png)
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
