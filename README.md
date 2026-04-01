@@ -9,6 +9,12 @@ Hi, I'm Mihaela Koseva 👋
 💻 Data Analyst & Software Engineer  
 📊 Turning data into insights with Python, SQL & AI
 
+𝗝𝘂𝗻𝗶𝗼𝗿 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 & 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 @ 𝗙𝗠𝗜, with a strong foundation in 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀, 𝗱𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀, 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴, and 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀.
+
+Gained hands-on experience as a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗜𝗻𝘁𝗲𝗿𝗻, working on 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 systems with 𝗝𝗮𝘃𝗮 and 𝗖𝗹𝗼𝗷𝘂𝗿𝗲/𝗖𝗹𝗼𝗷𝘂𝗿𝗲𝗦𝗰𝗿𝗶𝗽𝘁, including 𝗔𝗣𝗜 integrations and 𝗱𝗮𝘁𝗮 processing workflows. Applied 𝗰𝗼𝗿𝗲 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 and 𝘀𝘆𝘀𝘁𝗲𝗺 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 principles while working with 𝗱𝗮𝘁𝗮 𝘁𝗿𝗮𝗻𝘀𝗳𝗲𝗿, 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻, and 𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻 across distributed systems.
+
+Currently focusing on 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, with practical experience in 𝗣𝘆𝘁𝗵𝗼𝗻 and 𝗦𝗤𝗟, using tools such as 𝗣𝗮𝗻𝗱𝗮𝘀, 𝗡𝘂𝗺𝗣𝘆, and 𝗠𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 to extract insights and build 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 solutions. Actively developing 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 skills and applying models to real-world problems. 
+
 ## Featured Projects
 
 <table align="center">
@@ -35,16 +41,10 @@ Hi, I'm Mihaela Koseva 👋
 </table>
 
 ---
-𝗝𝘂𝗻𝗶𝗼𝗿 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 & 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 @ 𝗙𝗠𝗜, with a strong foundation in 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀, 𝗱𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀, 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴, and 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀.
-
-Gained hands-on experience as a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗜𝗻𝘁𝗲𝗿𝗻, working on 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 systems with 𝗝𝗮𝘃𝗮 and 𝗖𝗹𝗼𝗷𝘂𝗿𝗲/𝗖𝗹𝗼𝗷𝘂𝗿𝗲𝗦𝗰𝗿𝗶𝗽𝘁, including 𝗔𝗣𝗜 integrations and 𝗱𝗮𝘁𝗮 processing workflows. Applied 𝗰𝗼𝗿𝗲 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 and 𝘀𝘆𝘀𝘁𝗲𝗺 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 principles while working with 𝗱𝗮𝘁𝗮 𝘁𝗿𝗮𝗻𝘀𝗳𝗲𝗿, 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻, and 𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻 across distributed systems.
-
-Currently focusing on 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, with practical experience in 𝗣𝘆𝘁𝗵𝗼𝗻 and 𝗦𝗤𝗟, using tools such as 𝗣𝗮𝗻𝗱𝗮𝘀, 𝗡𝘂𝗺𝗣𝘆, and 𝗠𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 to extract insights and build 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 solutions. Actively developing 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 skills and applying models to real-world problems.
-
 
 ## 🧠 About the Repositories
 
-My projects are focused mainly on Data Analysis, applying mathematical methods for solving real-world problems, using Machine Learning Algorithms, Neural Networks for making predictions in various of fields - medicine, physics, mathemaics. Some of the projects consist of solved task to improve my problem-solving and analytical skills like the repo - Data Structures and Algorithms, Databases_SQL and many others.
+My projects are focused mainly on Data Analysis, applying mathematical methods for solving real-world problems, using Machine Learning Algorithms and Neural Networks for making predictions in various fields – medicine, physics, mathematics. Some of the projects consist of solved tasks to improve my problem-solving and analytical skills, like the repo – Data Structures and Algorithms, SQL Databases, and many others. In addition, I have real-world experience at ZigiWave, where I worked on projects involving data analysis, reporting, SQL queries, and automation, applying my skills to deliver actionable insights and support business decisions.
 
 ---
 
