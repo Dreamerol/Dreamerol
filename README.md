@@ -1,5 +1,5 @@
 >
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -21,7 +21,7 @@
     </div>
 </a>
 </body>
-</html>
+</html>](https://images.unsplash.com/photo-1555949963-aa79dcee981b?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200)
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
