@@ -1,10 +1,11 @@
 >
-<p align="center">
+<p align="center" style="position: relative; display: inline-block;">
   <img src="https://images.pexels.com/photos/6001377/pexels-photo-6001377.jpeg?auto=compress&cs=tinysrgb&h=300" alt="Mihaela Koseva Banner" width="100%"/>
+  <div style="position: absolute; top: 40px; width: 100%; text-align: center;">
+    <h1 style="color:#00ffff; font-size:55px; font-weight:bold; margin:0;">Mihaela Koseva</h1>
+    <p style="color:#ffffff; font-size:25px; font-weight:600; margin:5px 0 0;">Data Analyst & Software Engineer</p>
+  </div>
 </p>
-
-<h1 align="center">Mihaela Koseva</h1>
-<p align="center">Data Analyst & Software Engineer 👩‍💻</p>>
 ---
 
 ## Featured Projects
