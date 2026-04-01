@@ -63,6 +63,9 @@ My projects are focused mainly on Data Analysis, applying mathematical methods f
 - 🧮 Databases SQL
 - 🐬 Numerical Analysis
 
+## 🛠 Tech Stack
+Python | SQL | Pandas | Power BI | Machine Learning
+
 ---
 
 ## 🌎 Future
