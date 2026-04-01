@@ -1,7 +1,7 @@
 >
 
 ## FMI student during the day, Calculus Integrator during the night! :)
-![NN Banner](https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mihaela%20Koseva&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Engineer&descSize=16) 
+![NN Banner][(https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mihaela%20Koseva&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Engineer&descSize=16) ](https://chatgpt.com/s/m_69cc86226be88191a8ae9f1733110656)
 ---
 
 ## Featured Projects
