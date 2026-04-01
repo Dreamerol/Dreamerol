@@ -1,5 +1,23 @@
 >
-![Mihaela Koseva Banner](https://github.com/Dreamerol/Dreamerol/raw/main/banner.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Banner</title>
+    <style>
+        body { margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0; }
+        a { display: inline-block; }
+        img { width: 1200px; height: 300px; object-fit: cover; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <a href="https://github.com/" target="_blank">
+        <img src="67a76155-8b26-4ae7-bdc9-be14876f0d00.png" alt="Data Analyst & Software Engineer Banner">
+    </a>
+</body>
+</html>
+
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
