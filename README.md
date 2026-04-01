@@ -2,7 +2,7 @@
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
-
+![My Banner](Banner-7.PNG)
 ## Featured Projects
 
 <table align="center">
