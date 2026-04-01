@@ -56,7 +56,6 @@ My projects are focused mainly on Data Analysis, applying mathematical methods f
 
 
 ### 📊 Neural Networks
-![Neural Networks](https://images.unsplash.com/photo-1601758123927-235fc38f65b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 **Focus:** Machine Learning, AI, Neural Networks  
@@ -67,7 +66,6 @@ My projects are focused mainly on Data Analysis, applying mathematical methods f
 ---
 
 ### 💹 Profit Predictor
-![Profit Predictor](https://images.unsplash.com/photo-1581090700227-7b21c90ed0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, Pandas, Scikit-learn  
 **Focus:** Data Analysis, Machine Learning  
@@ -78,7 +76,6 @@ My projects are focused mainly on Data Analysis, applying mathematical methods f
 ---
 
 ### 💊 Placebo Effect
-![Placebo Effect](https://images.unsplash.com/photo-1581091870626-4c8cd28d68ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
 **Focus:** Data Analysis, Statistics, Experimental Design  
