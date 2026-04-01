@@ -1,5 +1,5 @@
 >
-![GitHub Banner](https://images.pexels.com/photos/7439124/pexels-photo-7439124.jpeg)
+[Data Analyst Banner](https://images.pexels.com/photos/2422286/pexels-photo-2422286.jpeg)
 
 # Mihaela Koseva
 **Data Analyst & Software Engineer**
