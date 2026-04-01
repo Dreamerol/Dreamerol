@@ -112,8 +112,6 @@
 </body>
 </html>
 
-***
-
 ## FMI student during the day, Calculus Integrator during the night! :)
 ![NN Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Mihaela%20Koseva&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Software%20Developer&descSize=20&descAlign=60)
 
