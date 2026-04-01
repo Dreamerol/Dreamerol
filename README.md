@@ -8,7 +8,7 @@
 
 ---
 
-## ⛰️ Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
