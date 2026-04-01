@@ -1,5 +1,5 @@
 
-**Data Analyst & Software Engineer**
+
 
 ![my-banner](Banner-7.PNG)
 
