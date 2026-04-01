@@ -56,7 +56,7 @@ My projects are focused mainly on Data Analysis, applying mathematical methods f
 
 
 ### 📊 Neural Networks
-![Neural Networks](https://images.unsplash.com/photo-1581091215361-0c40e0eeac6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
+![Neural Networks](https://images.unsplash.com/photo-1601758123927-235fc38f65b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=400&q=80)  
 
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 **Focus:** Machine Learning, AI, Neural Networks  
