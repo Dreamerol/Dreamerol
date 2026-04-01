@@ -1,6 +1,6 @@
 >
 <p align="center" style="position: relative; display: inline-block;">
-  <img src="https://images.pexels.com/photos/6001377/pexels-photo-6001377.jpeg?auto=compress&cs=tinysrgb&h=300" alt="Mihaela Koseva Banner" width="100%"/>
+  <img src="[https://images.pexels.com/photos/6001377/pexels-photo-6001377.jpeg](https://www.dropbox.com/scl/fi/h9lufzthzr46qrn9rgy2u/.png?rlkey=32uimxfeecic0rwzzso6mzxqc&st=l5n3288l&dl=0)? auto=compress&cs=tinysrgb&h=300" alt="Mihaela Koseva Banner" width="100%"/>
   <div style="position: absolute; top: 40px; width: 100%; text-align: center;">
     <h1 style="color:#00ffff; font-size:55px; font-weight:bold; margin:0;">Mihaela Koseva</h1>
     <p style="color:#ffffff; font-size:25px; font-weight:600; margin:5px 0 0;">Data Analyst & Software Engineer</p>
