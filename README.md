@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center">✨ Junior Data Analyst & Software Engineer | Work Hard, Code Harder ✨</h3>
+<h3 align="center">✨ Junior Data Analyst & Software Engineer | Python, SQL, C++, ML, Data Analysis, Backend, APIs | Work Hard, Code Harder ✨</h3>
 
 ---
 
