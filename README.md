@@ -67,6 +67,16 @@ Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, 
 
 ---
 
+### 🧠 **Neural Networks & Machine Learning**  
+
+- Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
+- Applied backprop, gradient descent & ML for predictions, vector classification (2D/3D), sin(x)
+- Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
+- Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**  
+- Built practical skills tailored for **junior SWE, ML, and AI roles**, ready to contribute to real projects
+
+---
+
 ### 💻 Software Engineering & Core Skills
 - Developed **backend systems**, **data pipelines**, and **modular functional components** for **scalable software solutions**  
 - Built and optimized **core algorithms** and **REST API integrations** for real-world workflows  
@@ -80,16 +90,6 @@ Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, 
 - **Backend & Systems:** REST APIs, Data Processing, Distributed Systems  
 - **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
 - Strong **computational thinking** and **real-world problem-solving** skills
-
----
-
-### 🧠 **Neural Networks & Machine Learning**  
-
-- Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
-- Applied backprop, gradient descent & ML for predictions, vector classification (2D/3D), sin(x)
-- Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
-- Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**  
-- Built practical skills tailored for **junior SWE, ML, and AI roles**, ready to contribute to real projects
 
 ---
 
