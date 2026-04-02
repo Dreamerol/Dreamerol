@@ -5,8 +5,8 @@
 
 ---
 
-💻 Data Analyst & Software Engineer
-📊 Turning data into insights through Python, SQL & Machine Learning  
+
+Turning data into insights through Python, SQL & Machine Learning  
 
 ---
 
