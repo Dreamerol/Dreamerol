@@ -12,29 +12,29 @@
 
 ---
 
-## Highlights
+## 💡 Highlights
 
-### Neural Networks & Machine Learning
-- Designed and implemented **Neural Networks** with **TensorFlow** and custom implementations from scratch  
-- Implemented **backpropagation** and **gradient descent** manually for learning weights  
-- Applied neural networks for **vector classification** (2D Quadrants, 3D Octants) and **predicting sin(x)**  
-- Evaluated models using **accuracy and loss functions** (Mean Squared Error)  
-- Applied **mathematical modeling** for dynamic systems, e.g., **SIR epidemiological model** with ODEs  
-
----
-
-### Data Analysis & Modeling
-- Worked with **Pandas, NumPy, Matplotlib** for data manipulation and visualization  
-- Applied statistical and mathematical methods to extract insights and model real-world problems  
-- Projects include predictive modeling, simulation of dynamic systems, and exploratory data analysis  
+### 🌟 Neural Networks & Machine Learning
+- Designed and implemented **Neural Networks** using **TensorFlow** and custom implementations from scratch  
+- Built **backpropagation** and **gradient descent** manually to optimize weights  
+- Applied neural networks for **vector classification** (2D Quadrants, 3D Octants) and **sin(x) prediction**  
+- Evaluated models with **accuracy and loss metrics** (Mean Squared Error)  
+- Applied **mathematical modeling** for dynamic systems, including the **SIR epidemiological model** using ODEs  
 
 ---
 
-### Core Software Engineering Skills
-- **Algorithms & Data Structures** – implemented and optimized in Python & C++  
+### 📊 Data Analysis & Modeling
+- Manipulated and visualized data with **Pandas, NumPy, and Matplotlib**  
+- Applied **statistical and mathematical methods** to extract insights and model real-world problems  
+- Worked on **predictive modeling, dynamic simulations, and exploratory data analysis**  
+
+---
+
+### 💻 Core Software Engineering Skills
+- **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
 - **Functional Programming** – modular, clean, maintainable code  
 - **Version Control & Tools** – Git, VS Code, IntelliJ IDEA  
-- Strong problem-solving and computational thinking for real-world scenarios  
+- Strong **problem-solving** and **computational thinking** for real-world scenarios
 
 ---
 
