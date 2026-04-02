@@ -58,7 +58,7 @@ Hands-on experience in **end-to-end development**, including **backend systems, 
 
 Applies **core algorithms, functional programming, modular design, API integrations, and version control (Git)** to solve **real-world software challenges** across distributed systems. 
 
-Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow** to extract insights, build **predictive models**, and implement **data-driven solutions**.
+Currently focused on **Data Analysis, Machine Learning, and Software Engineering**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow**, while applying **backend development, API design, scalable system architecture, and clean coding principles** to extract insights, build **predictive models**, and implement **robust, data-driven solutions**.
 
 Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop robust, scalable, and production-ready systems.
 
