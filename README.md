@@ -21,8 +21,6 @@
 - Evaluated models using **accuracy and loss functions** (Mean Squared Error)  
 - Applied **mathematical modeling** for dynamic systems, e.g., **SIR epidemiological model** with ODEs  
 
-🔗 [Machine Learning Repo](https://github.com/Dreamerol/Machine_Learning_repo)
-
 ---
 
 ### Data Analysis & Modeling
