@@ -70,10 +70,11 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 - Worked on **predictive modeling with datasets of 50K+ entries**, achieving actionable insights for business decisions  
 - Conducted exploratory data analysis and dynamic simulations, reducing processing time by **~30%** via optimized pipelines  
 
-💻 **Software Engineering & Core Skills**
-- Developed backend systems, data pipelines, and modular functional components for **scalable software solutions**  
-- Built and optimized core algorithms and **REST API integrations**  
-- Applied **Git, code reviews, and Agile practices** in collaborative projects  
+## 💻 Software Engineering & Core Skills
+- Developed **backend systems, modular functional components, and data pipelines** for scalable software solutions  
+- Built and optimized **core algorithms and REST API integrations**  
+- Applied **version control (Git), code reviews, and Agile practices** in collaborative environments  
+- Designed **clean, maintainable, and efficient code** for practical applications    
 
 🧠 **Neural Networks & Machine Learning**
 - Designed and trained Neural Networks with **TensorFlow** and custom scratch implementations  
