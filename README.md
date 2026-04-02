@@ -83,14 +83,16 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 - Processed datasets ranging from **5K to 100K+ rows**, including real-world and simulated data  
 - Solved real-world problems and gained hands-on experience in applied ML, data-driven solutions, and AI projects
 
-💡 **Key Competencies & Tools**
-- **Algorithms & Data Structures** – Python & C++  
-- Functional Programming – modular, clean, maintainable code  
-- Backend & Systems: REST APIs, data processing, distributed systems  
-- Tools: Git, VS Code, IntelliJ IDEA
-
 ---
 
+## 💡 Key Competencies & Tools
+- **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
+- **Functional Programming** – modular, clean, maintainable code  
+- **Backend & Systems:** REST APIs, data processing, distributed systems  
+- **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
+- Strong computational thinking and real-world problem-solving skills  
+
+---
 ## 🔑 Technical Skills
 
 ### 🖥 Programming
