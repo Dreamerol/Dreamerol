@@ -24,8 +24,7 @@
 
  ### <p align="center">
   ✨ <strong><em>Turning data into insights</em></strong> through <strong>Python, SQL & Machine Learning</strong> ✨<br>
-  💡 Making sense of messy data, one query and neural network at a time! 🧠🚀
-</p>
+ 
 
 ---
 
