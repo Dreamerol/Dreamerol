@@ -121,7 +121,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ## 🌎 Selected Projects
 
-### 📊 Neural Networks
+## 📊 Neural Networks
 
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 **Focus:** Machine Learning, AI, Neural Networks  
@@ -131,7 +131,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-### 💹 Profit Predictor
+## 💹 Profit Predictor
 
 **Tech Stack:** Python, Pandas, Scikit-learn  
 **Focus:** Data Analysis, Machine Learning  
@@ -141,7 +141,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-### 💊 Placebo Effect
+## 💊 Placebo Effect
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
 **Focus:** Data Analysis, Statistics, Experimental Design  
