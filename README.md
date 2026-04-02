@@ -76,8 +76,10 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 
 🧠 **Neural Networks & Machine Learning**
 - Designed and trained Neural Networks with **TensorFlow** and custom scratch implementations  
-- Applied **backprop, gradient descent, and ML** for predictions, vector classification, and simulations  
-- Evaluated models using accuracy and loss metrics (MSE), including SIR epidemiological models with ODEs  
+- Applied **backprop, gradient descent, and ML** for predictions, vector classification (2D/3D), and simulations  
+- Evaluated models using **accuracy up to 92%**, **loss metrics (MSE)**, and implemented **SIR epidemiological models with ODEs**  
+- Processed datasets ranging from **5K to 100K+ rows**, including real-world and simulated data  
+- Solved real-world problems and gained hands-on experience in applied ML, data-driven solutions, and AI projects
 
 💡 **Key Competencies & Tools**
 - **Algorithms & Data Structures** – Python & C++  
