@@ -21,7 +21,7 @@
 
 ---
  
-## Junior Data Analyst & SWE Engineer | Python, C++, SQL, ML, Data Analysis, Backend, APIs, Scalable Systems
+⭐ Turning data into insights through **Python, SQL, C++, ML, Data Analysis, Backend, APIs, FastAPI, Docker** ⭐
 
 ---
 
