@@ -25,14 +25,7 @@
 
 ---
 
-💜 **Highlights**
-
-### 🌟 Neural Networks & Machine Learning
-- Designed and implemented **Neural Networks** using **TensorFlow** and custom implementations from scratch  
-- Built **backpropagation** and **gradient descent** manually to optimize weights  
-- Applied neural networks for **vector classification** (2D Quadrants, 3D Octants) and **sin(x) prediction**  
-- Evaluated models with **accuracy and loss metrics** (Mean Squared Error)  
-- Applied **mathematical modeling** for dynamic systems, including the **SIR epidemiological model** using ODEs  
+🌟 **Highlights**
 
 ---
 
@@ -57,7 +50,16 @@
 - **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
 - Strong **computational thinking** and **real-world problem-solving** skills
 
-- ---
+---
+
+### 🤖 Neural Networks & Machine Learning
+- Designed and implemented **Neural Networks** using **TensorFlow** and custom implementations from scratch  
+- Built **backpropagation** and **gradient descent** manually to optimize weights  
+- Applied neural networks for **vector classification** (2D Quadrants, 3D Octants) and **sin(x) prediction**  
+- Evaluated models with **accuracy and loss metrics** (Mean Squared Error)  
+- Applied **mathematical modeling** for dynamic systems, including the **SIR epidemiological model** using ODEs  
+
+---
 
 ## 🔑 Technical Skills
 
@@ -157,6 +159,8 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 - 💡 Data structures & Algorithms
 - 🧮 Databases SQL
 - 🐬 Numerical Analysis
+
+---
 
 ## 🛠 Tech Stack
 Python | SQL | Pandas | Power BI | Machine Learning
