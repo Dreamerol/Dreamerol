@@ -158,22 +158,6 @@ Covered topics such as graphs, trees, dynamic programming, and sorting
 
 ---
 
-## 🔑 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
-
-• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴: Python, C++, Java, SQL, Clojure (ClojureScript)
-
-• 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: Data Structures & Algorithms, Object-Oriented Programming (OOP), Modular & Scalable Design, Functional Programming
-
-• 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Pandas, NumPy, Matplotlib, Data Visualization, Statistical Analysis
-
-• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Neural Networks, TensorFlow, Backpropagation, Gradient Descent, Model Evaluation, Loss Functions (MSE), Predictive Modeling
-
-• 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝗮𝗹 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴: ODEs, SIR Models, Dynamic Systems
-
-• 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵: Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
-
----
-
 ## 🌎 Selected Projects
 
 ### 📊 Neural Networks
