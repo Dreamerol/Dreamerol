@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center">Work Hard, Code Harder | Junior Data Analyst & SWE Engineer | Python, SQL, C++, ML, Data, Backend, APIs</h3>
+<h3 align="center">• Work Hard, Code Harder | Junior Data Analyst & SWE Engineer | Python, SQL, C++, ML, Data, Backend, APIs •</h3>
 
 ---
 
