@@ -215,4 +215,4 @@ Data + AI + Software Engineering | Building scalable solutions for real-world pr
 
 ---
 
-###  ⭐ *Feel free to explore the projects and give a star if you find them interesting ✨*
+<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ✨</em></h3>
