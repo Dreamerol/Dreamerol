@@ -3,8 +3,6 @@
 
 ![my-banner](Banner-7.PNG)
 
-# Hi, I'm Mihaela Koseva 👋
-
 💻 **Data Analyst & Software Engineer**  
 📊 Turning data into insights through Python, SQL & Machine Learning  
 
