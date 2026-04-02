@@ -22,8 +22,9 @@
 ---
 
 
-
 ###  ✨   **_Turning data into insights_** through **Python, SQL & Machine Learning**   ✨
+
+---
 
 ## Featured Projects
 
@@ -49,9 +50,6 @@
     </td>
   </tr>
 </table>
-
----
-
 
 ---
 
