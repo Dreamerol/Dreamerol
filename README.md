@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center">**JUNIOR DATA ANALYST & SOFTWARE ENGINEER | ML, DATA ANALYSIS, BACKEND, APIs, SCALABLE SYSTEMS**</h3>
+<h3 align="center">**Junior Data Analyst & Software Engineer | ML, Data Analysis, Backend, APIs, Scalable Systems**</h3>
 
 ---
 
