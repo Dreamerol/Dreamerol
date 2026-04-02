@@ -73,7 +73,6 @@ Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, 
 - Applied backprop, gradient descent & ML for predictions, vector classification (2D/3D), sin(x)
 - Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
 - Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**  
-- Built practical skills tailored for **junior SWE, ML, and AI roles**, ready to contribute to real projects
 
 ---
 
