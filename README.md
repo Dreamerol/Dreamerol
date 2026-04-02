@@ -83,7 +83,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-## 💡 Key Takeaways
+## 🔑 Key Takeaways
 - Strong foundation in **CS fundamentals** (Algorithms, DS, C++)  
 - Practical experience with **Data & Machine Learning projects**  
 - Capable of **bridging theoretical knowledge and practical implementations**  
