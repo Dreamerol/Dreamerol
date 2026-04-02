@@ -81,7 +81,8 @@
 ### 🧠 **Neural Networks & Machine Learning**  
 
 - Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
-- Applied **backpropagation**, **gradient descent**, and **mathematical modeling** for **predictive modeling**, vector classification (2D/3D), and **sin(x) prediction**  
+- Applied **backpropagation**, **gradient descent**, and **mathematical modeling** for **predictive modeling**,
+  **vector classification (2D/3D)**, and **sin(x) prediction**
 - Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
 - Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**  
 - Built practical skills tailored for **junior SWE, ML, and AI roles**, ready to contribute to real projects
