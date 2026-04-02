@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Python, C++, SQL | ML, Data Analysis | Backend, APIs, FastAPI ✨</h3>
+<h3 align="center">✨ Junior Data Analyst & Software Engineer | Work Hard, Code Harder ✨</h3>
 
 ---
 
