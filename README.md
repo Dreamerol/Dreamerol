@@ -27,7 +27,7 @@
 
 🌟 **Highlights**
 
----
+
 
 ### 📊 Data Analysis & Modeling
 - Manipulated and visualized data with **Pandas, NumPy, and Matplotlib**  
