@@ -170,7 +170,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-##Junior Data Analyst & Software Engineer @ FMI, with a strong foundation in algorithms, data structures, problem-solving, and applied mathematics.
+Junior Data Analyst & Software Engineer @ FMI, with a strong foundation in algorithms, data structures, problem-solving, and applied mathematics.
 
 Gained hands-on experience as a Software Development Intern, working on real-world systems with Python, Java and Clojure/ClojureScript, including API integrations and data processing workflows. Applied core algorithms and system integration principles while working with data transfer, transformation, and synchronization across distributed systems.
 
