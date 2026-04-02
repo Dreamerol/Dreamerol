@@ -5,7 +5,6 @@
 
 ---
 
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -24,7 +23,7 @@
 
 📊 **_Turning data into insights_** through **Python, SQL & Machine Learning** ✨
 
-
+---
 
 ### 📊 Data Analysis & Modeling
 - Manipulated and visualized data with **Pandas, NumPy, and Matplotlib**  
