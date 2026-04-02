@@ -77,7 +77,6 @@ Covered topics such as graphs, trees, dynamic programming, and sorting
 
 ---
 
-
 ## 🔑 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
 
 • 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴: Python, C++, Java, SQL, Clojure (ClojureScript)
@@ -92,6 +91,7 @@ Covered topics such as graphs, trees, dynamic programming, and sorting
 
 • 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵: Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
+---
 
 ### 📊 Neural Networks
 
