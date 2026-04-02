@@ -127,7 +127,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 ---
 
 
-## 🌎 Selected Projects
+## ✨ Selected Projects
 
 ## 📊 Neural Networks
 
