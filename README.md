@@ -180,14 +180,6 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-Junior Data Analyst & Software Engineer @ FMI, with a strong foundation in algorithms, data structures, problem-solving, and applied mathematics.
-
-Gained hands-on experience as a Software Development Intern, working on real-world systems with Python, Java and Clojure/ClojureScript, including API integrations and data processing workflows. Applied core algorithms and system integration principles while working with data transfer, transformation, and synchronization across distributed systems.
-
-Currently focusing on Data Analysis & Machine Learning, with practical experience in Python and SQL, using tools such as Pandas, NumPy, and Matplotlib to extract insights and build data-driven solutions. Actively developing machine learning skills and applying models to real-world problems.
-
----
-
 ## About the Repositories
 
 I design and build scalable, data-driven systems by combining Software Engineering, Data Analysis, and Machine Learning. My work focuses on transforming complex data into reliable, production-ready solutions that solve real-world problems.
