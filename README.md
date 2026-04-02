@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Projects & Highlights
+## Highlights
 
 ### Neural Networks & Machine Learning
 - Designed and implemented **Neural Networks** with **TensorFlow** and custom implementations from scratch  
