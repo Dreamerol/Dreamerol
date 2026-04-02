@@ -22,8 +22,8 @@
 ---
 
 
-<p align="center">
-  ### ✨ <strong><em>Turning data into insights</em></strong> through <strong>Python, SQL & Machine Learning</strong> ✨
+ ### <p align="center">
+ ✨ <strong><em>Turning data into insights</em></strong> through <strong>Python, SQL & Machine Learning</strong> ✨
 </p>
 
 ---
