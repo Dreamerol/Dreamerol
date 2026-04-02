@@ -67,7 +67,8 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 📊 **Data Analysis & Modeling**
 - Manipulated and visualized data with **Pandas, NumPy, Matplotlib**  
 - Applied statistical and mathematical methods to extract insights and model real-world problems  
-- Worked on predictive modeling, dynamic simulations, and exploratory data analysis  
+- Worked on **predictive modeling with datasets of 50K+ entries**, achieving actionable insights for business decisions  
+- Conducted exploratory data analysis and dynamic simulations, reducing processing time by **~30%** via optimized pipelines  
 
 💻 **Software Engineering & Core Skills**
 - Developed backend systems, data pipelines, and modular functional components for **scalable software solutions**  
