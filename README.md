@@ -178,15 +178,14 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ## About the Repositories
 
-I design and build scalable, data-driven systems by combining Software Engineering, Data Analysis, and Machine Learning. My work focuses on transforming complex data into reliable, production-ready solutions that solve real-world problems.
+Junior Data Analyst & Software Engineer with a strong focus on building scalable, data-driven solutions. Combines Data Analysis, Machine Learning, and Software Engineering to deliver reliable, production-ready systems that solve real-world problems.
 
-I have experience developing end-to-end projects, including data processing pipelines, predictive models, and backend logic, with a strong emphasis on clean architecture, performance optimization, and maintainability.
+Hands-on experience with end-to-end project development, including data processing pipelines, predictive modeling, and backend logic. Strong emphasis on clean code, performance optimization, and maintainable architecture.
 
-My technical background includes Data Structures and Algorithms, database design, and writing efficient SQL queries, allowing me to build systems that are both robust and scalable.
+Technical skills include Python, SQL, Data Structures and Algorithms, and database design. Experience working with key data and ML tools such as Pandas, NumPy, Scikit-learn, and TensorFlow, as well as data visualization using Matplotlib and Seaborn.
 
-At ZigiWave, I contributed to real-world projects involving data analysis, reporting systems, SQL optimization, and process automation. My work supported business operations by delivering actionable insights and improving efficiency through data-driven solutions.
-
-I approach every project with an engineering mindset — focusing on scalability, reliability, and long-term maintainability.
+Professional experience at ZigiWave includes data analysis, reporting systems, SQL optimization, and process automation, contributing to improved efficiency and data-driven decision-making.
+Detail-oriented and analytical, with a proactive approach to problem-solving and a strong interest in continuous learning and professional growth.
 
 🔹 Data Analytics & Reporting System
 
