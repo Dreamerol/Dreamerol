@@ -25,7 +25,7 @@
 
 ---
 
-🌟 **Highlights**
+🌟 Highlights
 
 
 
