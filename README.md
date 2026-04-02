@@ -25,6 +25,32 @@
 
 ###  ✨   **_Turning data into insights_** through **Python, SQL & Machine Learning**   ✨
 
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+        <img src="NN.webp" width="250" height="150" style="object-fit: cover;"/>
+      </a><br>
+      <b>Neural Networks</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
+        <img src="https://images.unsplash.com/photo-1737703638422-2cfa152cdcb7?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250" height="150" style="object-fit: cover;"/>
+      </a><br>
+      <b>Profit Predictor</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
+        <img src="API_Placebo_Effect.webp" width="250" height="150" style="object-fit: cover;"/>
+      </a><br>
+      <b>Placebo Effect</b>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ---
@@ -89,33 +115,6 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 - Practical experience with **Data & Machine Learning projects**  
 - Capable of **bridging theoretical knowledge and practical implementations**  
 - Ready for **junior/mid-level SWE roles** or **data/ML internships**
-
----
-
-## Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-        <img src="NN.webp" width="250" height="150" style="object-fit: cover;"/>
-      </a><br>
-      <b>Neural Networks</b>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
-        <img src="https://images.unsplash.com/photo-1737703638422-2cfa152cdcb7?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250" height="150" style="object-fit: cover;"/>
-      </a><br>
-      <b>Profit Predictor</b>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
-        <img src="API_Placebo_Effect.webp" width="250" height="150" style="object-fit: cover;"/>
-      </a><br>
-      <b>Placebo Effect</b>
-    </td>
-  </tr>
-</table>
 
 ---
 
