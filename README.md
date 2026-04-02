@@ -36,7 +36,7 @@
 
 ---
 
-### 💻 Software Engineering
+### 💻 Software Engineering & Core Skills
 - Developed **backend systems**, **data pipelines**, and **modular functional components** for **scalable software solutions**  
 - Built and optimized **core algorithms** and **REST API integrations** for real-world workflows  
 - Applied **version control, code reviews, and Agile practices** in collaborative development environments  
