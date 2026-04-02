@@ -21,7 +21,7 @@
 
 ---
  
-⭐ *Turning data into insights through* **Python, SQL, C++, ML, Data Analysis, Backend, APIs, FastAPI, Docker** ⭐
+✨ *Turning data into insights through* **Python, SQL, C++, ML, Data Analysis, Backend, APIs, FastAPI, Docker** ✨
 
 ---
 
