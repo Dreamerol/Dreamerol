@@ -52,12 +52,13 @@
 
 ---
 
-### 🤖 Neural Networks & Machine Learning
-- Designed and implemented **Neural Networks** using **TensorFlow** and custom implementations from scratch  
-- Built **backpropagation** and **gradient descent** manually to optimize weights  
-- Applied neural networks for **vector classification** (2D Quadrants, 3D Octants) and **sin(x) prediction**  
-- Evaluated models with **accuracy and loss metrics** (Mean Squared Error)  
-- Applied **mathematical modeling** for dynamic systems, including the **SIR epidemiological model** using ODEs  
+### 🧠 **Neural Networks & Machine Learning**  
+
+- Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
+- Applied **backpropagation**, **gradient descent**, and **mathematical modeling** for **predictive modeling**, vector classification (2D/3D), and **sin(x) prediction**  
+- Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
+- Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**  
+- Built practical skills tailored for **junior SWE, ML, and AI roles**, ready to contribute to real projects
 
 ---
 
