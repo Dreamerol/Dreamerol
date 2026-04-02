@@ -52,15 +52,9 @@
 
 ---
 
-Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**. 
+Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**. Hands-on experience in **end-to-end development**, including **backend systems, scalable workflows, and data pipelines**, using **Python, Java, and Clojure/ClojureScript**. Strong focus on **clean code, performance, and maintainability**. Applies **core algorithms, functional programming, modular design, API integrations, and version control (Git)** to solve **real-world software challenges** across distributed systems. 
 
-Hands-on experience in **end-to-end development**, including **backend systems, scalable workflows, and data pipelines**, using **Python, Java, and Clojure/ClojureScript**. Strong focus on **clean code, performance, and maintainability**.
-
-Applies **core algorithms, functional programming, modular design, API integrations, and version control (Git)** to solve **real-world software challenges** across distributed systems. 
-
-Currently focused on **Data Analysis, Machine Learning, and Software Engineering**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow**, while applying **backend development, API design, scalable system architecture, and clean coding principles** to extract insights, build **predictive models**, and implement **robust, data-driven solutions**.
-
-Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop robust, scalable, and production-ready systems.
+Currently focused on **Data Analysis, Machine Learning, and Software Engineering**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow**, while applying **backend development, API design, scalable system architecture, and clean coding principles** to extract insights, build **predictive models**, and implement **robust, data-driven solutions**. Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop robust, scalable, and production-ready systems.
 
 ---
 
