@@ -55,35 +55,29 @@
 - **Functional Programming** – modular, clean, maintainable code  
 - **Backend & Systems:** REST APIs, Data Processing, Distributed Systems  
 - **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
-- Strong **computational thinking** and **real-world problem-solving** skills  
+- Strong **computational thinking** and **real-world problem-solving** skills
 
----
+- ---
 
-## 📊 Selected Projects
+## 🔑 Technical Skills
 
-### 🤖 Neural Networks
-**Tech Stack:** Python, TensorFlow, NumPy, Pandas  
-**Focus:** Machine Learning, AI, Neural Networks  
-- Built neural network models to predict outcomes in various fields  
-- Applied **backpropagation, gradient descent**, and optimization  
-- Visualized results and analyzed performance metrics  
-- Achieved **high accuracy on vector classification and sin(x) prediction tasks**
+### 🖥 Programming
+Python, C++, Java, SQL, Clojure (ClojureScript)
 
-### 💹 Profit Predictor
-**Tech Stack:** Python, Pandas, Scikit-learn  
-**Focus:** Data Analysis, Machine Learning  
-- Built predictive models for financial and business data  
-- Analyzed trends and visualized key metrics  
-- Improved model accuracy by **15% through preprocessing and feature engineering**  
-- Supported **data-driven business decision making**
+### 🏗 Software Engineering
+Data Structures & Algorithms, Modular & Scalable Design, Functional Programming, Object-Oriented Programming (OOP)
 
-### ⚗️ Placebo Effect
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib  
-**Focus:** Data Analysis, Statistics, Experimental Design  
-- Studied placebo effect using real-world datasets  
-- Performed statistical analysis and visualized outcomes  
-- Applied **data cleaning, exploratory data analysis (EDA)**, and result interpretation  
-- Extracted **actionable insights for experimental studies**
+### 📊 Data Analysis
+Pandas, NumPy, Matplotlib, Data Visualization, Statistical Analysis
+
+### 🤖 Machine Learning
+Neural Networks, TensorFlow, Backpropagation, Gradient Descent, Model Evaluation, Loss Functions (MSE), Predictive Modeling
+
+### 📐 Mathematical Modeling
+ODEs, SIR Models, Dynamic Systems
+
+### 🛠 Tools & Tech
+Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
