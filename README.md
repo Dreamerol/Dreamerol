@@ -8,11 +8,24 @@
 💻 **Data Analyst & Software Engineer**  
 📊 Turning data into insights through Python, SQL & Machine Learning  
 
-🚀 **Python | SQL | C++ | Machine Learning | Algorithms & Data Structures**
+### 🛠 Tech Stack & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=clojure&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 💡 Highlights
+💜 **Highlights**
 
 ### 🌟 Neural Networks & Machine Learning
 - Designed and implemented **Neural Networks** using **TensorFlow** and custom implementations from scratch  
@@ -31,20 +44,46 @@
 ---
 
 ### 💻 Software Engineering & Core Skills
-
 - Developed **backend systems**, **data pipelines**, and **modular functional components** for **scalable software solutions**  
 - Built and optimized **core algorithms** and **REST API integrations** for real-world workflows  
 - Applied **version control, code reviews, and Agile practices** in collaborative development environments  
 - Designed **maintainable, clean, and efficient code** for practical software applications  
-- Gained **real-world experience** as a junior software developer in collaborative projects
-  
-  
+- Gained **real-world experience** as a junior software developer in collaborative projects  
+
 **Core Technical Skills:**  
 - **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
 - **Functional Programming** – modular, clean, maintainable code  
 - **Backend & Systems:** REST APIs, Data Processing, Distributed Systems  
 - **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
-- Strong **computational thinking** and **real-world problem-solving** skills
+- Strong **computational thinking** and **real-world problem-solving** skills  
+
+---
+
+## 📊 Selected Projects
+
+### 🤖 Neural Networks
+**Tech Stack:** Python, TensorFlow, NumPy, Pandas  
+**Focus:** Machine Learning, AI, Neural Networks  
+- Built neural network models to predict outcomes in various fields  
+- Applied **backpropagation, gradient descent**, and optimization  
+- Visualized results and analyzed performance metrics  
+- Achieved **high accuracy on vector classification and sin(x) prediction tasks**
+
+### 💹 Profit Predictor
+**Tech Stack:** Python, Pandas, Scikit-learn  
+**Focus:** Data Analysis, Machine Learning  
+- Built predictive models for financial and business data  
+- Analyzed trends and visualized key metrics  
+- Improved model accuracy by **15% through preprocessing and feature engineering**  
+- Supported **data-driven business decision making**
+
+### ⚗️ Placebo Effect
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib  
+**Focus:** Data Analysis, Statistics, Experimental Design  
+- Studied placebo effect using real-world datasets  
+- Performed statistical analysis and visualized outcomes  
+- Applied **data cleaning, exploratory data analysis (EDA)**, and result interpretation  
+- Extracted **actionable insights for experimental studies**
 
 ---
 
