@@ -71,21 +71,23 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 
 ---
 
-### 🧠 **Neural Networks & Machine Learning**  
-
-- Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
-- Applied backprop, gradient descent & ML for predictions, vector classification (2D/3D), sin(x)
-- Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
-- Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**  
-
----
-
 ### 💻 Software Engineering & Core Skills
 - Developed **backend systems**, **data pipelines**, and **modular functional components** for **scalable software solutions**  
 - Built and optimized **core algorithms** and **REST API integrations** for real-world workflows  
 - Applied **version control, code reviews, and Agile practices** in collaborative development environments  
 - Designed **maintainable, clean, and efficient code** for practical software applications  
-- Gained **real-world experience** as a junior software developer in collaborative projects  
+- Gained **real-world experience** as a junior software developer in collaborative projects
+
+---
+
+  ### 🧠 **Neural Networks & Machine Learning**  
+
+- Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
+- Applied backprop, gradient descent & ML for predictions, vector classification (2D/3D), sin(x)
+- Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
+- Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**
+
+---
 
 ### **💡 Key Competencies & Tools:**  
 - **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
