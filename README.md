@@ -19,7 +19,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
----
+
 
 📊 **_Turning data into insights_** through **Python, SQL & Machine Learning** ✨
 
