@@ -1,7 +1,7 @@
 
 
 
-![my-banner](Banner-SMALL.PNG)
+![my-banner](Banner-SMALL.png)
 
 ---
 
