@@ -21,7 +21,7 @@
 
 ---
  
-<h2 align="center">✨ <strong><em>Turning data into insights</em></strong> <em>through</em> <strong> : Python, SQL & Machine Learning</strong> ✨</h2>
+Junior Data Analyst & SWE Engineer | Python, C++, SQL | ML, Data Analysis | Backend, APIs, Scalable Systems
 
 ---
 
