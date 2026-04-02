@@ -5,8 +5,10 @@
 
 ---
 
-💻 **Data Analyst & Software Engineer**  
+💻 Data Analyst & Software Engineer
 📊 Turning data into insights through Python, SQL & Machine Learning  
+
+---
 
 ### 🛠 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
