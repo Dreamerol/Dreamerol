@@ -64,37 +64,26 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 
 <h2 align="center">✨ <strong>HIGHLIGHTS</strong> ✨</h2>
 
-### 📊 Data Analysis & Modeling
-- Manipulated and visualized data with **Pandas, NumPy, and Matplotlib**  
-- Applied **statistical and mathematical methods** to extract insights and model real-world problems  
-- Worked on **predictive modeling, dynamic simulations, and exploratory data analysis**  
+📊 **Data Analysis & Modeling**
+- Manipulated and visualized data with **Pandas, NumPy, Matplotlib**  
+- Applied statistical and mathematical methods to extract insights and model real-world problems  
+- Worked on predictive modeling, dynamic simulations, and exploratory data analysis  
 
----
+💻 **Software Engineering & Core Skills**
+- Developed backend systems, data pipelines, and modular functional components for **scalable software solutions**  
+- Built and optimized core algorithms and **REST API integrations**  
+- Applied **Git, code reviews, and Agile practices** in collaborative projects  
 
-### 💻 Software Engineering & Core Skills
-- Developed **backend systems**, **data pipelines**, and **modular functional components** for **scalable software solutions**  
-- Built and optimized **core algorithms** and **REST API integrations** for real-world workflows  
-- Applied **version control, code reviews, and Agile practices** in collaborative development environments  
-- Designed **maintainable, clean, and efficient code** for practical software applications  
-- Gained **real-world experience** as a junior software developer in collaborative projects
+🧠 **Neural Networks & Machine Learning**
+- Designed and trained Neural Networks with **TensorFlow** and custom scratch implementations  
+- Applied **backprop, gradient descent, and ML** for predictions, vector classification, and simulations  
+- Evaluated models using accuracy and loss metrics (MSE), including SIR epidemiological models with ODEs  
 
----
-
-  ### 🧠 **Neural Networks & Machine Learning**  
-
-- Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations for **AI applications**  
-- Applied backprop, gradient descent & ML for predictions, vector classification (2D/3D), sin(x)
-- Evaluated models using **accuracy and loss metrics** (MSE) and implemented **SIR epidemiological models** with **ODEs**  
-- Solved **real-world problems** and gained hands-on experience in **applied ML**, **data-driven solutions**, and **AI projects**
-
----
-
-### **💡 Key Competencies & Tools:**  
-- **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
-- **Functional Programming** – modular, clean, maintainable code  
-- **Backend & Systems:** REST APIs, Data Processing, Distributed Systems  
-- **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
-- Strong **computational thinking** and **real-world problem-solving** skills
+💡 **Key Competencies & Tools**
+- **Algorithms & Data Structures** – Python & C++  
+- Functional Programming – modular, clean, maintainable code  
+- Backend & Systems: REST APIs, data processing, distributed systems  
+- Tools: Git, VS Code, IntelliJ IDEA
 
 ---
 
