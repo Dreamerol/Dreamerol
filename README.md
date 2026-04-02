@@ -52,7 +52,7 @@
 
 ---
 
-### Junior Data Analyst & Software Engineer | Python, C++, SQL, ML, Data Analysis, Backend, APIs, Scalable Systems
+### Junior Data Analyst & SWE Engineer | Python, C++, SQL, ML, Data Analysis, Backend, APIs, Scalable Systems
 
 ---
 
