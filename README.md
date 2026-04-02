@@ -64,24 +64,29 @@ Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **p
 
 <h2 align="center">✨ <strong>HIGHLIGHTS</strong> ✨</h2>
 
-📊 **Data Analysis & Modeling**
+---
+
+## 📊 Data Analysis & Modeling
 - Manipulated and visualized data with **Pandas, NumPy, Matplotlib**  
-- Applied statistical and mathematical methods to extract insights and model real-world problems  
-- Worked on **predictive modeling with datasets of 50K+ entries**, achieving actionable insights for business decisions  
-- Conducted exploratory data analysis and dynamic simulations, reducing processing time by **~30%** via optimized pipelines  
+- Applied statistical and mathematical methods to extract insights from datasets of **5K–100K+ rows**  
+- Conducted **predictive modeling** and exploratory data analysis, achieving actionable insights and **30% faster data processing**  
+- Built dynamic simulations and optimized pipelines for real-world problem-solving
+
+---
 
 ## 💻 Software Engineering & Core Skills
 - Developed **backend systems, modular functional components, and data pipelines** for scalable software solutions  
 - Built and optimized **core algorithms and REST API integrations**  
 - Applied **version control (Git), code reviews, and Agile practices** in collaborative environments  
-- Designed **clean, maintainable, and efficient code** for practical applications    
+- Designed **clean, maintainable, and efficient code** for practical applications  
 
-🧠 **Neural Networks & Machine Learning**
+---
+
+## 🧠 Neural Networks & Machine Learning
 - Designed and trained Neural Networks with **TensorFlow** and custom scratch implementations  
-- Applied **backprop, gradient descent, and ML** for predictions, vector classification (2D/3D), and simulations  
-- Evaluated models using **accuracy up to 92%**, **loss metrics (MSE)**, and implemented **SIR epidemiological models with ODEs**  
-- Processed datasets ranging from **5K to 100K+ rows**, including real-world and simulated data  
-- Solved real-world problems and gained hands-on experience in applied ML, data-driven solutions, and AI projects
+- Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
+- Evaluated models using **accuracy up to 92%**, **MSE: 0.03**, and implemented **SIR epidemiological models with ODEs**  
+- Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
 
 ---
 
