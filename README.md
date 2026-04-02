@@ -8,7 +8,7 @@
 💻 **Data Analyst & Software Engineer**  
 📊 Turning data into insights through Python, SQL & Machine Learning  
 
-🚀 **Python | SQL | C++ | Machine Learning | Algorithms & Data Structures | Mathematical Modeling**
+🚀 **Python | SQL | C++ | Machine Learning | Algorithms & Data Structures**
 
 ---
 
