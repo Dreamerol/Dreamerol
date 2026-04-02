@@ -52,6 +52,11 @@
 
 ---
 
+# Hi, I'm Mihaela Koseva 👋  
+**Junior Data Analyst & Software Engineer** | **ML, Data Analysis, Backend, APIs, Scalable Systems**
+
+---
+
 Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**.
 
 Hands-on experience in **end-to-end development**, including **backend systems, scalable workflows, and data pipelines**, using **Python, Java, and Clojure/ClojureScript**. Skilled in **clean code, performance optimization, modular design, API integrations, and version control (Git)**.
