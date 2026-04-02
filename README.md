@@ -52,7 +52,6 @@
 
 ---
 
-# Hi, I'm Mihaela Koseva 👋  
 **Junior Data Analyst & Software Engineer** | **ML, Data Analysis, Backend, APIs, Scalable Systems**
 
 ---
