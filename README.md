@@ -43,7 +43,7 @@
 - Designed **maintainable, clean, and efficient code** for practical software applications  
 - Gained **real-world experience** as a junior software developer in collaborative projects  
 
-### **🛠 Core Technical Skills:**  
+### **💡 Key Competencies & Tools:**  
 - **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
 - **Functional Programming** – modular, clean, maintainable code  
 - **Backend & Systems:** REST APIs, Data Processing, Distributed Systems  
