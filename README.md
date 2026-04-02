@@ -161,6 +161,16 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 ## 🛠 Tech Stack
 Python | SQL | Pandas | Power BI | Machine Learning
 
+🛠 **Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/-MachineLearning-FF6F00?style=flat)
+
 ---
 
 Junior Data Analyst & Software Engineer @ FMI, with a strong foundation in algorithms, data structures, problem-solving, and applied mathematics.
