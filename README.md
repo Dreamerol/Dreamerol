@@ -25,7 +25,7 @@
  ### <p align="center">
   ✨ <strong><em>Turning data into insights</em></strong> through <strong>Python, SQL & Machine Learning</strong> ✨<br>
  
-
+<h2 align="center">✨ <strong>Turning data into insights</em></strong> through <strong>Python, SQL & Machine Learnin</strong> ✨</h2>
 ---
 
 <h2 align="center">Featured Projects</h2>
