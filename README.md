@@ -25,11 +25,6 @@
 
 ---
 
-**Highlights** 🌟
-**Data Analysis & Modeling** 📊
-
-
-
 ### 📊 Data Analysis & Modeling
 - Manipulated and visualized data with **Pandas, NumPy, and Matplotlib**  
 - Applied **statistical and mathematical methods** to extract insights and model real-world problems  
