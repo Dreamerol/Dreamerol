@@ -5,7 +5,11 @@
 
 # Hi, I'm Mihaela Koseva 👋
 
-💻 **Data Analyst & Software Engineer**  📊 **Turning data into insights with Python, SQL & AI**  📊 **Python | SQL | Machine Learning | Data Engineering | Scalable Systems**
+💻 **Data Analyst & Software Engineer**  
+📊 Turning data into insights through Python, SQL & Machine Learning  
+⚙️ Backend & Functional Programming • Building scalable systems
+
+🚀 **Python | SQL | Machine Learning | Data Engineering | Algorithms & Data Structures | Scalable Systems**
 
 ## Featured Projects
 
