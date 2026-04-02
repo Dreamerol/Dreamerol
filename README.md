@@ -30,11 +30,21 @@
 
 ---
 
-### 💻 Core Software Engineering Skills
+### 💻 Software Engineering & Core Skills
+
+- Developed **backend systems**, **data pipelines**, and **modular functional components** for **scalable software solutions**  
+- Built and optimized **core algorithms** and **REST API integrations** for real-world workflows  
+- Applied **version control, code reviews, and Agile practices** in collaborative development environments  
+- Designed **maintainable, clean, and efficient code** for practical software applications  
+- Gained **real-world experience** as a junior software developer in collaborative projects
+  
+  
+**Core Technical Skills:**  
 - **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
 - **Functional Programming** – modular, clean, maintainable code  
-- **Version Control & Tools** – Git, VS Code, IntelliJ IDEA  
-- Strong **problem-solving** and **computational thinking** for real-world scenarios
+- **Backend & Systems:** REST APIs, Data Processing, Distributed Systems  
+- **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
+- Strong **computational thinking** and **real-world problem-solving** skills
 
 ---
 
