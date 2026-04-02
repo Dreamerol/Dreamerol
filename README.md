@@ -1,7 +1,7 @@
 
 
 
-![my-banner](Banner-7.PNG)
+![my-banner](Banner-SMALL.PNG)
 
 ---
 
@@ -98,7 +98,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
   <tr>
     <td align="center">
       <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-        <img src="https://images.unsplash.com/photo-1761740533449-b8d4385e60b0?q=80&w=1100&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250" height="150" style="object-fit: cover;"/>
+        <img src="NN.webp" width="250" height="150" style="object-fit: cover;"/>
       </a><br>
       <b>Neural Networks</b>
     </td>
@@ -110,7 +110,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
     </td>
     <td align="center">
       <a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
-        <img src="https://plus.unsplash.com/premium_photo-1683120991258-2ee182b5cf27?q=80&w=363&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250" height="150" style="object-fit: cover;"/>
+        <img src="API_Placebo_Effect.webp" width="250" height="150" style="object-fit: cover;"/>
       </a><br>
       <b>Placebo Effect</b>
     </td>
