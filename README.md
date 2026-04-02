@@ -141,6 +141,8 @@ Covered topics such as graphs, trees, dynamic programming, and sorting
 
 ---
 
+## 🌎 Selected Projects
+
 ### 📊 Neural Networks
 
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
