@@ -7,9 +7,46 @@
 
 💻 **Data Analyst & Software Engineer**  
 📊 Turning data into insights through Python, SQL & Machine Learning  
-⚙️ Backend & Functional Programming • Building scalable systems
 
-🚀 **Python | SQL | Machine Learning | Data Engineering | Algorithms & Data Structures | Scalable Systems**
+🚀 **Python | SQL | C++ | Machine Learning | Algorithms & Data Structures | Mathematical Modeling**
+
+---
+
+## 🧠 Projects & Highlights
+
+### Neural Networks & Machine Learning
+- Designed and implemented **Neural Networks** with **TensorFlow** and custom implementations from scratch  
+- Implemented **backpropagation** and **gradient descent** manually for learning weights  
+- Applied neural networks for **vector classification** (2D Quadrants, 3D Octants) and **predicting sin(x)**  
+- Evaluated models using **accuracy and loss functions** (Mean Squared Error)  
+- Applied **mathematical modeling** for dynamic systems, e.g., **SIR epidemiological model** with ODEs  
+
+🔗 [Machine Learning Repo](https://github.com/Dreamerol/Machine_Learning_repo)
+
+---
+
+### Data Analysis & Modeling
+- Worked with **Pandas, NumPy, Matplotlib** for data manipulation and visualization  
+- Applied statistical and mathematical methods to extract insights and model real-world problems  
+- Projects include predictive modeling, simulation of dynamic systems, and exploratory data analysis  
+
+---
+
+### Core Software Engineering Skills
+- **Algorithms & Data Structures** – implemented and optimized in Python & C++  
+- **Functional Programming** – modular, clean, maintainable code  
+- **Version Control & Tools** – Git, VS Code, IntelliJ IDEA  
+- Strong problem-solving and computational thinking for real-world scenarios  
+
+---
+
+## 💡 Key Takeaways
+- Strong foundation in **CS fundamentals** (Algorithms, DS, C++)  
+- Practical experience with **Data & Machine Learning projects**  
+- Capable of **bridging theoretical knowledge and practical implementations**  
+- Ready for **junior/mid-level SWE roles** or **data/ML internships**
+
+---
 
 ## Featured Projects
 
