@@ -21,7 +21,11 @@
 
 ---
 
-✨ **_Turning data into insights_** through **Python, SQL & Machine Learning** ✨
+
+
+✨   **_Turning data into insights_** through **Python, SQL & Machine Learning**   ✨
+
+
 
 ---
 
