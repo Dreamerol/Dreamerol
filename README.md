@@ -52,11 +52,15 @@
 
 ---
 
-Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**. Gained **hands-on experience** developing **backend systems, scalable workflows, and data pipelines** using **Python, Java, and Clojure/ClojureScript**. Experienced in **end-to-end development** — including **data pipelines, predictive models, and backend systems** — with a strong emphasis on **clean code, performance, and maintainability**.
+Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**. 
 
-Applied **core algorithms, functional programming principles, modular design, API integrations, and version control (Git)** to solve **real-world software problems** across distributed systems. Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib**, and **TensorFlow** to extract insights, build **predictive models**, and implement **data-driven solutions**. 
+Hands-on experience in **end-to-end development**, including **backend systems, scalable workflows, and data pipelines**, using **Python, Java, and Clojure/ClojureScript**. Strong focus on **clean code, performance, and maintainability**.
 
-Tech stack includes **Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, APIs, FastAPI, Docker, and Git**, used to build **predictive models** and deliver **data-driven solutions**.
+Applies **core algorithms, functional programming, modular design, API integrations, and version control (Git)** to solve **real-world software challenges** across distributed systems. 
+
+Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow** to extract insights, build **predictive models**, and implement **data-driven solutions**.
+
+Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop robust, scalable, and production-ready systems.
 
 ---
 
