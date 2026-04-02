@@ -26,6 +26,14 @@
 
 ---
 
+Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**.  
+
+Gained **hands-on experience** developing **backend systems, scalable workflows, and data pipelines** using **Python, Java, and Clojure/ClojureScript**. Applied **core algorithms, functional programming principles, modular design, API integrations, and version control (Git)** to solve **real-world software problems** across distributed systems.  
+
+Currently focused on **Data Analysis & Machine Learning**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib**, and **TensorFlow** to extract insights, build **predictive models**, and implement **data-driven solutions**. Actively developing skills to contribute as a **junior SWE, ML engineer, or software intern**, with strong **computational thinking, problem-solving, and practical software engineering fundamentals**.
+
+---
+
 <h2 align="center">Featured Projects</h2>
 
 <table align="center">
