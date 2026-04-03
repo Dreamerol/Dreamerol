@@ -62,7 +62,7 @@ Hands-on experience in **end-to-end development**, including **backend systems, 
 
 Focused on **Data Analysis, Machine Learning, and Software Engineering**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow**, while applying **backend development, API design, scalable system architecture, and clean coding principles** to build **predictive models** and implement **robust, data-driven solutions**.
 
-Tech stack also includes **APIs, FastAPI, Docker, and Git**, used to develop **production-ready, scalable systems**.
+Tech stack also includes **APIs, FastAPI, AWS, and Git**, used to develop **production-ready, scalable systems**.
 
 ---
 
