@@ -259,6 +259,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🚀 Ready for **junior/mid-level SWE roles** or **data/ML internships**  
 - 💡 Quick learner, passionate about **solving real-world problems**  
 - ⚡ Focused on **clean code, scalable design, and efficient algorithms**
+
+  #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations #AI #MachineLearning #AppliedML #DataScience
   
 ---
 
@@ -350,6 +352,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🧮 Databases SQL
 - 🐬 Numerical Analysis
 
+  #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations #AI #MachineLearning #AppliedML #DataScience
+
 ---
 
 <p align="center">
@@ -422,7 +426,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🧪 **NEURAL NETWORKS & PLACEBO EFFECT**: Python, TensorFlow, Keras, Pandas, Matplotlib | Data preprocessing & predictive modeling  
 - 📈 **PROFIT PREDICTOR**: Python, Pandas, Scikit-learn | Time-series forecasting & accuracy improvement  
 - 📐 **MATHEMATICAL MODELING**: ODEs, SIR Models, Dynamic Systems | Python simulations  
-- ☕ **CLOJURE TASKS & API INTEGRATIONS**: Clojure, ClojureScript | Functional programming exercises  
+- ☕ **CLOJURE TASKS & API INTEGRATIONS**: Clojure, ClojureScript | Functional programming exercises
 
 
 ---
