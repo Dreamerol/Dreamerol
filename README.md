@@ -27,6 +27,8 @@
 
 <h3 align="center">✨ <em>Turning data into insights</em> → <strong>Algorithms & DS | Data Analysis, ML | Backend, APIs | Python, C++, SQL</strong> ✨</h3>
 
+<h3 align="center">✨ <em>Turning data into insights</em> → <strong>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</strong> ✨</h3>
+
 ---
 
 <h2 align="center">Featured Projects</h2>
