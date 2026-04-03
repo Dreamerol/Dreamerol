@@ -295,13 +295,13 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 - ⚡ Improved model accuracy through **data preprocessing**  
 ---
 
-## 💊 Placebo Effect
+## 💊 Placebo Effect ✨
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib  
-**Focus:** Data Analysis, Statistics, Experimental Design  
-→ Studied placebo effect using real-world datasets  
-→ Performed statistical analysis and visualized outcomes  
-→ Applied data cleaning, EDA, and result interpretation  
+- 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
+- 🎯 **Focus:** Data Analysis, Statistics, Experimental Design  
+- 🧪 Studied **placebo effect** using real-world datasets  
+- 📊 Performed **statistical analysis** and visualized outcomes  
+- ⚡ Applied **data cleaning, EDA, and result interpretation**  
 
 
 ---
