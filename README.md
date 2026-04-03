@@ -428,6 +428,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 📐 **MATHEMATICAL MODELING**: ODEs, SIR Models, Dynamic Systems | Python simulations  
 - ☕ **CLOJURE TASKS & API INTEGRATIONS**: Clojure, ClojureScript | Functional programming exercises
 
+  #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations #AI #MachineLearning #AppliedML #DataScience
+
 
 ---
 
