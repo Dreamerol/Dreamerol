@@ -193,25 +193,14 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 🔑 Technical Skills
+## 🔑 Technical Skills ✨
 
-### 🖥 Programming
-Python, C++, Java, SQL, Clojure (ClojureScript)
-
-### 🏗 Software Engineering
-Data Structures & Algorithms, Modular & Scalable Design, Functional Programming, Object-Oriented Programming (OOP)
-
-### 📊 Data Analysis
-Pandas, NumPy, Matplotlib, Data Visualization, Statistical Analysis
-
-### 🤖 Machine Learning
-Neural Networks, TensorFlow, Backpropagation, Gradient Descent, Model Evaluation, Loss Functions (MSE), Predictive Modeling
-
-### 📐 Mathematical Modeling
-ODEs, SIR Models, Dynamic Systems
-
-### 🛠 Tools & Tech
-Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
+🖥 **Programming:** Python | C++ | Java | SQL | Clojure/ClojureScript  
+🏗 **Software Engineering:** Data Structures & Algorithms | Modular & Scalable Design | Functional Programming | Object-Oriented Programming (OOP)  
+📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Data Visualization | Statistical Analysis  
+🤖 **Machine Learning:** Neural Networks | TensorFlow | Backpropagation | Gradient Descent | Model Evaluation | Loss Functions (MSE) | Predictive Modeling  
+📐 **Mathematical Modeling:** ODEs | SIR Models | Dynamic Systems  
+🛠 **Tools & Tech:** Git | Version Control | REST APIs | VS Code | IntelliJ IDEA
 
 ---
 
