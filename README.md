@@ -382,7 +382,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-### 🔹 Projects & Repositories
+### 🔹 **PROJECTS & REPOSITORIES**
 
 - 📊 **DATA ANALYTICS & REPORTING**: Python, SQL, Pandas, NumPy, Matplotlib | Automated pipelines & business reports  
 - 🎮 **RUMMIKUB**: C++ | Game logic & algorithmic problem solving  
@@ -404,6 +404,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 ---
 
 ### 🔹 Skills & Key Learnings ✨
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
