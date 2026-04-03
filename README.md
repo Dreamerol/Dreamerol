@@ -159,12 +159,13 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 💡 Key Competencies & Tools
-- **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
-- **Functional Programming** – modular, clean, maintainable code  
-- **Backend & Systems:** REST APIs, data processing, distributed systems  
-- **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
-- Strong computational thinking and real-world problem-solving skills
+## 💡 Key Competencies & Tools ✨
+
+- 🧠 **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
+- 🛠️ **Functional Programming** – modular, clean, maintainable code  
+- 🏗️ **Backend & Systems** – REST APIs, data processing, distributed systems  
+- 🔄 **Version Control & Tools** – Git, VS Code, IntelliJ IDEA  
+- 💡 Strong **computational thinking** and **real-world problem-solving skills**  
 
 
 ---
