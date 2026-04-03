@@ -22,6 +22,8 @@
 ---
 <h2 align="center">✨ <strong>Turning data into insights & Making a difference through real-world solutions</strong> ✨</h2>
 
+<h2 align="center">✨ <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> ✨</h2>
+
 <h3 align="center">
 <em>📊 Data Analysis, Applied ML | 🧠 Algorithms & Data Structures | 💻 Python, C++, SQL | 🏗 Backend, APIs</em>
 </h3>
