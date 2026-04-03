@@ -231,13 +231,29 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
  
+## 🔑 Key Takeaways ✨
 
+- 🧠 Strong foundation in **CS fundamentals** (Algorithms, Data Structures, C++)  
+- 📊 Hands-on experience with **Data & Machine Learning projects**  
+- 🔗 Capable of **bridging theory with practical implementations**  
+- 🚀 Ready for **junior/mid-level SWE roles** or **data/ML internships**  
+- 💡 Quick learner, passionate about **solving real-world problems**  
+- ⚡ Focused on **clean code, scalable design, and efficient algorithms**
+  
+---
 
-## 🔑 Key Takeaways
-- Strong foundation in **CS fundamentals** (Algorithms, DS, C++)  
-- Practical experience with **Data & Machine Learning projects**  
-- Capable of **bridging theoretical knowledge and practical implementations**  
-- Ready for **junior/mid-level SWE roles** or **data/ML internships**
+<div align="center">
+
+## 🔑 Key Takeaways ✨
+
+- 🧠 <strong>CS Fundamentals:</strong> Algorithms, Data Structures, C++  
+- 📊 <strong>Data & ML Projects:</strong> Hands-on experience with real-world datasets  
+- 🔗 <strong>Theory → Practice:</strong> Bridging knowledge with practical implementations  
+- 🚀 <strong>Career Ready:</strong> Junior/mid-level SWE roles or Data/ML internships  
+- 💡 <strong>Problem Solver:</strong> Quick learner, passionate about solving real-world problems  
+- ⚡ <strong>Clean & Efficient:</strong> Focused on clean code, scalable design, and efficient algorithms  
+
+</div>
 
 ---
 
