@@ -121,10 +121,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 Focus on **scalable, clean, and efficient workflows** for consistent results
 
   
-
-<p align="center">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
-</p>
 
 
 ---
@@ -138,11 +135,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 Focused on **scalable, robust, and production-ready solutions**
 
   
-
-<p align="center">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
-</p>
-
 
 ---
 
@@ -153,12 +146,9 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 📈 Evaluated models with **accuracy up to 92%**, **MSE: 0.03**, and implemented **SIR epidemiological models with ODEs**  
 - 🗄️ Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
 - 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results
-
   
 
-<p align="center">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
-</p>
 
 
 
