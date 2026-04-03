@@ -224,6 +224,8 @@ Covered topics such as graphs, trees, dynamic programming, and sorting
 
 Data + AI + Software Engineering | Building scalable solutions for real-world problems
 
+<h2 align="center">✨ <em>Data + AI + Software Engineering | Building scalable solutions for real-world problems</em> ✨</h2>
+
 ---
 
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ✨</em></h3>
