@@ -327,6 +327,26 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
   
 ---
 
+<h3>💾 About the Repositories</h3>
+
+<p>Junior Data Analyst & Software Engineer 🚀 building <strong>scalable, data-driven solutions</strong> to tackle <strong>real-world problems</strong> 🌍. Passionate about <em>Data Analysis, ML & Software Engineering</em>.</p>
+
+<h4>🔹 Key Highlights</h4>
+<ul>
+  <li>🛠 End-to-end project development: pipelines, predictive models, backend logic</li>
+  <li>⚡ Focus on clean code, performance, maintainable architecture</li>
+  <li>📊 Tools & Skills: Python, SQL, Data Structures & Algorithms, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn</li>
+  <li>💡 Early career experience: data analysis, reporting, SQL optimization, automation</li>
+</ul>
+
+<h4>🔹 Projects</h4>
+<ul>
+  <li>📊 <strong>Data Analytics & Reporting</strong>: Automated pipelines & reports for actionable insights</li>
+  <li>🤖 <strong>ML Prediction Model</strong>: Predictive models for healthcare & physics, optimized for accuracy</li>
+  <li>🧩 <strong>Algorithms & DS</strong>: Solved complex algorithmic problems, covering graphs, trees, DP, sorting</li>
+</ul>
+
+---
 
 ## About the Repositories
 
