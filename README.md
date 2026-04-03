@@ -52,16 +52,6 @@
 
 ---
 
-<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Python, SQL, C++, ML, Data, Backend, APIs ✨</h3>
-
-<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Python, SQL, C++, ML, Data, Backend, APIs | Algorithms & DS ✨</h3>
-
-<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs ✨</h3>
-
-<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Data, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs ✨</h3>
-
-<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | Backend, APIs ✨</h3>
-
 <h3 align="center">✨ Junior Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Backend, APIs | Python, C++, SQL ✨</h3>
 
 ---
