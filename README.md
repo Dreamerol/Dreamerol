@@ -276,13 +276,13 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ## ✨ Selected Projects
 
-## 📊 Neural Networks
+## 📊 Neural Networks ✨
 
-**Tech Stack:** Python, TensorFlow, NumPy, Pandas  
-**Focus:** Machine Learning, AI, Neural Networks  
-→ Built neural network models to predict outcomes in various fields  
-→ Applied backpropagation, gradient descent, and optimization  
-→ Visualized results and analyzed performance metrics  
+- 🛠️ **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
+- 🎯 **Focus:** Machine Learning, AI, Neural Networks  
+- 🤖 Built **neural network models** to predict outcomes in various fields  
+- ⚡ Applied **backpropagation, gradient descent, and optimization**  
+- 📈 Visualized results and analyzed **performance metrics**  
 
 ---
 
