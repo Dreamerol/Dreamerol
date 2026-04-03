@@ -63,6 +63,20 @@
 
 ---
 
+<div align="center">
+
+Junior <strong>Data Analyst & Software Engineer</strong> @ FMI with a strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
+
+Hands-on experience in <strong>end-to-end development</strong>, including <strong>backend systems, scalable workflows, and data pipelines</strong>, using <strong>Python, Java, and Clojure/ClojureScript</strong>. Skilled in <strong>clean code, performance optimization, modular design, API integrations, and version control (Git)</strong>.<br><br>
+
+Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, leveraging <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow</strong>, while applying <strong>backend development, API design, scalable system architecture, and clean coding principles</strong> to build <strong>predictive models</strong> and implement <strong>robust, data-driven solutions</strong>.<br><br>
+
+Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to develop <strong>production-ready, scalable systems</strong>.
+
+</div>
+
+---
+
 Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**.
 
 Hands-on experience in **end-to-end development**, including **backend systems, scalable workflows, and data pipelines**, using **Python, Java, and Clojure/ClojureScript**. Skilled in **clean code, performance optimization, modular design, API integrations, and version control (Git)**.
