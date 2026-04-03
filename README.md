@@ -33,18 +33,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Key Takeaways](#key-takeaways)
-- [Technical Skills](#technical-skills)
-- [Data Analysis & Modeling](#data-analysis--modeling)
-- [Neural Networks & Machine Learning](#neural-networks--machine-learning)
-- [Projects](#projects)
-- [Future Goals](#future-goals)
-
-
----
-
 
 <h2 align="center">Featured Projects</h2>
 
