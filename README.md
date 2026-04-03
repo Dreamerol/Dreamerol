@@ -77,6 +77,20 @@
 
 ---
 
+<div align="center" style="line-height:1.4;">
+
+Junior <strong>Data Analyst & Software Engineer</strong> @ FMI with a strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br>
+
+Hands-on experience in <strong>end-to-end development</strong>, including <strong>backend systems, scalable workflows, and data pipelines</strong>, using <strong>Python, Java, and Clojure/ClojureScript</strong>. Skilled in <strong>clean code, performance optimization, modular design, API integrations, and version control (Git)</strong>.<br>
+
+Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, leveraging <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow</strong>, while applying <strong>backend development, API design, scalable system architecture, and clean coding principles</strong> to build <strong>predictive models</strong> and implement <strong>robust, data-driven solutions</strong>.<br>
+
+Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to develop <strong>production-ready, scalable systems</strong>.
+
+</div>
+
+---
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
