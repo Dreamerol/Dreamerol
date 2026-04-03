@@ -20,15 +20,14 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
-<h3 align="center">✨ <em>Turning data into insights & Making a difference through real-world solutions</em> ✨</h3>
+
+### <h3 align="center">✨ <em>Turning data into insights & Making a difference through real-world solutions</em> ✨</h3>
 <h3 align="center">
 <em>
 📊 Data Analysis, ML | 🧠 Algorithms & Data Structures | 💻 Python, C++, SQL | 🏗 Backend, APIs
 </em>
 </h3>
 
-
-<h3 align="center">✨ <em>Turning data into insights</em> → <strong>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</strong> ✨</h3>
 
 ---
 
