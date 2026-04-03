@@ -125,11 +125,13 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 🧠 Neural Networks & Machine Learning
-- Designed and trained Neural Networks with **TensorFlow** and custom scratch implementations  
-- Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
-- Evaluated models using **accuracy up to 92%**, **MSE: 0.03**, and implemented **SIR epidemiological models with ODEs**  
-- Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
+## 🧠 Neural Networks & Machine Learning ✨
+
+- 🤖 Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations  
+- 📊 Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
+- 📈 Evaluated models with **accuracy up to 92%**, **MSE: 0.03**, and implemented **SIR epidemiological models with ODEs**  
+- 🗄️ Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
+- 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results  
 
 
 ---
