@@ -99,9 +99,31 @@ Tech stack also includes **APIs, FastAPI, AWS, and Git**, used to develop **prod
 - **Functional Programming** – modular, clean, maintainable code  
 - **Backend & Systems:** REST APIs, data processing, distributed systems  
 - **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
-- Strong computational thinking and real-world problem-solving skills  
+- Strong computational thinking and real-world problem-solving skills
+- 
+---
+
+🔑 **TECHNICAL SKILLS**
+
+🖥 **Programming Languages**  
+`Python` | `C++` | `Java` | `SQL`
+
+🏗 **Software Engineering / SWE Foundations**  
+`Algorithms & DS` | `Modular & Scalable Design` | `Functional Programming` | `OOP`
+
+📊 **Data & ML**  
+`Data Analysis` (Pandas, NumPy, Matplotlib, Data Visualization, Statistics)  
+`Machine Learning` (Neural Networks, TensorFlow, Backpropagation, Gradient Descent, Model Evaluation, MSE, Predictive Modeling)
+
+📐 **Mathematical Modeling**  
+`ODEs` | `SIR Models` | `Dynamic Systems`
+
+🛠 **Tools & Tech**  
+`Git` | `REST APIs` | `VS Code` | `IntelliJ IDEA`
+
 
 ---
+
 ## 🔑 Technical Skills
 
 ### 🖥 Programming
