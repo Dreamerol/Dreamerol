@@ -359,8 +359,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <h2 align="center">✨ <em>Data + AI + Software Engineering → Solving today’s challenges</em> ✨</h2>
 
-<h2 align="center">✨ <em>Data + AI + Software Engineering</em> — Turning ideas into solutions ✨</h2>
-
 ---
 
 <p align="center">
