@@ -308,7 +308,7 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 <h2 align="center">✨ <em>Data-AI-Software Engineering → Making a difference through real-world solutions</em> ✨</h2>
 
-
+<h1 align="center">✨ <em>Data-AI-Software Engineering → Driving impact with practical, real-world applications</em> ✨</h1>
 ---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
