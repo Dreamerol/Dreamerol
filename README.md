@@ -62,6 +62,8 @@
 
 <h3 align="center">✨ Junior Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | Backend, APIs ✨</h3>
 
+<h3 align="center">✨ Junior Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Backend, APIs | Python, C++, SQL ✨</h3>
+
 ---
 
 Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**.
