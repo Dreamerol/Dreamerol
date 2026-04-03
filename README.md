@@ -32,6 +32,39 @@
 
 ---
 
+# 🌟 Dreamerol – Junior Data Analyst & SWE Engineer
+
+## 🚀 Quick Stats
+![GitHub followers](https://img.shields.io/github/followers/Dreamerol?style=social)
+![GitHub repo count](https://img.shields.io/github/repos/Dreamerol?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Dreamerol?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Dreamerol?style=flat-square)
+
+## 🛠 Tech & Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+
+---
+
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Key Takeaways](#key-takeaways)
+- [Technical Skills](#technical-skills)
+- [Data Analysis & Modeling](#data-analysis--modeling)
+- [Neural Networks & Machine Learning](#neural-networks--machine-learning)
+- [Projects](#projects)
+- [Future Goals](#future-goals)
+
+
+---
+
+
 <h2 align="center">Featured Projects</h2>
 
 <table align="center">
