@@ -105,11 +105,13 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 📊 Data Analysis & Modeling
-- Manipulated and visualized data with **Pandas, NumPy, Matplotlib**  
-- Applied statistical and mathematical methods to extract insights from datasets of **5K–100K+ rows**  
-- Conducted **predictive modeling** and exploratory data analysis, achieving actionable insights and **30% faster data processing**  
-- Built dynamic simulations and optimized pipelines for real-world problem-solving
+## 📊 Data Analysis & Modeling ✨
+
+- 🐼 **Pandas** & **NumPy** & **Matplotlib** → Manipulated and visualized data  
+- 📈 **Statistical & Mathematical Methods** → Extracted insights from **5K–100K+ rows**  
+- 🤖 **Predictive Modeling** & **Exploratory Data Analysis** → Achieved actionable insights & **30% faster data processing**  
+- ⚡ **Dynamic Simulations** & **Optimized Pipelines** → Real-world problem-solving  
+- 💡 Focus on **scalable, clean, and efficient workflows** for consistent results  
 
 ---
 
