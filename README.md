@@ -21,7 +21,7 @@
 
 ---
  
-<h3 align="center">✨ <em>Turning data into insights through</em> <strong>Python, C++, SQL | Data Analysis, ML | Backend, APIs, FastAPI</strong> ✨</h3>
+<h3 align="center">✨ Turning data into insights through <strong>Python, C++, SQL | Data Analysis, ML | Backend, APIs, FastAPI</strong> ✨</h3>
 
 ---
 
