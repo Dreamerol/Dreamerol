@@ -21,6 +21,9 @@
 
 ---
 
+<h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h3>
+<h3 align="center"><em>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</em></h3>
+
 <h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions | Data Analysis, ML | Algorithms & DS</em> ✨</h3>
 <h3 align="center"><em>Python, C++, SQL | Backend, APIs</em></h3>
 
