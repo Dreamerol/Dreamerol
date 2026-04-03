@@ -286,14 +286,13 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
-## 💹 Profit Predictor
+## 💹 Profit Predictor ✨
 
-**Tech Stack:** Python, Pandas, Scikit-learn  
-**Focus:** Data Analysis, Machine Learning  
-→ Built predictive models for financial and business data  
-→ Analyzed trends and visualized key metrics  
-→ Improved model accuracy through data preprocessing  
-
+- 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
+- 🎯 **Focus:** Data Analysis, Machine Learning  
+- 📊 Built **predictive models** for financial and business data  
+- 📈 Analyzed trends and visualized **key metrics**  
+- ⚡ Improved model accuracy through **data preprocessing**  
 ---
 
 ## 💊 Placebo Effect
