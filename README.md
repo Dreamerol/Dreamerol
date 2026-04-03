@@ -253,6 +253,8 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 <h2 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h2>
 
+<h3 align="center">✨ <em>Turning data into insights</em> → <strong>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</strong> ✨</h3>
+
 
 ---
 
