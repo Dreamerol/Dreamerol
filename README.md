@@ -24,18 +24,6 @@
 <h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h3>
 <h3 align="center"><em>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</em></h3>
 
-<h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions | Data Analysis, ML | Algorithms & DS</em> ✨</h3>
-<h3 align="center"><em>Python, C++, SQL | Backend, APIs</em></h3>
-
-<h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions ✨ | Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</em></h3>
-
-
-<h3 align="center">✨ <strong>Data-AI-Software Engineering | Making a difference through real-world solutions</strong> → <strong>Data Analysis, ML | Algorithms & DS</strong> | Python, C++, SQL | Backend, APIs ✨</h3>
- 
-<h3 align="center">✨ <em>Turning data into insights</em> → <strong>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</strong> ✨</h3>
-
-<h2 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h2>
-
 ---
 
 <h2 align="center">Featured Projects</h2>
