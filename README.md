@@ -353,38 +353,6 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 </tr>
 </table>
 
----
-
-## About the Repositories
-
-Junior Data Analyst & Software Engineer with a strong focus on building scalable, data-driven solutions. Combines Data Analysis, Machine Learning, and Software Engineering to deliver reliable, production-ready systems that solve real-world problems.
-
-Hands-on experience with end-to-end project development, including data processing pipelines, predictive modeling, and backend logic. Strong emphasis on clean code, performance optimization, and maintainable architecture.
-
-Technical skills include Python, SQL, Data Structures and Algorithms, and database design. Experience working with key data and ML tools such as Pandas, NumPy, Scikit-learn, and TensorFlow, as well as data visualization using Matplotlib and Seaborn.
-
-Professional experience at ZigiWave includes data analysis, reporting systems, SQL optimization, and process automation, contributing to improved efficiency and data-driven decision-making.
-Detail-oriented and analytical, with a proactive approach to problem-solving and a strong interest in continuous learning and professional growth.
-
-🔹 Data Analytics & Reporting System
-
-Designed and implemented a data analysis pipeline using Python and SQL
-Processed and analyzed large datasets to extract actionable insights
-Built automated reports to support business decision-making
-Improved efficiency by automating repetitive data workflows
-
-🔹 Machine Learning Prediction Model
-
-Developed predictive models using Machine Learning algorithms and Neural Networks
-Performed data preprocessing, feature engineering, and model evaluation
-Applied models to real-world datasets in domains such as healthcare and physics
-Optimized model performance and accuracy
-
-🔹 Algorithms & Data Structures
-
-Solved complex algorithmic problems to strengthen problem-solving skills
-Implemented efficient solutions with focus on time and space complexity
-Covered topics such as graphs, trees, dynamic programming, and sorting
 
 ---
 
