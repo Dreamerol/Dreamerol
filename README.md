@@ -20,6 +20,9 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
+<h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h3>
+<h3 align="center"><em>Data Analysis, ML, Pandas, NumPy, Matplotlib, Data Visualization | Algorithms & Data Structures, Functional Programming, OOP, Modular & Scalable Design | Python, C++, Java, SQL | Backend Development, REST APIs, Git, Version Control</em></h3>
+
 
 <h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h3>
 <h3 align="center"><em>Data Analysis, ML, Pandas, NumPy, Matplotlib, Data Visualization, Statistical Analysis | Algorithms & DS, Data Structures, OOP, Functional Programming, Modular & Scalable Design | Python, C++, Java, SQL | Backend Development, REST APIs, Git, Version Control</em></h3>
