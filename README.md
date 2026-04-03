@@ -100,7 +100,7 @@ Tech stack also includes **APIs, FastAPI, AWS, and Git**, used to develop **prod
 - **Backend & Systems:** REST APIs, data processing, distributed systems  
 - **Version Control & Tools:** Git, VS Code, IntelliJ IDEA  
 - Strong computational thinking and real-world problem-solving skills
-- 
+  
 ---
 
 🔑 **TECHNICAL SKILLS**
