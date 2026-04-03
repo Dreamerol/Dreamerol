@@ -173,32 +173,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 ### 🚀 Tech & Skills Hashtags
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
 
----
-
-## 💡 Key Competencies & Tools ✨
-
-### 🧠 Algorithms & Data Structures
-Python, Java & C++ for AI & data-intensive tasks
-
-### 🤖 Applied Machine Learning & Neural Networks
-Python & relevant libraries for practical AI solutions
-
-### 🛠️ Functional Programming & Clean Code
-Python, Clojure & ClojureScript; modular, maintainable, and efficient
-
-### 🏗️ Backend & Systems Development
-Java, Clojure, OOP, REST APIs & API integrations, data processing, distributed systems
-
-### 🔄 Version Control & Dev Tools
-Git, VS Code, IntelliJ IDEA
-
-### 💡 Computational Thinking & Problem Solving
-Solving real-world challenges
-
----
-
-### 🚀 Tech & Skills Hashtags
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
 
 ---
 
@@ -430,7 +404,7 @@ Solving real-world challenges
 - 🧪 **NEURAL NETWORKS & PLACEBO EFFECT**: Python, TensorFlow, Keras, Pandas, Matplotlib | Data preprocessing & predictive modeling  
 - 📈 **PROFIT PREDICTOR**: Python, Pandas, Scikit-learn | Time-series forecasting & accuracy improvement  
 - 📐 **MATHEMATICAL MODELING**: ODEs, SIR Models, Dynamic Systems | Python simulations  
-- ☕ **CLOJURE INTRODUCTION**: Clojure, ClojureScript | Functional programming exercises  
+- ☕ **CLOJURE TASKS & API INTEGRATIONS**: Clojure, ClojureScript | Functional programming exercises  
 
 
 ---
