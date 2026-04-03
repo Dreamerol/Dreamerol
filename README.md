@@ -144,6 +144,13 @@ Tech stack also includes **APIs, FastAPI, AWS, and Git**, used to develop **prod
   
 ---
 
+📊 Data Analysis
+🧠 Algorithms & DS
+💻 Languages: Python | C++ | SQL | Java
+🏗 Backend, REST APIs, Git
+
+---
+
 ## 🔑 Technical Skills
 
 ### 🖥 Programming
