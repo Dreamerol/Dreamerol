@@ -27,6 +27,14 @@
 <em>📊 Data Analysis, Applied ML | 🧠 Algorithms & Data Structures | 💻 Python, C++, SQL | 🏗 Backend, APIs</em>
 </h3>
 
+---
+
+📊 Data Analysis
+🧠 Algorithms & DS
+💻 Languages: Python | C++ | SQL | Java
+🏗 Backend, REST APIs, Git
+
+
 
 ---
 
@@ -142,13 +150,6 @@ Tech stack also includes **APIs, FastAPI, AWS, and Git**, used to develop **prod
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
   
----
-
-📊 Data Analysis
-🧠 Algorithms & DS
-💻 Languages: Python | C++ | SQL | Java
-🏗 Backend, REST APIs, Git
-
 ---
 
 ## 🔑 Technical Skills
