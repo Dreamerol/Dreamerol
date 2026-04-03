@@ -20,7 +20,6 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
-<h2 align="center">✨ <strong>Turning data into insights & Making a difference through real-world solutions</strong> ✨</h2>
 
 <h2 align="center">✨ <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> ✨</h2>
 
