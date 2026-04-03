@@ -115,11 +115,13 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 💻 Software Engineering & Core Skills
-- Developed **backend systems, modular functional components, and data pipelines** for scalable software solutions  
-- Built and optimized **core algorithms and REST API integrations**  
-- Applied **version control (Git), code reviews, and Agile practices** in collaborative environments  
-- Designed **clean, maintainable, and efficient code** for practical applications  
+## 💻 Software Engineering & Core Skills ✨
+
+- 🏗️ Developed **backend systems**, modular functional components, and **data pipelines** for scalable software solutions  
+- ⚡ Built and optimized **core algorithms** and **REST API integrations**  
+- 🔄 Applied **version control (Git)**, **code reviews**, and **Agile practices** in collaborative environments  
+- 🧹 Designed **clean, maintainable, and efficient code** for practical applications  
+- 💡 Focused on **scalable, robust, and production-ready solutions**  
 
 ---
 
