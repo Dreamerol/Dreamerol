@@ -327,24 +327,31 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
   
 ---
 
-<h3>💾 About the Repositories</h3>
+### 🔹 Projects & Repositories
 
-<p>Junior Data Analyst & Software Engineer 🚀 building <strong>scalable, data-driven solutions</strong> to tackle <strong>real-world problems</strong> 🌍. Passionate about <em>Data Analysis, ML & Software Engineering</em>.</p>
-
-<h4>🔹 Key Highlights</h4>
-<ul>
-  <li>🛠 End-to-end project development: pipelines, predictive models, backend logic</li>
-  <li>⚡ Focus on clean code, performance, maintainable architecture</li>
-  <li>📊 Tools & Skills: Python, SQL, Data Structures & Algorithms, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn</li>
-  <li>💡 Early career experience: data analysis, reporting, SQL optimization, automation</li>
-</ul>
-
-<h4>🔹 Projects</h4>
-<ul>
-  <li>📊 <strong>Data Analytics & Reporting</strong>: Automated pipelines & reports for actionable insights</li>
-  <li>🤖 <strong>ML Prediction Model</strong>: Predictive models for healthcare & physics, optimized for accuracy</li>
-  <li>🧩 <strong>Algorithms & DS</strong>: Solved complex algorithmic problems, covering graphs, trees, DP, sorting</li>
-</ul>
+<table>
+<tr>
+<td valign="top">
+- 📊 **DATA ANALYTICS & REPORTING**: Python, SQL, Pandas, NumPy, Matplotlib | Automated pipelines & business reports  
+- 🎮 **RUMMIKUB**: C++ | Game logic & algorithmic problem solving  
+- 🃏 **POCKER GAME**: C++ | Probability modeling & game simulation  
+- 🔬 **PHYSICS DATA MODELING**: Python, NumPy, Matplotlib | Predictive modeling & visualization  
+- 🤖 **ML PREDICTION MODEL**: Python, TensorFlow, Pandas, NumPy | Model optimization & accuracy  
+- 🧠 **ALGORITHMS & DATA STRUCTURES**: Graphs, Trees, DP, Sorting | Problem-solving & complexity optimization
+</td>
+<td valign="top">
+- 💻 **C++ OOP PROJECTS**: Classes, inheritance, polymorphism | Object-Oriented Programming  
+- 🐧 **LINUX**: Shell scripting, system management, environment setup  
+- 📚 **MOODLE PROJECT**: Educational tech & e-learning workflow  
+- 📁 **DELIVERIES**: SQL, relational modeling | Database design, queries, reporting  
+- 📁 **DATABASES-SQL**: Joins, Views, Indexing, Optimization | SQL exercises  
+- 🧪 **NEURAL NETWORKS & PLACEBO EFFECT**: Python, TensorFlow, Keras, Pandas, Matplotlib | Data preprocessing & predictive modeling  
+- 📈 **PROFIT PREDICTOR**: Python, Pandas, Scikit-learn | Time-series forecasting & accuracy improvement  
+- 📐 **MATHEMATICAL MODELING**: ODEs, SIR Models, Dynamic Systems | Python simulations  
+- ☕ **CLOJURE INTRODUCTION**: Clojure, ClojureScript | Functional programming exercises
+</td>
+</tr>
+</table>
 
 ---
 
