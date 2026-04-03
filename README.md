@@ -77,17 +77,6 @@
 
 ---
 
-Junior **Data Analyst & Software Engineer** @ FMI with a strong foundation in **Algorithms, Data Structures, Problem-Solving, and Applied Mathematics**.
-
-Hands-on experience in **end-to-end development**, including **backend systems, scalable workflows, and data pipelines**, using **Python, Java, and Clojure/ClojureScript**. Skilled in **clean code, performance optimization, modular design, API integrations, and version control (Git)**.
-
-Focused on **Data Analysis, Machine Learning, and Software Engineering**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow**, while applying **backend development, API design, scalable system architecture, and clean coding principles** to build **predictive models** and implement **robust, data-driven solutions**.
-
-Tech stack also includes **APIs, FastAPI, AWS, and Git**, used to develop **production-ready, scalable systems**.
-
-
----
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
