@@ -23,6 +23,8 @@
  
 <h3 align="center">✨ Turning data into insights through <strong>Python, C++, SQL | Data Analysis, ML | Backend, APIs, FastAPI</strong> ✨</h3>
 
+<h3 align="center">✨ <em>Turning data into insights</em> through → <strong>Python, C++, SQL | Data Analysis, ML | Backend, APIs, FastAPI</strong> ✨</h3>
+
 ---
 
 <h2 align="center">Featured Projects</h2>
