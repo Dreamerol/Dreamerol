@@ -22,7 +22,7 @@
 ---
 <h2 align="center">✨ <strong>Turning data into insights & Making a difference through real-world solutions</strong> ✨</h2>
 
-<strong>📊 Data Analysis, Applied ML | 🧠 Algorithms & Data Structures | 💻 Python, C++, SQL | 🏗 Backend, APIs</strong>
+<em>📊 Data Analysis, Applied ML | 🧠 Algorithms & Data Structures | 💻 Python, C++, SQL | 🏗 Backend, APIs</em>
 </h3>
 
 <h3 align="center">✨ <strong>Turning data into insights & Making a difference through real-world solutions</strong> ✨</h3>
