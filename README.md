@@ -242,21 +242,6 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
   
 ---
 
-<div align="center">
-
-## 🔑 Key Takeaways ✨
-
-- 🧠 <strong>CS Fundamentals:</strong> Algorithms, Data Structures, C++  
-- 📊 <strong>Data & ML Projects:</strong> Hands-on experience with real-world datasets  
-- 🔗 <strong>Theory → Practice:</strong> Bridging knowledge with practical implementations  
-- 🚀 <strong>Career Ready:</strong> Junior/mid-level SWE roles or Data/ML internships  
-- 💡 <strong>Problem Solver:</strong> Quick learner, passionate about solving real-world problems  
-- ⚡ <strong>Clean & Efficient:</strong> Focused on clean code, scalable design, and efficient algorithms  
-
-</div>
-
----
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
