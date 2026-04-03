@@ -20,6 +20,8 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
+
+<h3 align="center">✨ <strong>Data-AI-Software Engineering | Making a difference through real-world solutions</strong> → <strong>Data Analysis, ML | Algorithms & DS</strong> | Python, C++, SQL | Backend, APIs ✨</h3>
  
 <h3 align="center">✨ <em>Turning data into insights</em> → <strong>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</strong> ✨</h3>
 
