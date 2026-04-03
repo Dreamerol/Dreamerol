@@ -163,12 +163,42 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ## 💡 Key Competencies & Tools ✨
 
-- 🧠 **Algorithms & Data Structures** – implemented and optimized in **Python & C++**  
-- 🛠️ **Functional Programming** – modular, clean, maintainable code  
-- 🏗️ **Backend & Systems** – REST APIs, data processing, distributed systems  
-- 🔄 **Version Control & Tools** – Git, VS Code, IntelliJ IDEA  
-- 💡 Strong **computational thinking** and **real-world problem-solving skills**  
+- 🧠 **Algorithms & Data Structures** – Python, Java & C++ for AI & data-intensive tasks
+- 🤖 **Applied Machine Learning & Neural Networks** – Python & relevant libraries for practical AI solutions
+- 🛠️ **Functional Programming & Clean Code** – Python, Clojure & ClojureScript; modular, maintainable, and efficient
+- 🏗️ **Backend & Systems Development** – Java, Clojure, OOP, REST APIs & API integrations, data processing, distributed systems
+- 🔄 **Version Control & Dev Tools** – Git, VS Code, IntelliJ IDEA
+- 💡 **Computational Thinking & Problem Solving** – solving real-world challenges
 
+### 🚀 Tech & Skills Hashtags
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
+
+---
+
+## 💡 Key Competencies & Tools ✨
+
+### 🧠 Algorithms & Data Structures
+Python, Java & C++ for AI & data-intensive tasks
+
+### 🤖 Applied Machine Learning & Neural Networks
+Python & relevant libraries for practical AI solutions
+
+### 🛠️ Functional Programming & Clean Code
+Python, Clojure & ClojureScript; modular, maintainable, and efficient
+
+### 🏗️ Backend & Systems Development
+Java, Clojure, OOP, REST APIs & API integrations, data processing, distributed systems
+
+### 🔄 Version Control & Dev Tools
+Git, VS Code, IntelliJ IDEA
+
+### 💡 Computational Thinking & Problem Solving
+Solving real-world challenges
+
+---
+
+### 🚀 Tech & Skills Hashtags
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
 
 ---
 
