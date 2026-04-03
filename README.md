@@ -187,6 +187,13 @@ Git, Version Control, REST APIs, VS Code, IntelliJ IDEA
 
 ---
 
+## 🌎 Future
+
+<h2 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h2>
+
+---
+
+
 ## About the Repositories
 
 Junior Data Analyst & Software Engineer with a strong focus on building scalable, data-driven solutions. Combines Data Analysis, Machine Learning, and Software Engineering to deliver reliable, production-ready systems that solve real-world problems.
@@ -217,12 +224,6 @@ Optimized model performance and accuracy
 Solved complex algorithmic problems to strengthen problem-solving skills
 Implemented efficient solutions with focus on time and space complexity
 Covered topics such as graphs, trees, dynamic programming, and sorting
-
----
-
-## 🌎 Future
-
-<h2 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h2>
 
 ---
 
