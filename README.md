@@ -187,7 +187,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 **Computational Thinking & Problem Solving** – solving real-world challenges
 
 ### 🚀 Tech & Skills Hashtags
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations #AI #MachineLearning #AppliedML #DataScience
 
 
 ---
@@ -223,6 +223,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🤖 **Machine Learning:** Neural Networks | TensorFlow | Backpropagation | Gradient Descent | Model Evaluation | Loss Functions (MSE) | Predictive Modeling  
 - 📐 **Mathematical Modeling:** ODEs | SIR Models | Dynamic Systems  
 - 🛠 **Tools & Tech:** Git | Version Control | REST APIs | VS Code | IntelliJ IDEA
+
+  #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations #AI #MachineLearning #AppliedML #DataScience
 
 ---
 
