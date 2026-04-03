@@ -118,7 +118,14 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 📈 **Statistical & Mathematical Methods** → Extracted insights from **5K–100K+ rows**  
 - 🤖 **Predictive Modeling** & **Exploratory Data Analysis** → Achieved actionable insights & **30% faster data processing**  
 - ⚡ **Dynamic Simulations** & **Optimized Pipelines** → Real-world problem-solving  
-- 💡 Focus on **scalable, clean, and efficient workflows** for consistent results  
+- 💡 Focus on **scalable, clean, and efficient workflows** for consistent results
+
+  
+
+<p align="center">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
+</p>
+
 
 ---
 
@@ -128,7 +135,14 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - ⚡ Built and optimized **core algorithms** and **REST API integrations**  
 - 🔄 Applied **version control (Git)**, **code reviews**, and **Agile practices** in collaborative environments  
 - 🧹 Designed **clean, maintainable, and efficient code** for practical applications  
-- 💡 Focused on **scalable, robust, and production-ready solutions**  
+- 💡 Focused on **scalable, robust, and production-ready solutions**
+
+  
+
+<p align="center">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
+</p>
+
 
 ---
 
@@ -138,7 +152,14 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 📊 Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
 - 📈 Evaluated models with **accuracy up to 92%**, **MSE: 0.03**, and implemented **SIR epidemiological models with ODEs**  
 - 🗄️ Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
-- 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results  
+- 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results
+
+  
+
+<p align="center">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIs #APIIntegrations
+</p>
+
 
 
 ---
