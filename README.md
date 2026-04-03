@@ -427,14 +427,5 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 
 ---
-
-## 🚀 GitHub Stats
-
-![GitHub Followers](https://img.shields.io/github/followers/Dreamerol?style=social)  
-![GitHub Repos](https://img.shields.io/github/repos/Dreamerol?style=flat-square)  
-![GitHub Stars](https://img.shields.io/github/stars/Dreamerol?style=flat-square)  
-![Top Language](https://img.shields.io/github/languages/top/Dreamerol?style=flat-square)
-
----
  
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
