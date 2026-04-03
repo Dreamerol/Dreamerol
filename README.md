@@ -22,6 +22,9 @@
 ---
 
 <h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h3>
+<h3 align="center"><em>Data Analysis, ML, Pandas, NumPy, Matplotlib, Data Visualization, Statistical Analysis | Algorithms & DS, Data Structures, OOP, Functional Programming, Modular & Scalable Design | Python, C++, Java, SQL | Backend Development, REST APIs, Git, Version Control</em></h3>
+
+<h3 align="center">✨ <em>Data-AI-Software Engineering | Making a difference through real-world solutions</em> ✨</h3>
 <h3 align="center"><em>Data Analysis, ML | Algorithms & DS | Python, C++, SQL | Backend, APIs</em></h3>
 
 ---
