@@ -124,11 +124,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
   
 
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
-
+</h4>
 
 ---
 
@@ -142,10 +141,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
   
 
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
+</h4>
 
 ---
 
@@ -159,12 +158,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   
 
 
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
-
-
+</h4>
 
 ---
 
@@ -202,11 +199,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ### 🚀 Tech & Skills Hashtags
 
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
-
+</h4>
 
 ---
 
@@ -229,7 +225,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 <p align="center">
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
 </p>
-
 
 ---
 
@@ -242,11 +237,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 📐 **Mathematical Modeling:** ODEs | SIR Models | Dynamic Systems  
 - 🛠 **Tools & Tech:** Git | Version Control | REST APIs | VS Code | IntelliJ IDEA
 
-
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
+</h4>
 
 ---
 
@@ -270,7 +264,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
 </p>
 
-
 ---
  
 ## 🔑 Key Takeaways ✨
@@ -282,11 +275,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 Quick learner, passionate about **solving real-world problems**  
 - ⚡ Focused on **clean code, scalable design, and efficient algorithms**
 
-
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
+</h4>
     
 ---
 
@@ -379,10 +371,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🐬 Numerical Analysis
 
 
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
+</h4>
 
 ---
 
@@ -459,11 +451,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - ☕ **CLOJURE TASKS & API INTEGRATIONS**: Clojure, ClojureScript | Functional programming exercises
 
 
-<h9 align="center">
+<h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h9>
-
+</h4>
 
 ---
 
