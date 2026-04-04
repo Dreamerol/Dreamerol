@@ -79,9 +79,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 
 <h3 align="center">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience <br>
-#Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy <br>
-#APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper <br>
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #Data
 </h3>
 
