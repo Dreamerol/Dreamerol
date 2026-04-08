@@ -483,3 +483,15 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+---
+
