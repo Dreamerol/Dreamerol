@@ -477,7 +477,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
 </p>
 
-
+---
 
 <p align="center">
 
