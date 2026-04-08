@@ -454,6 +454,13 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
 </h4>
 
+
+---
+
+ 
+<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
+
+
 ---
 
 
@@ -477,19 +484,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
 </p>
 
----
-
-
-
- 
-<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
-
-
 
 ---
 
 <p align="center">
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 
