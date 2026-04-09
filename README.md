@@ -18,6 +18,31 @@
 
 </div> 
 
+---
+
+
+<div align="center">
+  
+  <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.5em;">
+    📍 SOFIA, BULGARIA
+  </span>
+  
+  <span style="display:block; font-size:1.2em; font-weight:bold;">
+    📞 +359 89 764 3552
+  </span>
+  
+  <span style="display:block; font-size:1.2em; font-weight:bold;">
+    ✉️ MICHAELAKOSEVA@GMAIL.COM
+  </span>
+
+  <span style="display:block; font-size:1.2em; font-weight:bold;">
+    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
+    🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> |
+    📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a>
+  </span>
+
+</div>
+
 
 ---
 
