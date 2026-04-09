@@ -176,7 +176,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 🧠 Neural Networks & Machine Learning 
+## 🧠 Neural Networks & Applied ML
 
 - 🤖 Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations  
 - 📊 Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
