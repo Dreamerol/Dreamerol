@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">✨ <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> ✨</h2>
+<h2 align="center"> <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
 
 
 ---
@@ -142,7 +142,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 📊 Data Analysis & Modeling ✨
+## 📊 Data Analysis & Modeling 
 
 - 🐼 **Pandas** & **NumPy** & **Matplotlib** → Manipulated and visualized data  
 - 📈 **Statistical & Mathematical Methods** → Extracted insights from **5K–100K+ rows**  
@@ -159,7 +159,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 💻 Software Engineering & Core Skills ✨
+## 💻 Software Engineering & Core Skills 
 
 - 🏗️ Developed **backend systems**, modular functional components, and **data pipelines** for scalable software solutions  
 - ⚡ Built and optimized **core algorithms** and **REST API integrations**  
@@ -176,7 +176,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 🧠 Neural Networks & Machine Learning ✨
+## 🧠 Neural Networks & Machine Learning 
 
 - 🤖 Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations  
 - 📊 Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
