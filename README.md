@@ -91,7 +91,7 @@
 
 ---
 
-<h3 align="center">✨ Junior Data Analyst & Software Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs ✨</h3>
+<h3 align="center">Junior Data Analyst & Software Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs </h3>
 
 ---
 
@@ -216,7 +216,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 💡 Key Competencies & Tools ✨
+## 💡 Key Competencies & Tools 
 
 - 🧠 **Algorithms & Data Structures** – Python, Java & C++ for AI & data-intensive tasks
 - 🤖 **Applied Machine Learning & Neural Networks** – Python & relevant libraries for practical AI solutions
@@ -256,7 +256,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 🔑 Technical Skills ✨
+## 🔑 Technical Skills 
 
 - 🖥 **Programming:** Python | C++ | Java | SQL | Clojure/ClojureScript  
 - 🏗 **Software Engineering:** Data Structures & Algorithms | Modular & Scalable Design | Functional Programming | Object-Oriented Programming (OOP)  
@@ -294,7 +294,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
  
-## 🔑 Key Takeaways ✨
+## 🔑 Key Takeaways 
 
 - 🧠 Strong foundation in **CS fundamentals** (Algorithms, Data Structures, C++)  
 - 📊 Hands-on experience with **Data & Machine Learning projects**  
@@ -336,7 +336,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ## ✨ Selected Projects
 
-## 📊 Neural Networks ✨
+## 📊 Neural Networks 
 
 - 🛠️ **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 - 🎯 **Focus:** Machine Learning, AI, Neural Networks  
@@ -346,7 +346,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-## 💹 Profit Predictor ✨
+## 💹 Profit Predictor 
 
 - 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
 - 🎯 **Focus:** Data Analysis, Machine Learning  
@@ -355,7 +355,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - ⚡ Improved model accuracy through **data preprocessing**  
 ---
 
-## 💊 Placebo Effect ✨
+## 💊 Placebo Effect 
 
 - 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
 - 🎯 **Focus:** Data Analysis, Statistics, Experimental Design  
