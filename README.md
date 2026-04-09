@@ -30,36 +30,6 @@
 
 ---
 
-
-<div align="center">
-  
-  <span style="display:block; font-size:2.5em; font-weight:700; margin-top:0.5em;">
-    📍 Sofia, Bulgaria
-  </span>
-  
-  <span style="display:block; font-size:2.5em; font-weight:700;">
-    📞 +359 89 764 3552
-  </span>
-  
-  <span style="display:block; font-size:2.5em; font-weight:700;">
-    ✉️ michaelakoseva@gmail.com
-  </span>
-
-  <span style="display:block; font-size:2.5em; font-weight:700;">
-    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a"><b>LinkedIn</b></a> |
-    🐙 <a href="https://github.com/Dreamerol"><b>GitHub</b></a> |
-    📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main"><b>Resume</b></a>
-  </span>
-
-</div>
-
-
-
-
-
-
----
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
