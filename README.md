@@ -456,33 +456,32 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
 </p>
 
-
 ---
 
 ### 🔹 PROJECTS & REPOSITORIES
 
-- ⚙️ [PHYSICS SIMULATION SYSTEMS](URL_HERE) — Python, NumPy, Matplotlib | Numerical modeling, motion simulation, energy systems  
-- 🧠 [CORE ALGORITHMS](URL_HERE) — Python | Data structures, recursion, graph algorithms, optimization techniques  
-- 📊 [DATA ANALYTICS & REPORTING SYSTEMS](URL_HERE) — Python, SQL, Pandas | Automated pipelines & reporting workflows  
-- 📈 [PROFIT PREDICTION ENGINE](URL_HERE) — Python, Pandas, Scikit-learn | Predictive modeling & regression systems  
-- 🔬 [PHYSICS DATA MODELING](URL_HERE) — Python, NumPy | Mathematical modeling of physical systems  
-- 🧩 [SYSTEM DESIGN EXPERIMENTS](URL_HERE) — Python | Modular architecture & reusable components  
-- 💻 [BACKEND API SYSTEMS](URL_HERE) — Python, REST concepts | Service design & integration logic  
-- 🐧 [LINUX & SYSTEM AUTOMATION](URL_HERE) — Shell scripting | Environment setup & automation workflows  
-- 🧪 [NUMERICAL METHODS LAB](URL_HERE) — Python | Integration methods, differential equations, simulations  
-- 📐 [MATHEMATICAL MODELING SYSTEMS](URL_HERE) — Python | ODE-based models, dynamic systems simulation  
-- 🔢 [ALGORITHMIC PROBLEM SOLVING](URL_HERE) — Python | Optimization, complexity analysis, structured solutions  
-- 🎮 [SIMULATION GAME LOGIC](URL_HERE) — C++ | Game mechanics & rule-based system design  
-- 🃏 [PROBABILITY SIMULATION ENGINE](URL_HERE) — C++ | Stochastic modeling & statistical systems  
-- 📚 [EDUCATIONAL SYSTEMS](URL_HERE) — Web concepts | Learning platform logic & structure  
-- 📁 [DATABASE DESIGN SYSTEMS](URL_HERE) — SQL | Relational modeling, joins, indexing, optimization  
-- 📊 [SQL QUERY ENGINEERING](URL_HERE) — SQL | Complex queries, views, performance tuning  
-- 🤖 [NEURAL NETWORK EXPERIMENTS](URL_HERE) — Python, TensorFlow | Basic deep learning prototypes  
-- 🧠 [FUNCTIONAL PROGRAMMING EXERCISES](URL_HERE) — Clojure | Functional paradigms & API usage  
-- ⚙️ [ENGINEERING UTILITIES TOOLKIT](URL_HERE) — Python | Helper tools, reusable utilities, automation scripts  
-- 📊 [DATA VISUALIZATION SUITE](URL_HERE) — Python, Matplotlib | Graph generation & analytical plotting  
-- 🔧 [DEVELOPMENT ENVIRONMENT SETUPS](URL_HERE) — Git, Linux | Workflow optimization & tooling  
-- 📦 [CODE PRACTICE COLLECTION](URL_HERE) — Mixed languages | Small focused algorithmic tasks
+- ⚙️ [PHYSICS SIMULATION SYSTEMS](https://github.com/Dreamerol/physics-simulation-systems) — Python, NumPy, Matplotlib | Numerical modeling, motion simulation, energy systems  
+- 🧠 [CORE ALGORITHMS](https://github.com/Dreamerol/core-algorithms) — Python | Data structures, recursion, graph algorithms, optimization techniques  
+- 📊 [DATA ANALYTICS & REPORTING SYSTEMS](https://github.com/Dreamerol/data-analytics-reporting) — Python, SQL, Pandas | Automated pipelines & reporting workflows  
+- 📈 [PROFIT PREDICTION ENGINE](https://github.com/Dreamerol/profit-predictor) — Python, Pandas, Scikit-learn | Predictive modeling & regression systems  
+- 🔬 [PHYSICS DATA MODELING](https://github.com/Dreamerol/physics-data-modeling) — Python, NumPy | Mathematical modeling of physical systems  
+- 🧩 [SYSTEM DESIGN EXPERIMENTS](https://github.com/Dreamerol/system-design-experiments) — Python | Modular architecture & reusable components  
+- 💻 [BACKEND API SYSTEMS](https://github.com/Dreamerol/backend-api-systems) — Python, REST concepts | Service design & integration logic  
+- 🐧 [LINUX & SYSTEM AUTOMATION](https://github.com/Dreamerol/linux-automation) — Shell scripting | Environment setup & automation workflows  
+- 🧪 [NUMERICAL METHODS LAB](https://github.com/Dreamerol/numerical-methods-lab) — Python | Integration methods, differential equations, simulations  
+- 📐 [MATHEMATICAL MODELING SYSTEMS](https://github.com/Dreamerol/mathematical-modeling) — Python | ODE-based models, dynamic systems simulation  
+- 🔢 [ALGORITHMIC PROBLEM SOLVING](https://github.com/Dreamerol/algorithmic-problems) — Python | Optimization, complexity analysis, structured solutions  
+- 🎮 [SIMULATION GAME LOGIC](https://github.com/Dreamerol/simulation-game-logic) — C++ | Game mechanics & rule-based system design  
+- 🃏 [PROBABILITY SIMULATION ENGINE](https://github.com/Dreamerol/probability-engine) — C++ | Stochastic modeling & statistical systems  
+- 📚 [EDUCATIONAL SYSTEMS](https://github.com/Dreamerol/educational-systems) — Web concepts | Learning platform logic & structure  
+- 📁 [DATABASE DESIGN SYSTEMS](https://github.com/Dreamerol/database-design) — SQL | Relational modeling, joins, indexing, optimization  
+- 📊 [SQL QUERY ENGINEERING](https://github.com/Dreamerol/sql-engineering) — SQL | Complex queries, views, performance tuning  
+- 🤖 [NEURAL NETWORK EXPERIMENTS](https://github.com/Dreamerol/neural-networks) — Python, TensorFlow | Basic deep learning prototypes  
+- 🧠 [FUNCTIONAL PROGRAMMING EXERCISES](https://github.com/Dreamerol/clojure-exercises) — Clojure | Functional paradigms & API usage  
+- ⚙️ [ENGINEERING UTILITIES TOOLKIT](https://github.com/Dreamerol/utilities-toolkit) — Python | Helper tools, reusable utilities, automation scripts  
+- 📊 [DATA VISUALIZATION SUITE](https://github.com/Dreamerol/data-visualization) — Python, Matplotlib | Graph generation & analytical plotting  
+- 🔧 [DEVELOPMENT ENVIRONMENT SETUPS](https://github.com/Dreamerol/dev-setup) — Git, Linux | Workflow optimization & tooling  
+- 📦 [CODE PRACTICE COLLECTION](https://github.com/Dreamerol/code-practice) — Mixed languages | Small focused algorithmic tasks
 
 ---
 
