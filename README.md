@@ -407,32 +407,32 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-### 🔹 projects & repositories
+### 🔹 Projects & Repositories
 
-- ⚙️ [physics simulation systems](https://github.com/physics-simulation-systems) — python | numerical modeling, motion simulation, energy systems  
-- 🧠 [core algorithms lab](https://github.com/core-algorithms-lab) — python | data structures, recursion, graph algorithms, optimization  
-- 📊 [data analytics pipeline](https://github.com/data-analytics-pipeline) — python, sql, pandas | automated reporting & data workflows  
-- 📈 [profit prediction engine](https://github.com/profit-prediction-engine) — python, pandas, sklearn | predictive modeling & regression systems  
-- 🔬 [physics modeling lab](https://github.com/physics-modeling-lab) — python, numpy | mathematical modeling of physical systems  
-- 🧩 [system architecture experiments](https://github.com/system-architecture-experiments) — python | modular design & scalable components  
-- 💻 [backend service systems](https://github.com/backend-service-systems) — python | api design & service integration  
-- 🐧 [linux automation toolkit](https://github.com/linux-automation-toolkit) — shell scripting | system automation & workflows  
-- 🧪 [numerical methods lab](https://github.com/numerical-methods-lab) — python | differential equations, integration methods  
-- 📐 [mathematical modeling systems](https://github.com/mathematical-modeling-systems) — python | odes, dynamic systems  
-- 🔢 [algorithmic problem solving](https://github.com/algorithmic-problem-solving) — python | complexity, optimization, structured solutions  
-- 🎮 [simulation engine cpp](https://github.com/simulation-engine-cpp) — c++ | game mechanics & system logic  
-- 🃏 [probability simulation engine](https://github.com/probability-simulation-engine) — c++ | stochastic models & randomness systems  
-- 📚 [educational system design](https://github.com/educational-system-design) — web concepts | learning platform architecture  
-- 📁 [database engineering lab](https://github.com/database-engineering-lab) — sql | relational modeling, joins, indexing  
-- 📊 [sql query optimization lab](https://github.com/sql-query-optimization-lab) — sql | advanced queries & performance tuning  
-- 🤖 [neural network experiments](https://github.com/neural-network-experiments) — python, tensorflow | deep learning prototypes  
-- 🧠 [functional programming exercises](https://github.com/functional-programming-exercises) — clojure | functional paradigms & api design  
-- ⚙️ [developer utilities toolkit](https://github.com/developer-utilities-toolkit) — python | reusable tools & automation scripts  
-- 📊 [data visualization studio](https://github.com/data-visualization-studio) — python, matplotlib | graphing & analytics  
-- 🔧 [dev environment setups](https://github.com/dev-environment-setups) — git, linux | workflow optimization  
-- 📦 [coding practice archive](https://github.com/coding-practice-archive) — mixed | algorithmic exercises & small tasks  
-- ⚡ [systems design playground](https://github.com/systems-design-playground) — python | architecture experiments & scaling concepts
-
+- ⚙️ **PHYSICS SIMULATION SYSTEMS** — https://github.com/PHYSICS-SIMULATION-SYSTEMS  
+- 🧠 **CORE ALGORITHMS LAB** — https://github.com/CORE-ALGORITHMS-LAB  
+- 📊 **DATA ANALYTICS PIPELINE** — https://github.com/DATA-ANALYTICS-PIPELINE  
+- 📈 **PROFIT PREDICTION ENGINE** — https://github.com/PROFIT-PREDICTION-ENGINE  
+- 🔬 **PHYSICS MODELING LAB** — https://github.com/PHYSICS-MODELING-LAB  
+- 🧩 **SYSTEM ARCHITECTURE EXPERIMENTS** — https://github.com/SYSTEM-ARCHITECTURE-EXPERIMENTS  
+- 💻 **BACKEND SERVICE SYSTEMS** — https://github.com/BACKEND-SERVICE-SYSTEMS  
+- 🐧 **LINUX AUTOMATION TOOLKIT** — https://github.com/LINUX-AUTOMATION-TOOLKIT  
+- 🧪 **NUMERICAL METHODS LAB** — https://github.com/NUMERICAL-METHODS-LAB  
+- 📐 **MATHEMATICAL MODELING SYSTEMS** — https://github.com/MATHEMATICAL-MODELING-SYSTEMS  
+- 🔢 **ALGORITHMIC PROBLEM SOLVING** — https://github.com/ALGORITHMIC-PROBLEM-SOLVING  
+- 🎮 **SIMULATION ENGINE CPP** — https://github.com/SIMULATION-ENGINE-CPP  
+- 🃏 **PROBABILITY SIMULATION ENGINE** — https://github.com/PROBABILITY-SIMULATION-ENGINE  
+- 📚 **EDUCATIONAL SYSTEM DESIGN** — https://github.com/EDUCATIONAL-SYSTEM-DESIGN  
+- 📁 **DATABASE ENGINEERING LAB** — https://github.com/DATABASE-ENGINEERING-LAB  
+- 📊 **SQL QUERY OPTIMIZATION LAB** — https://github.com/SQL-QUERY-OPTIMIZATION-LAB  
+- 🤖 **NEURAL NETWORK EXPERIMENTS** — https://github.com/NEURAL-NETWORK-EXPERIMENTS  
+- 🧠 **FUNCTIONAL PROGRAMMING EXERCISES** — https://github.com/FUNCTIONAL-PROGRAMMING-EXERCISES  
+- ⚙️ **DEVELOPER UTILITIES TOOLKIT** — https://github.com/DEVELOPER-UTILITIES-TOOLKIT  
+- 📊 **DATA VISUALIZATION STUDIO** — https://github.com/DATA-VISUALIZATION-STUDIO  
+- 🔧 **DEV ENVIRONMENT SETUPS** — https://github.com/DEV-ENVIRONMENT-SETUPS  
+- 📦 **CODING PRACTICE ARCHIVE** — https://github.com/CODING-PRACTICE-ARCHIVE  
+- ⚡ **SYSTEMS DESIGN PLAYGROUND** — https://github.com/SYSTEMS-DESIGN-PLAYGROUND
+  
 ---
  
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
