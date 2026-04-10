@@ -432,6 +432,21 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 📐 **[NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)**
   
 ---
+
+⚙️ PHYSICS-SIMULATION-SYSTEMS                📦 DELIVERY-DATA-SQL-SYSTEM
+🤖 NEURAL-NETWORKS                           🏗️ OOP-PRINCIPLES-DESIGN
+☕ JAVA-CLOJURE-API-SYSTEM                   🤖 DISCRETE-MATH-AUTOMATA-CONVERTER
+📚 BOOK-CATALOG-APP-DJANGO                   🎓 MOODLE-SYSTEM-EDUCATIONAL-PLATFORM
+🐧 LINUX-PRO-TOOLKIT                         🧮 JAVA-GUI-CALCULATOR-MATH-OPERATIONS
+📈 PROFIT-PREDICTOR-ML                       🎮 RUMMIKUB-CONSOLE-GAME
+🌐 PYTHON-WEB-ADVANCED                       🃏 POCKER-CONSOLE-GAME
+🔢 POLYNOMIAL-CALCULATOR-ALGORITHMS          🗄️ DATABASES-SQL
+📊 PLACEBO-EFFECT-ML-DATA-ANALYSIS           🔧 DATA-STRUCTURES-AND-ALGORITHMS
+⚙️ MODERN-C-CPP-CODE                         📐 NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS
+🧩 OBJECT-ORIENTED-PROGRAMMING
+
+
+---
  
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
 
