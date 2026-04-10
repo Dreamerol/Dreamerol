@@ -459,25 +459,32 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-### 🔹 **PROJECTS & REPOSITORIES**
+### 🔹 PROJECTS & REPOSITORIES
 
+- ⚙️ PHYSICS SIMULATION SYSTEMS: Python, NumPy, Matplotlib | Numerical modeling, motion simulation, energy systems  
+- 🧠 CORE ALGORITHMS: Python | Data structures, recursion, graph algorithms, optimization techniques  
+- 📊 DATA ANALYTICS & REPORTING SYSTEMS: Python, SQL, Pandas | Automated data pipelines & reporting workflows  
+- 📈 PROFIT PREDICTION ENGINE: Python, Pandas, Scikit-learn | Predictive modeling & regression systems  
+- 🔬 PHYSICS DATA MODELING: Python, NumPy | Mathematical modeling of physical systems  
+- 🧩 SYSTEM DESIGN EXPERIMENTS: Python | Modular architecture & reusable components  
+- 💻 BACKEND API SYSTEMS: Python, REST concepts | Service design & integration logic  
+- 🐧 LINUX & SYSTEM AUTOMATION: Shell scripting | Environment setup & automation workflows  
+- 🧪 NUMERICAL METHODS LAB: Python | Integration methods, differential equations, simulations  
+- 📐 MATHEMATICAL MODELING SYSTEMS: Python | ODE-based models, dynamic systems simulation  
+- 🔢 ALGORITHMIC PROBLEM SOLVING: Python | Optimization, complexity analysis, structured solutions  
+- 🎮 SIMULATION GAME LOGIC: C++ | Game mechanics & rule-based system design  
+- 🃏 PROBABILITY SIMULATION ENGINE: C++ | Stochastic modeling & statistical systems  
+- 📚 EDUCATIONAL SYSTEMS (MOODLE-LIKE): Web concepts | Learning platform logic & structure  
+- 📁 DATABASE DESIGN SYSTEMS: SQL | Relational modeling, joins, indexing, optimization  
+- 📊 SQL QUERY ENGINEERING: SQL | Complex queries, views, performance tuning  
+- 🤖 NEURAL NETWORK EXPERIMENTS: Python, TensorFlow | Basic deep learning prototypes  
+- 🧠 FUNCTIONAL PROGRAMMING EXERCISES: Clojure | Functional paradigms & API usage  
+- ⚙️ ENGINEERING UTILITIES TOOLKIT: Python | Helper tools, reusable utilities, automation scripts  
+- 📊 DATA VISUALIZATION SUITE: Python, Matplotlib | Graph generation & analytical plotting  
+- 🔧 DEVELOPMENT ENVIRONMENT SETUPS: Git, Linux | Workflow optimization & tooling  
+- 📦 CODE PRACTICE COLLECTION: Mixed languages | Small focused algorithmic tasks
 
-- 📊 **DATA ANALYTICS & REPORTING**: Python, SQL, Pandas, NumPy, Matplotlib | Automated pipelines & business reports  
-- 🎮 **RUMMIKUB**: C++ | Game logic & algorithmic problem solving  
-- 🃏 **POCKER GAME**: C++ | Probability modeling & game simulation  
-- 🔬 **PHYSICS DATA MODELING**: Python, NumPy, Matplotlib | Predictive modeling & visualization  
-- 🤖 **ML PREDICTION MODEL**: Python, TensorFlow, Pandas, NumPy | Model optimization & accuracy  
-- 🧠 **ALGORITHMS & DATA STRUCTURES**: Graphs, Trees, DP, Sorting | Problem-solving & complexity optimization  
-- 💻 **C++ OOP PROJECTS**: Classes, inheritance, polymorphism | Object-Oriented Programming  
-- 🐧 **LINUX**: Shell scripting, system management, environment setup  
-- 📚 **MOODLE PROJECT**: Educational tech & e-learning workflow  
-- 📁 **DELIVERIES**: SQL, relational modeling | Database design, queries, reporting  
-- 📁 **DATABASES-SQL**: Joins, Views, Indexing, Optimization | SQL exercises  
-- 🧪 **NEURAL NETWORKS & PLACEBO EFFECT**: Python, TensorFlow, Keras, Pandas, Matplotlib | Data preprocessing & predictive modeling  
-- 📈 **PROFIT PREDICTOR**: Python, Pandas, Scikit-learn | Time-series forecasting & accuracy improvement  
-- 📐 **MATHEMATICAL MODELING**: ODEs, SIR Models, Dynamic Systems | Python simulations  
-- ☕ **CLOJURE TASKS & API INTEGRATIONS**: Clojure, ClojureScript | Functional programming exercises
-
+---
 
 <h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
