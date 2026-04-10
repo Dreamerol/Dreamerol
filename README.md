@@ -411,9 +411,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 - ⚙️ **PHYSICS-SIMULATION-SYSTEMS** — https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS  
 - 🤖 **NEURAL-NETWORKS** — https://github.com/Dreamerol/NEURAL-NETWORKS  
-- 📄 **RESUME-09-04-2026** — https://github.com/Dreamerol/RESUME-09-04-2026  
 - ☕ **JAVA-CLOJURE-API-SYSTEM** — https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM  
-- 🧠 **ML-SOLUTIONS** — https://github.com/Dreamerol/ML-SOLUTIONS  
 - 📚 **BOOK-CATALOG-APP-DJANGO** — https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO  
 - 🐧 **LINUX-PRO-TOOLKIT** — https://github.com/Dreamerol/LINUX-PRO-TOOLKIT  
 - 📈 **PROFIT-PREDICTOR-ML** — https://github.com/Dreamerol/PROFIT-PREDICTOR-ML  
