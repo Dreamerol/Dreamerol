@@ -461,28 +461,28 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ### 🔹 PROJECTS & REPOSITORIES
 
-- ⚙️ PHYSICS SIMULATION SYSTEMS: Python, NumPy, Matplotlib | Numerical modeling, motion simulation, energy systems  
-- 🧠 CORE ALGORITHMS: Python | Data structures, recursion, graph algorithms, optimization techniques  
-- 📊 DATA ANALYTICS & REPORTING SYSTEMS: Python, SQL, Pandas | Automated data pipelines & reporting workflows  
-- 📈 PROFIT PREDICTION ENGINE: Python, Pandas, Scikit-learn | Predictive modeling & regression systems  
-- 🔬 PHYSICS DATA MODELING: Python, NumPy | Mathematical modeling of physical systems  
-- 🧩 SYSTEM DESIGN EXPERIMENTS: Python | Modular architecture & reusable components  
-- 💻 BACKEND API SYSTEMS: Python, REST concepts | Service design & integration logic  
-- 🐧 LINUX & SYSTEM AUTOMATION: Shell scripting | Environment setup & automation workflows  
-- 🧪 NUMERICAL METHODS LAB: Python | Integration methods, differential equations, simulations  
-- 📐 MATHEMATICAL MODELING SYSTEMS: Python | ODE-based models, dynamic systems simulation  
-- 🔢 ALGORITHMIC PROBLEM SOLVING: Python | Optimization, complexity analysis, structured solutions  
-- 🎮 SIMULATION GAME LOGIC: C++ | Game mechanics & rule-based system design  
-- 🃏 PROBABILITY SIMULATION ENGINE: C++ | Stochastic modeling & statistical systems  
-- 📚 EDUCATIONAL SYSTEMS (MOODLE-LIKE): Web concepts | Learning platform logic & structure  
-- 📁 DATABASE DESIGN SYSTEMS: SQL | Relational modeling, joins, indexing, optimization  
-- 📊 SQL QUERY ENGINEERING: SQL | Complex queries, views, performance tuning  
-- 🤖 NEURAL NETWORK EXPERIMENTS: Python, TensorFlow | Basic deep learning prototypes  
-- 🧠 FUNCTIONAL PROGRAMMING EXERCISES: Clojure | Functional paradigms & API usage  
-- ⚙️ ENGINEERING UTILITIES TOOLKIT: Python | Helper tools, reusable utilities, automation scripts  
-- 📊 DATA VISUALIZATION SUITE: Python, Matplotlib | Graph generation & analytical plotting  
-- 🔧 DEVELOPMENT ENVIRONMENT SETUPS: Git, Linux | Workflow optimization & tooling  
-- 📦 CODE PRACTICE COLLECTION: Mixed languages | Small focused algorithmic tasks
+- ⚙️ [PHYSICS SIMULATION SYSTEMS](URL_HERE) — Python, NumPy, Matplotlib | Numerical modeling, motion simulation, energy systems  
+- 🧠 [CORE ALGORITHMS](URL_HERE) — Python | Data structures, recursion, graph algorithms, optimization techniques  
+- 📊 [DATA ANALYTICS & REPORTING SYSTEMS](URL_HERE) — Python, SQL, Pandas | Automated pipelines & reporting workflows  
+- 📈 [PROFIT PREDICTION ENGINE](URL_HERE) — Python, Pandas, Scikit-learn | Predictive modeling & regression systems  
+- 🔬 [PHYSICS DATA MODELING](URL_HERE) — Python, NumPy | Mathematical modeling of physical systems  
+- 🧩 [SYSTEM DESIGN EXPERIMENTS](URL_HERE) — Python | Modular architecture & reusable components  
+- 💻 [BACKEND API SYSTEMS](URL_HERE) — Python, REST concepts | Service design & integration logic  
+- 🐧 [LINUX & SYSTEM AUTOMATION](URL_HERE) — Shell scripting | Environment setup & automation workflows  
+- 🧪 [NUMERICAL METHODS LAB](URL_HERE) — Python | Integration methods, differential equations, simulations  
+- 📐 [MATHEMATICAL MODELING SYSTEMS](URL_HERE) — Python | ODE-based models, dynamic systems simulation  
+- 🔢 [ALGORITHMIC PROBLEM SOLVING](URL_HERE) — Python | Optimization, complexity analysis, structured solutions  
+- 🎮 [SIMULATION GAME LOGIC](URL_HERE) — C++ | Game mechanics & rule-based system design  
+- 🃏 [PROBABILITY SIMULATION ENGINE](URL_HERE) — C++ | Stochastic modeling & statistical systems  
+- 📚 [EDUCATIONAL SYSTEMS](URL_HERE) — Web concepts | Learning platform logic & structure  
+- 📁 [DATABASE DESIGN SYSTEMS](URL_HERE) — SQL | Relational modeling, joins, indexing, optimization  
+- 📊 [SQL QUERY ENGINEERING](URL_HERE) — SQL | Complex queries, views, performance tuning  
+- 🤖 [NEURAL NETWORK EXPERIMENTS](URL_HERE) — Python, TensorFlow | Basic deep learning prototypes  
+- 🧠 [FUNCTIONAL PROGRAMMING EXERCISES](URL_HERE) — Clojure | Functional paradigms & API usage  
+- ⚙️ [ENGINEERING UTILITIES TOOLKIT](URL_HERE) — Python | Helper tools, reusable utilities, automation scripts  
+- 📊 [DATA VISUALIZATION SUITE](URL_HERE) — Python, Matplotlib | Graph generation & analytical plotting  
+- 🔧 [DEVELOPMENT ENVIRONMENT SETUPS](URL_HERE) — Git, Linux | Workflow optimization & tooling  
+- 📦 [CODE PRACTICE COLLECTION](URL_HERE) — Mixed languages | Small focused algorithmic tasks
 
 ---
 
