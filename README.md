@@ -409,29 +409,29 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 # 🔹 REPOSITORIES
 
-- ⚙️ **PHYSICS SIMULATION SYSTEMS** — https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS  
-- 🧠 **CORE ALGORITHMS LAB** — https://github.com/Dreamerol/CORE-ALGORITHMS-LAB  
-- 📊 **DATA ANALYTICS PIPELINE** — https://github.com/Dreamerol/DATA-ANALYTICS-PIPELINE  
-- 📈 **PROFIT PREDICTION ENGINE** — https://github.com/Dreamerol/PROFIT-PREDICTION-ENGINE  
-- 🔬 **PHYSICS MODELING LAB** — https://github.com/Dreamerol/PHYSICS-MODELING-LAB  
-- 🧩 **SYSTEM ARCHITECTURE EXPERIMENTS** — https://github.com/Dreamerol/SYSTEM-ARCHITECTURE-EXPERIMENTS  
-- 💻 **BACKEND SERVICE SYSTEMS** — https://github.com/Dreamerol/BACKEND-SERVICE-SYSTEMS  
-- 🐧 **LINUX AUTOMATION TOOLKIT** — https://github.com/Dreamerol/LINUX-AUTOMATION-TOOLKIT  
-- 🧪 **NUMERICAL METHODS LAB** — https://github.com/Dreamerol/NUMERICAL-METHODS-LAB  
-- 📐 **MATHEMATICAL MODELING SYSTEMS** — https://github.com/Dreamerol/MATHEMATICAL-MODELING-SYSTEMS  
-- 🔢 **ALGORITHMIC PROBLEM SOLVING** — https://github.com/Dreamerol/ALGORITHMIC-PROBLEM-SOLVING  
-- 🎮 **SIMULATION ENGINE CPP** — https://github.com/Dreamerol/SIMULATION-ENGINE-CPP  
-- 🃏 **PROBABILITY SIMULATION ENGINE** — https://github.com/Dreamerol/PROBABILITY-SIMULATION-ENGINE  
-- 📚 **EDUCATIONAL SYSTEM DESIGN** — https://github.com/Dreamerol/EDUCATIONAL-SYSTEM-DESIGN  
-- 📁 **DATABASE ENGINEERING LAB** — https://github.com/Dreamerol/DATABASE-ENGINEERING-LAB  
-- 📊 **SQL QUERY OPTIMIZATION LAB** — https://github.com/Dreamerol/SQL-QUERY-OPTIMIZATION-LAB  
-- 🤖 **NEURAL NETWORK EXPERIMENTS** — https://github.com/Dreamerol/NEURAL-NETWORK-EXPERIMENTS  
-- 🧠 **FUNCTIONAL PROGRAMMING EXERCISES** — https://github.com/Dreamerol/FUNCTIONAL-PROGRAMMING-EXERCISES  
-- ⚙️ **DEVELOPER UTILITIES TOOLKIT** — https://github.com/Dreamerol/DEVELOPER-UTILITIES-TOOLKIT  
-- 📊 **DATA VISUALIZATION STUDIO** — https://github.com/Dreamerol/DATA-VISUALIZATION-STUDIO  
-- 🔧 **DEV ENVIRONMENT SETUPS** — https://github.com/Dreamerol/DEV-ENVIRONMENT-SETUPS  
-- 📦 **CODING PRACTICE ARCHIVE** — https://github.com/Dreamerol/CODING-PRACTICE-ARCHIVE  
-- ⚡ **SYSTEMS DESIGN PLAYGROUND** — https://github.com/Dreamerol/SYSTEMS-DESIGN-PLAYGROUND  
+- ⚙️ **PHYSICS-SIMULATION-SYSTEMS** — https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS  
+- 🤖 **NEURAL-NETWORKS** — https://github.com/Dreamerol/NEURAL-NETWORKS  
+- 📄 **RESUME-09-04-2026** — https://github.com/Dreamerol/RESUME-09-04-2026  
+- ☕ **JAVA-CLOJURE-API-SYSTEM** — https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM  
+- 🧠 **ML-SOLUTIONS** — https://github.com/Dreamerol/ML-SOLUTIONS  
+- 📚 **BOOK-CATALOG-APP-DJANGO** — https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO  
+- 🐧 **LINUX-PRO-TOOLKIT** — https://github.com/Dreamerol/LINUX-PRO-TOOLKIT  
+- 📈 **PROFIT-PREDICTOR-ML** — https://github.com/Dreamerol/PROFIT-PREDICTOR-ML  
+- 🌐 **PYTHON-WEB-ADVANCED** — https://github.com/Dreamerol/PYTHON-WEB-ADVANCED  
+- 🔢 **POLYNOMIAL-CALCULATOR-ALGORITHMS** — https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS  
+- 📊 **PLACEBO-EFFECT-ML-DATA-ANALYSIS** — https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS  
+- ⚙️ **MODERN-CPP-CODE** — https://github.com/Dreamerol/MODERN-CPP-CODE  
+- 🧩 **OBJECT-ORIENTED-PROGRAMMING** — https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING  
+- 📦 **DELIVERY-DATA-SQL-SYSTEM** — https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM  
+- 🏗️ **OOP-PRINCIPLES-DESIGN** — https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN  
+- 🤖 **DISCRETE-MATH-AUTOMATA-CONVERTER** — https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER  
+- 🎓 **MOODLE-SYSTEM-EDUCATIONAL-PLATFORM** — https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM  
+- 🧮 **JAVA-GUI-CALCULATOR-MATH-OPERATIONS** — https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS  
+- 🎮 **RUMMIKUB-CONSOLE-GAME** — https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME  
+- 🃏 **POCKER-CONSOLE-GAME** — https://github.com/Dreamerol/POCKER-CONSOLE-GAME  
+- 🗄️ **DATABASES-SQL** — https://github.com/Dreamerol/DATABASES-SQL  
+- 🔧 **DATA-STRUCTURES-AND-ALGORITHMS** — https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS
+- 📐 **NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS** — https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS   
 
 ---
  
