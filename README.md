@@ -399,10 +399,11 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🐬 Numerical Analysis
 
 
-<h4 align="center" style="font-weight: normal;">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
-#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h4>
+---
+
+<p align="center">
+🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
+</p>
 
 ---
 
@@ -488,13 +489,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 
-</p>
-
-
----
-
-<p align="center">
-🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
 </p>
 
 ---
