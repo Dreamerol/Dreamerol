@@ -433,20 +433,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   
 ---
 
-| ⚙️ Systems | 🤖 ML / AI | 📦 Databases / Apps |
-|------------|------------|---------------------|
-| PHYSICS-SIMULATION-SYSTEMS | NEURAL-NETWORKS | DELIVERY-DATA-SQL-SYSTEM |
-| JAVA-CLOJURE-API-SYSTEM | PROFIT-PREDICTOR-ML | BOOK-CATALOG-APP-DJANGO |
-| LINUX-PRO-TOOLKIT | PLACEBO-EFFECT-ML-DATA-ANALYSIS | MOODLE-SYSTEM-EDUCATIONAL-PLATFORM |
-| PYTHON-WEB-ADVANCED | MODERN-C-CPP-CODE | OBJECT-ORIENTED-PROGRAMMING |
-| DATA-STRUCTURES-AND-ALGORITHMS | NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS | DATABASES-SQL |
-| | | DISCRETE-MATH-AUTOMATA-CONVERTER |
-| | | JAVA-GUI-CALCULATOR-MATH-OPERATIONS |
-| | | RUMMIKUB-CONSOLE-GAME |
-| | | POCKER-CONSOLE-GAME |
  
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
-
 
 ---
 
