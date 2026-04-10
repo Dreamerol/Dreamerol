@@ -433,20 +433,17 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   
 ---
 
-| ⚙️ Systems / ML | 📦 Databases / Games |
-|------------------|----------------------|
-| [PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS) | [DELIVERY-DATA-SQL-SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) |
-| [NEURAL-NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) | [OOP-PRINCIPLES-DESIGN](https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN) |
-| [JAVA-CLOJURE-API-SYSTEM](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) | [DISCRETE-MATH-AUTOMATA-CONVERTER](https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER) |
-| [BOOK-CATALOG-APP-DJANGO](https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO) | [MOODLE-SYSTEM-EDUCATIONAL-PLATFORM](https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM) |
-| [LINUX-PRO-TOOLKIT](https://github.com/Dreamerol/LINUX-PRO-TOOLKIT) | [JAVA-GUI-CALCULATOR-MATH-OPERATIONS](https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS) |
-| [PROFIT-PREDICTOR-ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) | [RUMMIKUB-CONSOLE-GAME](https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME) |
-| [PYTHON-WEB-ADVANCED](https://github.com/Dreamerol/PYTHON-WEB-ADVANCED) | [POCKER-CONSOLE-GAME](https://github.com/Dreamerol/POCKER-CONSOLE-GAME) |
-| [POLYNOMIAL-CALCULATOR-ALGORITHMS](https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS) | [DATABASES-SQL](https://github.com/Dreamerol/DATABASES-SQL) |
-| [PLACEBO-EFFECT-ML-DATA-ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) | [DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS) |
-| [MODERN-C-CPP-CODE](https://github.com/Dreamerol/MODERN-C-CPP-CODE) | [NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS) |
-| [OBJECT-ORIENTED-PROGRAMMING](https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING) | |
-
+| ⚙️ Systems | 🤖 ML / AI | 📦 Databases / Apps |
+|------------|------------|---------------------|
+| [PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS) | [NEURAL-NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) | [DELIVERY-DATA-SQL-SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) |
+| [JAVA-CLOJURE-API-SYSTEM](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) | [PROFIT-PREDICTOR-ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) | [BOOK-CATALOG-APP-DJANGO](https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO) |
+| [LINUX-PRO-TOOLKIT](https://github.com/Dreamerol/LINUX-PRO-TOOLKIT) | [PLACEBO-EFFECT-ML-DATA-ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) | [MOODLE-SYSTEM-EDUCATIONAL-PLATFORM](https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM) |
+| [PYTHON-WEB-ADVANCED](https://github.com/Dreamerol/PYTHON-WEB-ADVANCED) | | [OBJECT-ORIENTED-PROGRAMMING](https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING) |
+| [MODERN-C-CPP-CODE](https://github.com/Dreamerol/MODERN-C-CPP-CODE) | | [DATABASES-SQL](https://github.com/Dreamerol/DATABASES-SQL) |
+| [DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS) | | [DISCRETE-MATH-AUTOMATA-CONVERTER](https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER) |
+| [NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS) | | [JAVA-GUI-CALCULATOR-MATH-OPERATIONS](https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS) |
+| | | [RUMMIKUB-CONSOLE-GAME](https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME) |
+| | | [POCKER-CONSOLE-GAME](https://github.com/Dreamerol/POCKER-CONSOLE-GAME) |
 
 ---
  
