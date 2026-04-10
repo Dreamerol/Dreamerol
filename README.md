@@ -458,33 +458,33 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-### 🔹 PROJECTS & REPOSITORIES
+### 🔹 projects & repositories
 
-- ⚙️ [PHYSICS SIMULATION SYSTEMS](https://github.com/Dreamerol/physics-simulation-systems) — Python, NumPy, Matplotlib | Numerical modeling, motion simulation, energy systems  
-- 🧠 [CORE ALGORITHMS](https://github.com/Dreamerol/core-algorithms) — Python | Data structures, recursion, graph algorithms, optimization techniques  
-- 📊 [DATA ANALYTICS & REPORTING SYSTEMS](https://github.com/Dreamerol/data-analytics-reporting) — Python, SQL, Pandas | Automated pipelines & reporting workflows  
-- 📈 [PROFIT PREDICTION ENGINE](https://github.com/Dreamerol/profit-predictor) — Python, Pandas, Scikit-learn | Predictive modeling & regression systems  
-- 🔬 [PHYSICS DATA MODELING](https://github.com/Dreamerol/physics-data-modeling) — Python, NumPy | Mathematical modeling of physical systems  
-- 🧩 [SYSTEM DESIGN EXPERIMENTS](https://github.com/Dreamerol/system-design-experiments) — Python | Modular architecture & reusable components  
-- 💻 [BACKEND API SYSTEMS](https://github.com/Dreamerol/backend-api-systems) — Python, REST concepts | Service design & integration logic  
-- 🐧 [LINUX & SYSTEM AUTOMATION](https://github.com/Dreamerol/linux-automation) — Shell scripting | Environment setup & automation workflows  
-- 🧪 [NUMERICAL METHODS LAB](https://github.com/Dreamerol/numerical-methods-lab) — Python | Integration methods, differential equations, simulations  
-- 📐 [MATHEMATICAL MODELING SYSTEMS](https://github.com/Dreamerol/mathematical-modeling) — Python | ODE-based models, dynamic systems simulation  
-- 🔢 [ALGORITHMIC PROBLEM SOLVING](https://github.com/Dreamerol/algorithmic-problems) — Python | Optimization, complexity analysis, structured solutions  
-- 🎮 [SIMULATION GAME LOGIC](https://github.com/Dreamerol/simulation-game-logic) — C++ | Game mechanics & rule-based system design  
-- 🃏 [PROBABILITY SIMULATION ENGINE](https://github.com/Dreamerol/probability-engine) — C++ | Stochastic modeling & statistical systems  
-- 📚 [EDUCATIONAL SYSTEMS](https://github.com/Dreamerol/educational-systems) — Web concepts | Learning platform logic & structure  
-- 📁 [DATABASE DESIGN SYSTEMS](https://github.com/Dreamerol/database-design) — SQL | Relational modeling, joins, indexing, optimization  
-- 📊 [SQL QUERY ENGINEERING](https://github.com/Dreamerol/sql-engineering) — SQL | Complex queries, views, performance tuning  
-- 🤖 [NEURAL NETWORK EXPERIMENTS](https://github.com/Dreamerol/neural-networks) — Python, TensorFlow | Basic deep learning prototypes  
-- 🧠 [FUNCTIONAL PROGRAMMING EXERCISES](https://github.com/Dreamerol/clojure-exercises) — Clojure | Functional paradigms & API usage  
-- ⚙️ [ENGINEERING UTILITIES TOOLKIT](https://github.com/Dreamerol/utilities-toolkit) — Python | Helper tools, reusable utilities, automation scripts  
-- 📊 [DATA VISUALIZATION SUITE](https://github.com/Dreamerol/data-visualization) — Python, Matplotlib | Graph generation & analytical plotting  
-- 🔧 [DEVELOPMENT ENVIRONMENT SETUPS](https://github.com/Dreamerol/dev-setup) — Git, Linux | Workflow optimization & tooling  
-- 📦 [CODE PRACTICE COLLECTION](https://github.com/Dreamerol/code-practice) — Mixed languages | Small focused algorithmic tasks
+- ⚙️ [physics simulation systems](https://github.com/physics-simulation-systems) — python | numerical modeling, motion simulation, energy systems  
+- 🧠 [core algorithms lab](https://github.com/core-algorithms-lab) — python | data structures, recursion, graph algorithms, optimization  
+- 📊 [data analytics pipeline](https://github.com/data-analytics-pipeline) — python, sql, pandas | automated reporting & data workflows  
+- 📈 [profit prediction engine](https://github.com/profit-prediction-engine) — python, pandas, sklearn | predictive modeling & regression systems  
+- 🔬 [physics modeling lab](https://github.com/physics-modeling-lab) — python, numpy | mathematical modeling of physical systems  
+- 🧩 [system architecture experiments](https://github.com/system-architecture-experiments) — python | modular design & scalable components  
+- 💻 [backend service systems](https://github.com/backend-service-systems) — python | api design & service integration  
+- 🐧 [linux automation toolkit](https://github.com/linux-automation-toolkit) — shell scripting | system automation & workflows  
+- 🧪 [numerical methods lab](https://github.com/numerical-methods-lab) — python | differential equations, integration methods  
+- 📐 [mathematical modeling systems](https://github.com/mathematical-modeling-systems) — python | odes, dynamic systems  
+- 🔢 [algorithmic problem solving](https://github.com/algorithmic-problem-solving) — python | complexity, optimization, structured solutions  
+- 🎮 [simulation engine cpp](https://github.com/simulation-engine-cpp) — c++ | game mechanics & system logic  
+- 🃏 [probability simulation engine](https://github.com/probability-simulation-engine) — c++ | stochastic models & randomness systems  
+- 📚 [educational system design](https://github.com/educational-system-design) — web concepts | learning platform architecture  
+- 📁 [database engineering lab](https://github.com/database-engineering-lab) — sql | relational modeling, joins, indexing  
+- 📊 [sql query optimization lab](https://github.com/sql-query-optimization-lab) — sql | advanced queries & performance tuning  
+- 🤖 [neural network experiments](https://github.com/neural-network-experiments) — python, tensorflow | deep learning prototypes  
+- 🧠 [functional programming exercises](https://github.com/functional-programming-exercises) — clojure | functional paradigms & api design  
+- ⚙️ [developer utilities toolkit](https://github.com/developer-utilities-toolkit) — python | reusable tools & automation scripts  
+- 📊 [data visualization studio](https://github.com/data-visualization-studio) — python, matplotlib | graphing & analytics  
+- 🔧 [dev environment setups](https://github.com/dev-environment-setups) — git, linux | workflow optimization  
+- 📦 [coding practice archive](https://github.com/coding-practice-archive) — mixed | algorithmic exercises & small tasks  
+- ⚡ [systems design playground](https://github.com/systems-design-playground) — python | architecture experiments & scaling concepts
 
 ---
-
  
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
 
