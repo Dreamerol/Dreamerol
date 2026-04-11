@@ -190,7 +190,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -355,7 +355,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -531,7 +531,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -665,7 +665,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
@@ -834,7 +834,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
