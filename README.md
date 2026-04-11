@@ -41,7 +41,7 @@
 ---
 
 
-<h2 align="center">FEATURED PROJECTS</h2>
+<h2 align="center">𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h2>
 
 <table align="center">
   <tr>
