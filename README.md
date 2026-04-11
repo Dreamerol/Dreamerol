@@ -38,7 +38,7 @@
 
 <h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
 
-<h3 align="center"> <strong><em>"Turning data into insights & Making a difference through real-world solutions"</em></strong> </h3>
+<h3 align="center"> <strong><em>" Turning data into insights & Making a difference through real-world solutions "</em></strong> </h3>
 
 
 ---
