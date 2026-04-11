@@ -40,7 +40,7 @@
 ---
 
 
-<h1 align="center">FEATURED PROJECTS</h1>
+<h2 align="center">FEATURED PROJECTS</h2>
 
 <table align="center">
   <tr>
