@@ -163,16 +163,11 @@
 
 </div>
 
-
-
 ---
-
 
 ## <h3 align="center"> <strong><em>Junior Data Analyst & Software Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h3>
 
 ---
-
-
 
 <div align="center" style="line-height:1.4;">
 
