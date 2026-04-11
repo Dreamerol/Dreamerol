@@ -169,11 +169,7 @@
 ---
 
 
-
-
-<h3 align="center">Junior Data Analyst & Software Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs </h3>
-
-<h3 align="center"> <strong><em>Junior Data Analyst & Software Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h3>
+## <h3 align="center"> <strong><em>Junior Data Analyst & Software Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h3>
 
 ---
 
