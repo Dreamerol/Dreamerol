@@ -37,6 +37,8 @@
 
 <h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
 
+<h2 align="center"> <strong><em>"Turning data into insights & Making a difference through real-world solutions"</em></strong> </h2>
+
 ---
 
 
@@ -55,13 +57,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
-
-
----
-
-
-
-<h2 align="center"> <strong><em>"Turning data into insights & Making a difference through real-world solutions"</em></strong> </h2>
 
 
 
