@@ -42,7 +42,6 @@
 
 <p align="center">
 
-
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
@@ -69,7 +68,6 @@
   <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
   <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -134,7 +132,6 @@
 </p>
 
 </div>
-
 
 
 
@@ -317,9 +314,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 ---
 
 
-
 <p align="center">
-
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -347,7 +342,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
   <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -413,9 +407,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 </div>
 
-
-
----
 
 
 ---
@@ -500,9 +491,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 
 
-
 <p align="center">
-
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -530,7 +519,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
   <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -595,7 +583,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 </p>
 
 </div>
-
 
 
 
