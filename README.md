@@ -142,6 +142,30 @@
 
 
 
+
+
+<!-- ROW 2 -->
+
+<p align="center">
+
+  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg" width="250" height="150"/>
+  </a>
+
+  <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" width="250" height="150"/>
+  </a>
+
+  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG" width="250" height="150"/>
+  </a>
+
+</p>
+
+
+
+
+
 <!-- ROW 1 -->
 <p align="center">
 
