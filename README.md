@@ -170,7 +170,7 @@
 ---
 
 
-<div align="center" style="line-height:1.4;">
+
 
 <strong>Junior Data Analyst & Software Engineer @ FMI</strong> with a strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br>
 
