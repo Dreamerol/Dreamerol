@@ -63,9 +63,6 @@
 ---
 
 
-
-<h2 align="center">𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h2>
-
 <!-- ROW 1 -->
 <p align="center">
 
@@ -228,7 +225,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
-
+  <h2 align="center">𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h2>
 
 <p align="center">
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Time-Series Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
