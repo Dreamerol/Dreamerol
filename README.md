@@ -32,6 +32,12 @@
 </div>
 
 
+---
+
+<h2 align="center"> <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
+
+
+---
 
 ---
 
@@ -51,11 +57,6 @@
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
-
----
-
-<h2 align="center"> <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
 
 
 ---
