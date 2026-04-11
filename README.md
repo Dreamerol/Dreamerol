@@ -167,16 +167,15 @@
     <img src="https://github.com/Dreamerol/Dreamerol/raw/f62976e353d1a4c3c1d61acb9da6d89f33c9f8a3/NN.webp" width="250" height="150"/>
   </a>
 
-  <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/3f63dc7778440e85c0af7a73e73e0ae2e74439ee/API_Placebo_Effect.webp" width="250" height="150"/>
-  </a>
-  
   <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/c767a4e77a40ce73e646571524ef0443182a4d02/46c891e0565c033d0f3f21e79b49ce1d%20(1).jpg" width="250" height="150"/>
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/c767a4e77a40ce73e646571524ef0443182a4d02/46c891e0565c033d0f3f21e79b49ce1d%20(1).jpg" width="250" height="150"/>
+  </a>
+
+  <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/3f63dc7778440e85c0af7a73e73e0ae2e74439ee/API_Placebo_Effect.webp" width="250" height="150"/>
   </a>
 
 </p>
-
 
 
 
