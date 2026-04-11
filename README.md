@@ -36,7 +36,6 @@
 
 <h2 align="center"> <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
 
-
 ---
 
 
