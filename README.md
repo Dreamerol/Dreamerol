@@ -35,6 +35,10 @@
 
 ---
 
+<h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
+
+---
+
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -55,7 +59,7 @@
 
 ---
 
-<h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
+
 
 <h2 align="center"> <strong><em>"Turning data into insights & Making a difference through real-world solutions"</em></strong> </h2>
 
