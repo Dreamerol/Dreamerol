@@ -332,9 +332,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
+
 
 
 <p align="center">
