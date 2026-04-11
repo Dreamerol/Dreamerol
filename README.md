@@ -6,6 +6,7 @@
 ---
 
 
+
 <div align="center">
 
   <span style="display:block; font-size:2.5em; font-weight:bold; margin-bottom:0.5em;">
@@ -169,7 +170,7 @@
 
 ---
 
-
+<div align="center" style="line-height:2;">
 
 
 <strong>Junior Data Analyst & Software Engineer @ FMI</strong> with a strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br>
