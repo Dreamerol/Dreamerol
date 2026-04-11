@@ -70,7 +70,7 @@
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
