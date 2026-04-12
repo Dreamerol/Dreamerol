@@ -32,10 +32,7 @@
 
 <h2 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h2>
 
-<h3 align="center"> <strong><em><h3 align="center"> <strong><em>Software & ML Engineer | Data Analyst | Python • Java • C++ • Clojure • SQL | Algorithms & Data Structures | Machine Learning & APIs</em></strong> </h3></em></strong> </h3>
-
-<h2 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h2>
-
+<h3 align="center"> <strong><em><h3 align="center"> <strong><em>Software Engineer | Data Analyst | Python • Java • C++ • Clojure • SQL | Algorithms & Data Structures | Machine Learning & APIs</em></strong> </h3></em></strong> </h3>
 
 ---
 
