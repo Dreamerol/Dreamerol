@@ -111,6 +111,8 @@
 
 ---
 
+<p align="center"><i>* Click any badge to view its GitHub repository.</i></p>
+
 
 <p align="center">
 
