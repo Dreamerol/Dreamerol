@@ -111,7 +111,11 @@
 
 ---
 
-<p align="center"><i>* Click any badge to view its GitHub repository.</i></p>
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
+    <strong>🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</strong>
+  </a>
+</h2>
 
 
 <p align="center">
