@@ -118,6 +118,8 @@
 </h3>
 
 
+---
+
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
