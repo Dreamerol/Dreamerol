@@ -646,7 +646,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   </a>
 </h3>
 
-
+---
 
 <p align="center">
 
