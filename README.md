@@ -119,6 +119,11 @@
 
 
 <p align="center">
+  <i style="font-size:1.2em;">⭐ Click any badge to view its GitHub repository.</i>
+</p>
+
+
+<p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
