@@ -184,10 +184,6 @@
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
   <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 </a>
