@@ -448,10 +448,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
 
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
 </a>
@@ -488,14 +484,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -515,7 +503,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 </p>
 
 </div>
-
 
 
 ---
@@ -636,6 +623,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
+
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -660,10 +648,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
-
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -701,14 +685,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -728,6 +704,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 </p>
 
 </div>
+
 
 
 ---
