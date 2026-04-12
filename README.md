@@ -180,10 +180,6 @@
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
