@@ -111,12 +111,11 @@
 
 ---
 
- <h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
-    <strong>⭐ Click any badge to view its GitHub repository</strong>
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>⭐ Click any badge to view its GitHub repository</em></strong>
   </a>
 </h3>
-
 
 ---
 
