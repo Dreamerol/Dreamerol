@@ -438,12 +438,11 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 ---
 
 
-<div align="center">
-
-## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-
-</div>
-
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
+    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+  </a>
+</h2>
 
 
 
