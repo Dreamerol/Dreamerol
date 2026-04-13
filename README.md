@@ -107,13 +107,11 @@
 
 ---
 
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/930731579b287b25c3311fc39dbff18de88969ad/ZZZNUMERAL.JPG" width="250" height="150"/>
-</a>
+
 
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/d6da97ae60a947b0b9ee1675c0e6aa09cf4d6192/ZZZZZNUM%20AN.jpg" width="250" height="150"/>
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/0189c78e940424be67b93dfa0881394d299bff69/ZZZNUMERAL.JPG" width="250" height="150"/>
 </a>
 
 
