@@ -107,6 +107,16 @@
 
 ---
 
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/85f8e424b5c9e6b8e2da9eb7d6174624579fadd4/ZZZNUMERAL.JPG" width="250" height="150"/>
+</a>
+
+
+
+
+
+---
+
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
     <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
