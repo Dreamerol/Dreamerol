@@ -107,8 +107,8 @@
 
 ---
 
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/85f8e424b5c9e6b8e2da9eb7d6174624579fadd4/ZZZNUMERAL.JPG" width="250" height="150"/>
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="display:inline-block; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/3b6c5b47cd0c2532c281d097c020ade463f5a189/ZZZMOODLE.JPG" width="250" height="150"/>
 </a>
 
 
@@ -117,9 +117,12 @@
 </a>
 
 
-<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/3b6c5b47cd0c2532c281d097c020ade463f5a189/ZZZMOODLE.JPG" width="250" height="150"/>
+
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/85f8e424b5c9e6b8e2da9eb7d6174624579fadd4/ZZZNUMERAL.JPG" width="250" height="150"/>
 </a>
+
+
 
 
 
