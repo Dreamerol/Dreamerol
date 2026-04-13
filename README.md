@@ -111,7 +111,7 @@
 
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/79ab2cd7e0db6c6a23dfb62ab29729ae1b623b2a/ZZZNUMERAL22.JPG" width="250" height="150"/>
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/131fa0a470679564ab7c797dbe3bc4b0cdb8d5f0/4f9f2d7399b8ee3c7827b1ea2d675d5d.jpg" width="250" height="150"/>
 </a>
 
 
