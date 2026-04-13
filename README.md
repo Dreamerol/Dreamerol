@@ -105,25 +105,6 @@
 </p>
 
 
----
-
-
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/0bf157c762100e98ea1d6c9ee3ea1c74ace6edf1/ZZZZZNUM%20AN222.jpg" width="250" height="150"/>
-</a>
-
-
-
-<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/c132bac0ee027ed2aa73770a5ac143e93857f56a/ZZZONLINE.jpg" width="250" height="150"/>
-</a>
-
-
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="display:inline-block; margin:10px;">
-  <img src="https://github.com/Dreamerol/Dreamerol/raw/bfd299808bf5824182aba2e0b4668bb9950acd6a/atom.jpg" width="250" height="150"/>
-</a>
-
-
 
 ---
 
