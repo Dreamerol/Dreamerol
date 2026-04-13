@@ -67,21 +67,23 @@
 
 
 
-
 <!-- ROW 1 -->
 <p align="center">
 
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/f62976e353d1a4c3c1d61acb9da6d89f33c9f8a3/NN.webp" width="250" height="150"/>
+   <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/1a2ac3a625b08ef5aa6b50cea2b9900f81577aef/ZZZZZZZZZNNNNN777.jpg" width="250" height="150"/>
   </a>
 
-   <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/3f63dc7778440e85c0af7a73e73e0ae2e74439ee/API_Placebo_Effect.webp" width="250" height="150"/>
-  </a>
   
-  <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/c767a4e77a40ce73e646571524ef0443182a4d02/46c891e0565c033d0f3f21e79b49ce1d%20(1).jpg" width="250" height="150"/>
+   <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg" width="250" height="150" style="border-radius:12px;" />
   </a>
+   
+    
+   <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg" width="250" height="150"/>
+  </a>
+
 
   
 </p>
@@ -90,16 +92,42 @@
 
 <p align="center">
 
-  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; margin:10px; vertical-align:top;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg" width="250" height="150"/>
+ <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG" width="250" height="150"/>
   </a>
 
-  <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; margin:10px; vertical-align:top;">
+  
+ <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; margin:10px; vertical-align:top;">
     <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" width="250" height="150"/>
   </a>
 
-  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; margin:10px; vertical-align:top;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG" width="250" height="150"/>
+  
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/f534e462e66212bd1c9e22487ea225afab986f7d/math777.jpg" width="250" height="150" style="border-radius:12px;" />
+  </a>
+
+</p>
+
+
+
+
+<!-- ROW 3 -->
+
+<p align="center">
+
+  
+   <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg" width="250" height="150"/>
+  </a>
+    
+ 
+ <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG" width="250" height="150"/>
+  </a>    
+  
+
+  <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG" width="250" height="150" style="border-radius:12px;" />
   </a>
 
 </p>
