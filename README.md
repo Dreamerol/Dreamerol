@@ -73,84 +73,67 @@
 
 
 
-
-
-
-
-
 <p align="center">
 
-<!-- ROW 1 -->
-<div>
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/1a2ac3a625b08ef5aa6b50cea2b9900f81577aef/ZZZZZZZZZNNNNN777.jpg"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦
-  </a>
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="display:inline-block; width:260px; max-width:90vw; margin:10px; vertical-align:top;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/1a2ac3a625b08ef5aa6b50cea2b9900f81577aef/ZZZZZZZZZNNNNN777.jpg"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦
+</a>
 
-  <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
-  </a>
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="display:inline-block; width:260px; max-width:90vw; margin:10px; vertical-align:top;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+</a>
 
-  <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥
-  </a>
-</div>
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; width:260px; max-width:90vw; margin:10px; vertical-align:top;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥
+</a>
 
-<br>
+<br><br>
 
-<!-- ROW 2 -->
-<div>
-  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
-  </a>
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; width:260px; max-width:90vw; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+</a>
 
-  <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1b/ZBOOKS.jpg"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗕𝗢𝗢𝗞 𝗖𝗔𝗧𝗔𝗟𝗢𝗚
-  </a>
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; width:260px; max-width:90vw; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1b/ZBOOKS.jpg"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗕𝗢𝗢𝗞 𝗖𝗔𝗧𝗔𝗟𝗢𝗚
+</a>
 
-  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/f534e462e66212bd1c9e22487ea225afab986f7d/math777.jpg"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡
-  </a>
-</div>
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="display:inline-block; width:260px; max-width:90vw; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/f534e462e66212bd1c9e22487ea225afab986f7d/math777.jpg"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡
+</a>
 
-<br>
+<br><br>
 
-<!-- ROW 3 -->
-<div>
-  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟
-  </a>
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; width:260px; max-width:90vw; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟
+</a>
 
-  <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧
-  </a>
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; width:260px; max-width:90vw; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧
+</a>
 
-  <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="display:inline-block; width:260px; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
-         style="width:100%; height:150px; border-radius:12px;" />
-    <br>𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦
-  </a>
-</div>
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="display:inline-block; width:260px; max-width:90vw; margin:10px;">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
+       style="width:100%; height:150px; border-radius:12px;" />
+  <br>𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦
+</a>
 
 </p>
-
-
-
 
 
 
