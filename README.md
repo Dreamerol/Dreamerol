@@ -214,7 +214,7 @@
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository</em></strong>
+    <strong><em>✨ Click any badge to view its GitHub repository</em></strong>
   </a>
 </h3>
 
@@ -518,7 +518,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository ⭐</em></strong>
+    <strong><em>✨ Click any badge to view its GitHub repository</em></strong>
   </a>
 </h3>
 
@@ -720,7 +720,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository ⭐</em></strong>
+    <strong><em>✨ Click any badge to view its GitHub repository</em></strong>
   </a>
 </h3>
 
