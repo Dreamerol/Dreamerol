@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h2>
+<h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
 
 <h3 align="center"> <strong><em><h3 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Machine Learning & APIs | Python • C++ • SQL</em></strong> </h3></em></strong> </h3>
 
