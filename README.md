@@ -703,7 +703,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 <h2 align="center"> <strong><em>✨ Turning data into insights & Making a difference through real-world solutions ✨</em></strong> </h2>
 
 
-<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
+<h3 align="center"> <em>Feel free to explore the projects and give a star if you find them interesting</em></h3>
 
 ---
 
