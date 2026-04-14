@@ -178,7 +178,7 @@
       <img src="https://github.com/Dreamerol/Dreamerol/blob/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
            width="250" height="150" style="border-radius:12px;" />
     </a>
-    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 (𝗗𝗔𝗧𝗔)
+    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧
   </td>
 
   <td align="center" width="260" style="padding:10px;">
