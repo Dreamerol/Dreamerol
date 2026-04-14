@@ -134,7 +134,7 @@
       <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg"
            width="250" height="150" style="border-radius:12px;" />
     </a>
-    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗕𝗢𝗢𝗞 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣
+    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣
   </td>
 
   <td align="center" width="260" style="padding:10px;">
