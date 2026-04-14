@@ -705,12 +705,14 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 ---
 
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=0e75b6" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
 
 
 ---
@@ -816,4 +818,9 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
 </h4>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
+</p>
 
