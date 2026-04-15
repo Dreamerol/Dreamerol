@@ -34,10 +34,7 @@
 
 <div align="center">
 
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧  
-📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔 &nbsp;|&nbsp; 
-📞 +359 89 764 3552 &nbsp;|&nbsp; 
-✉️ michaelakoseva@gmail.com &nbsp;|&nbsp; 
+📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧  📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔 &nbsp;|&nbsp; 📞 +359 89 764 3552 &nbsp;|&nbsp; ✉️ michaelakoseva@gmail.com &nbsp;|&nbsp; 
 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> &nbsp;|&nbsp; 
 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
 
