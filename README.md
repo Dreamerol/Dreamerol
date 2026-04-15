@@ -839,9 +839,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/mihaela" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
 </p>
 
 
