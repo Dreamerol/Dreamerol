@@ -8,6 +8,7 @@
 <div align="center">
 
 📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧   
+  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
     📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
   </span>
 
