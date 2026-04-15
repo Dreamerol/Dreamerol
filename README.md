@@ -844,11 +844,10 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-  <h4>📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
+  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
+    📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
+  </span>
 
-  📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 &nbsp;|&nbsp;
-
-  📍 𝗦𝗢𝗙𝗜𝗔 &nbsp;|&nbsp;
   📞 +359 89 764 3552 &nbsp;|&nbsp;
   <span style="display:block; font-size:2.5em;">
     ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
