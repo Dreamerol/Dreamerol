@@ -812,7 +812,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
 </p>
 
-
+---
 
 <div align="center">
 
