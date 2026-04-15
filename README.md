@@ -826,8 +826,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 ---
 
 
-<div align="center">
-
   <div align="center">
 
   <h3>📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</h3>
