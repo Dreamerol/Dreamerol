@@ -308,10 +308,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 </div>
 
 
-<h4 align="center" style="font-weight: normal;">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #AppliedML #AI #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper #APIIntegrations #AI #MachineLearning #DataAnalyst </h4>
-
-
 ---
 
 
@@ -359,12 +355,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 Focus on **scalable, clean, and efficient workflows** for consistent results
 
   
-
-<h4 align="center" style="font-weight: normal;">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
-#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h4>
-
 ---
 
 ## 💻 Software Engineering & Core Skills 
@@ -376,13 +366,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 Focused on **scalable, robust, and production-ready solutions**
 
   
-
-<h4 align="center" style="font-weight: normal;">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
-#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h4>
-
 ---
+
 
 ## 🧠 Neural Networks & Applied ML
 
@@ -392,13 +377,6 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 🗄️ Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
 - 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results
   
-
-
-<h4 align="center" style="font-weight: normal;">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
-#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h4>
-
 
 ---
 
@@ -498,8 +476,7 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 - 💡 Quick learner, passionate about **solving real-world problems**  
 - ⚡ Focused on **clean code, scalable design, and efficient algorithms**
 
-   
-
+  
 
 ---
 
