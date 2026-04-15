@@ -33,7 +33,8 @@
 
 <div align="center">
 
-  <h4 style="margin-bottom: 0.5em;">📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
+  <h4 style="margin-bottom: 0.5em;">𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
+  
   <span style="display:block; font-size:2.5em; margin-top:0.5em;">
     📍 𝗦𝗢𝗙𝗜𝗔
   </span>
@@ -53,7 +54,9 @@
 
 </div>
 
+---
 
+  <h4 style="margin-bottom: 0.5em;">📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
 
 ---
 
