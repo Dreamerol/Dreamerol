@@ -30,6 +30,24 @@
 
 ---
 
+
+<div align="center">
+
+<h3>📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h3>
+
+📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔 &nbsp;|&nbsp;
+📞 +359 89 764 3552 &nbsp;|&nbsp;
+✉️ michaelakoseva@gmail.com &nbsp;|&nbsp;
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> &nbsp;|&nbsp;
+🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
+
+</div>
+
+
+
+
+---
+
 <h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
 
 <strong><em><h2 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Applied Machine Learning & APIs | Python • C++ • Java • Clojure • SQL</em></strong> </h2></em></strong> 
