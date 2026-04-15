@@ -866,8 +866,8 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
     📞 +359 89 764 3552
   </span>
 
-  <span style="display:block; font-size:2.5em;">
-    ✉️ MICHAELAKOSEVA@GMAIL.COM
+   <span style="display:block; font-size:2.5em;">
+    ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
   </span>
 
    <span style="display:block; font-size:2.5em;">
