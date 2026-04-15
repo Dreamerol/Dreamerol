@@ -788,4 +788,3 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 </div>
 
 
----
