@@ -54,9 +54,6 @@
 
 </div>
 
----
-
-  <h4 style="margin-bottom: 0.5em;">📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
 
 ---
 
