@@ -33,14 +33,15 @@
 ---
 
 
-<h4>📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
+<h4 align="center">📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h4>
+
+<div align="center">
 
 📍 𝗦𝗢𝗙𝗜𝗔 &nbsp;|&nbsp;
 📞 +359 89 764 3552 &nbsp;|&nbsp;
- <span style="display:block; font-size:2.5em;">
-    ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
-  </span>
+✉️ michaelakoseva@gmail.com &nbsp;|&nbsp;
 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> &nbsp;|&nbsp;
+📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> &nbsp;|&nbsp;
 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
 
 </div>
