@@ -844,6 +844,38 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
     ✉️ MICHAELAKOSEVA@GMAIL.COM
   </span>
 
+  ---
+
+  <div align="center">
+
+  <h2>📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</h2>
+
+  <p style="font-size:1.5em;">
+    📍 <b>Sofia, Bulgaria</b>
+  </p>
+
+  <p style="font-size:1.5em;">
+    📞 <a href="tel:+359897643552">+359 89 764 3552</a>
+  </p>
+
+  <p style="font-size:1.5em;">
+    ✉️ <a href="mailto:michaelakoseva@gmail.com">michaelakoseva@gmail.com</a>
+  </p>
+
+  <p style="font-size:1.5em;">
+    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a>
+  </p>
+
+  <p style="font-size:1.5em;">
+    📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">Resume</a>
+  </p>
+
+  <p style="font-size:1.5em;">
+    🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">Portfolio</a>
+  </p>
+
+</div>
+
   <span style="display:block; font-size:2.5em;">
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
     🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
