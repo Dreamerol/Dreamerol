@@ -828,8 +828,9 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 
 <div align="center">
 
-  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
-    𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦:
+  <div align="center">
+
+  <h3>📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</h3>
   </span>
 
   <span style="display:block; font-size:2.5em;">
@@ -843,6 +844,17 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
   <span style="display:block; font-size:2.5em;">
     ✉️ MICHAELAKOSEVA@GMAIL.COM
   </span>
+
+   <p style="font-size:1.5em;">
+    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a>
+  </p>
+
+  <p style="font-size:1.5em;">
+    🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">Portfolio</a>
+  </p>
+
+</div>
+
 
   ---
 
