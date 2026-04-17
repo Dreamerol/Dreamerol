@@ -294,7 +294,6 @@
 
 ---
 
-
 <h1 align="center">Hi, I'm Mihaela 😊</h1>
 
 <h2 align="center">
@@ -306,10 +305,10 @@ I’ve always been drawn to patterns — the quiet kind that don’t reveal them
 </p>
 
 <p align="center" style="font-size:18px;">
-Currently studying at <strong>FMI</strong>, with a background in mathematics and programming.
-</p>
+<p align="center" style="font-size:18px;">
+Currently studying at <strong>FMI</strong>, with a background in mathematics and programming, developed at <strong>SMG (Sofia Mathematical High School)</strong>.
 
----
+</p>
 
 <p align="center" style="font-size:17px; line-height:1.8;">
 There’s something natural to me in working with data — in shaping it, questioning it, and letting it gradually turn into understanding.
