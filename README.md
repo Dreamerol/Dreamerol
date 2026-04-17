@@ -62,7 +62,7 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 <div align="center">
 
-## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 - 𝗨𝗣 𝗧𝗢 𝟮𝟬𝟮𝟲
+## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲
 
 </div>
 
@@ -355,7 +355,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <div align="center">
 
-## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🔗 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 (𝗨𝗣𝗗𝗔𝗧𝗘𝗗 𝟮𝟬𝟮𝟲)</a> 
+## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🔗 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</a> 
 
 <div align="center">
 
