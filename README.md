@@ -301,9 +301,9 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 <h2 align="center">I'm Mihaela 😊</h2>
 
-<h3 align="center">
+<h2 align="center">
 Data Analyst • Software Engineer • Applied Machine Learning
-</h3>
+</h2>
 
 <h4 align="center" style="font-size:18px; line-height:1.8;">
 I build systems where data becomes structure, and structure becomes insight.
