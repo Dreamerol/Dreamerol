@@ -297,7 +297,7 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 ---
 
-<h2 align="center"><strong>MIHAELA KOSEVA@FMI</strong></h2>
+<h3 align="center"><strong>MIHAELA KOSEVA@FMI</strong></h3>
 
 <h2 align="center">
 Data Analyst • Software Engineer • Applied Machine Learning
