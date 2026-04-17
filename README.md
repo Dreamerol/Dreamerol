@@ -321,7 +321,7 @@ Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</st
 
 <h2 align="center"><strong>Junior Data Analyst & Software Engineer @ FMI</strong></h2>
 
-<div align="center" style="font-size:18px; line-height:1.9;">
+<h2 align="center" style="font-size:20px; line-height:1.6;">
 
 Strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
 
@@ -331,47 +331,12 @@ Focus on <strong>clean code, performance optimization, modular design, API devel
 
 Passionate about <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, working with <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow</strong>.<br><br>
 
-Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable production systems.
+Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable production systems.</strong>.
+</h2>
 
 </div>
 
 
----
-
-
-<h1 align="center">Hi, I'm Mihaela 😊</h1>
-
-<p align="center">
-Junior Data Analyst • Software Engineer • Applied ML Enthusiast
-</p>
-
-<p align="center">
-I enjoy turning data into insights and ideas into scalable software systems.
-</p>
-
-<p align="center">
-Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
-</p>
-
----
-
-## 📌 Background
-
-<div align="center" style="line-height:1.8;">
-
-<strong>Junior Data Analyst & Software Engineer @ FMI</strong><br>
-
-Strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
-
-Hands-on experience in <strong>end-to-end software development</strong>, including backend systems, scalable workflows, and data pipelines using <strong>Python, Java, and Clojure/ClojureScript</strong>.<br>
-
-Focus on <strong>clean code, performance optimization, modular design, API development, and version control (Git)</strong>.<br><br>
-
-Passionate about <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, working with <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow</strong> to build predictive and data-driven solutions.<br>
-
-Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable, production-ready systems.
-
-</div>
 
 ---
 
