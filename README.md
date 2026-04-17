@@ -296,6 +296,28 @@
 
 ---
 
+
+<h1 align="center">Hi, I'm Mihaela 👋</h1>
+
+<p align="center">
+Junior Data Analyst • Software Engineer • Applied ML Enthusiast
+</p>
+
+<p align="center">
+I enjoy turning data into insights and ideas into scalable software systems.
+</p>
+
+<p align="center">
+Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
+</p>
+
+
+
+
+
+
+---
+
 <div align="center" style="line-height:2;">
 
 
