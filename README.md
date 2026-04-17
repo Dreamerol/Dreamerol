@@ -299,6 +299,69 @@
 
 <h1 align="center">Hi, I'm Mihaela 😊</h1>
 
+<h2 align="center">
+Junior Data Analyst • Software Engineer • Applied ML Enthusiast
+</h2>
+
+<p align="center" style="font-size:20px; line-height:1.6;">
+I enjoy turning data into insights and ideas into scalable software systems.
+</p>
+
+<p align="center" style="font-size:20px; line-height:1.6;">
+Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
+</p>
+
+---
+
+## 📌 Background
+
+<div align="center" style="font-size:19px; line-height:2;">
+
+<strong>Junior Data Analyst & Software Engineer @ FMI</strong><br><br>
+
+Strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
+
+Hands-on experience in <strong>end-to-end software development</strong>, including backend systems, scalable workflows, and data pipelines using <strong>Python, Java, and Clojure/ClojureScript</strong>.<br><br>
+
+Focus on <strong>clean code, performance optimization, modular design, API development, and Git workflows</strong>.<br><br>
+
+Passionate about <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, working with <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow</strong>.<br><br>
+
+Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable production systems.
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+
+
+
+
+
+
+
+---
+
+
+<h1 align="center">Hi, I'm Mihaela 😊</h1>
+
 <p align="center">
 Junior Data Analyst • Software Engineer • Applied ML Enthusiast
 </p>
