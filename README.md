@@ -292,6 +292,52 @@
 
 </div>
 
+---
+
+
+<!-- HERO -->
+<h1 align="center">Hi, I'm Mihaela 😊</h1>
+
+<h2 align="center">
+Data Analyst • Software Engineer • Applied ML
+</h2>
+
+<p align="center" style="font-size:18px; line-height:1.7;">
+I build systems where data becomes structure, and structure becomes insight.
+</p>
+
+<p align="center" style="font-size:18px;">
+Currently studying at <strong>FMI</strong>, with roots in mathematics and programming from <strong>SMG</strong>.
+</p>
+
+<p align="center" style="font-size:18px;">
+Languages: <strong>Python • SQL • C++ • Java • Clojure</strong>
+</p>
+
+---
+
+<!-- ABOUT -->
+## 📌 About Me
+
+<p align="center" style="font-size:17px; line-height:1.8;">
+My journey started with mathematics and programming at SMG, where curiosity turned into discipline.  
+At FMI, that foundation evolved into software engineering, data analysis, and machine learning.
+</p>
+
+<p align="center" style="font-size:17px; line-height:1.8;">
+I enjoy building backend systems, data pipelines, and ML models that turn complexity into clarity.
+</p>
+
+---
+
+<!-- CURRENTLY -->
+## 📍 Currently
+
+<p align="center" style="font-size:17px;">
+Studying at <strong>FMI</strong> and focusing on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>.
+</p>
+
+
 
 
 ---
