@@ -27,13 +27,13 @@
 Data Analyst • Software Engineer • Applied Machine Learning
 </h2>
 
-<p align="center" style="font-size:18px; line-height:1.8;">
+<h3 align="center" style="font-size:20px;">
 Algorithms • Data Structures • APIs • Problem Solving
-</p>
+</h3>
 
-<p align="center" style="font-size:18px;">
+<h3 align="center" style="font-size:20px;">
 Python • C++ • Java • Clojure • SQL
-</p>
+</h3>
 
 ---
 
