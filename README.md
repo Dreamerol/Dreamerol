@@ -304,6 +304,15 @@ Data Analyst • Software Engineer • Applied Machine Learning
 I’ve always been drawn to patterns — the quiet kind that don’t reveal themselves immediately, but slowly begin to make sense with patience and care.
 </p>
 
+<p align="center" style="font-size:20px; line-height:1.8;">
+I build systems where data becomes structure, and structure becomes insight.
+</p>
+
+<p align="center" style="font-size:18px; line-height:1.8;">
+Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
+Focused on turning theory into working, scalable systems.
+</p>
+
 <p align="center" style="font-size:18px;">
 <p align="center" style="font-size:18px;">
 Currently studying at <strong>FMI</strong>, with a background in mathematics and programming, developed at <strong>SMG (Sofia Mathematical High School)</strong>.
