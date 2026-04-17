@@ -17,6 +17,24 @@
 
 </div>
 
+---
+
+<h3 align="center">
+✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
+</h3>
+
+<h2 align="center">
+Data Analyst • Software Engineer • Applied Machine Learning
+</h2>
+
+<p align="center" style="font-size:18px; line-height:1.8;">
+Algorithms • Data Structures • APIs • Problem Solving
+</p>
+
+<p align="center" style="font-size:18px;">
+Python • C++ • Java • Clojure • SQL
+</p>
+
 
 ---
 
