@@ -386,9 +386,9 @@ Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to d
 ---
 
 
-
-
 <h2 align="center">✨ <strong>HIGHLIGHTS</strong> ✨</h2>
+
+</div>
 
 ---
 
