@@ -317,7 +317,9 @@ Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</st
 
 <div align="center" style="font-size:19px; line-height:2;">
 
-<strong>Junior Data Analyst & Software Engineer @ FMI</strong><br><br>
+<h2 align="center"><strong>Junior Data Analyst & Software Engineer @ FMI</strong></h2>
+
+<div align="center" style="font-size:18px; line-height:1.9;">
 
 Strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
 
@@ -330,31 +332,6 @@ Passionate about <strong>Data Analysis, Machine Learning, and Software Engineeri
 Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable production systems.
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
-
-
-
-
-
 
 
 ---
