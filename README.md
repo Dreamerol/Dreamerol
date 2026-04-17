@@ -314,11 +314,6 @@ Currently studying at <strong>FMI</strong>, with roots in mathematics and progra
 Languages: <strong>Python • SQL • C++ • Java • Clojure</strong>
 </p>
 
----
-
-<!-- ABOUT -->
-## 📌 About Me
-
 <p align="center" style="font-size:17px; line-height:1.8;">
 My journey started with mathematics and programming at SMG, where curiosity turned into discipline.  
 At FMI, that foundation evolved into software engineering, data analysis, and machine learning.
@@ -328,13 +323,9 @@ At FMI, that foundation evolved into software engineering, data analysis, and ma
 I enjoy building backend systems, data pipelines, and ML models that turn complexity into clarity.
 </p>
 
----
-
-<!-- CURRENTLY -->
-## 📍 Currently
 
 <p align="center" style="font-size:17px;">
-Studying at <strong>FMI</strong> and focusing on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>.
+Currently studying at <strong>FMI</strong> and focusing on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>.
 </p>
 
 
