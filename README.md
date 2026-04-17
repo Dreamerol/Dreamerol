@@ -311,6 +311,8 @@ I enjoy turning data into insights and ideas into scalable software systems.
 Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
 </p>
 
+</div>
+
 ---
 
 ## 📌 Background
