@@ -31,13 +31,6 @@ Data Analyst • Software Engineer • Applied Machine Learning
 Algorithms • Data Structures • APIs • Problem Solving • Python • C++ • Java • Clojure • SQL
 </h3>
 
-<h3 align="center" style="font-size:20px;">
-Algorithms • Data Structures • APIs • Problem Solving
-</h3>
-
-<h3 align="center" style="font-size:20px;">
-Python • C++ • Java • Clojure • SQL
-</h3>
 
 ---
 
