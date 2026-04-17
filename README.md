@@ -305,9 +305,9 @@ Focused on turning theory into working, scalable systems.
 Working with <strong>Python, SQL, Java, Clojure</strong> to build data pipelines, backend systems, and machine learning models.
 </h3>
 
-<p align="center" style="font-size:18px;">
+<h4 align="center" style="font-size:18px;">
 Currently studying at <strong>FMI</strong>, working on Data Analysis, Machine Learning, and Software Engineering.
-</p>
+</h4>
 
 <p align="center" style="font-size:18px; line-height:1.8;">
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
