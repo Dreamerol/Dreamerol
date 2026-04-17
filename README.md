@@ -295,11 +295,11 @@
 Data Analyst • Software Engineer • Applied ML
 </h2>
 
-<p align="center" style="font-size:20px; line-height:1.8;">
+<h2 align="center" style="font-size:20px; line-height:1.8;">
 I build systems where data becomes structure, and structure becomes insight.
 Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
 Focused on turning theory into working, scalable systems.
-</p>
+</h2>
 
 <p align="center" style="font-size:18px; line-height:1.8;">
 Working with <strong>Python, SQL, Java, Clojure</strong> to build data pipelines, backend systems, and machine learning models.
