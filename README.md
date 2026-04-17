@@ -294,43 +294,45 @@
 
 ---
 
-
-<!-- HERO -->
 <h1 align="center">Hi, I'm Mihaela 😊</h1>
 
 <h2 align="center">
-Data Analyst • Software Engineer • Applied ML
+Data Analyst • Applied Machine Learning
 </h2>
 
-<p align="center" style="font-size:18px; line-height:1.7;">
-I build systems where data becomes structure, and structure becomes insight.
+<p align="center" style="font-size:18px; line-height:1.8;">
+I’m drawn to patterns — the quiet kind that live inside data and only make sense when you take time to listen.
 </p>
 
 <p align="center" style="font-size:18px;">
-Currently studying at <strong>FMI</strong>, with roots in mathematics and programming from <strong>SMG</strong>.
+Currently studying at <strong>FMI</strong>, with a background in mathematics and programming.
 </p>
 
-<p align="center" style="font-size:18px;">
-Languages: <strong>Python • SQL • C++ • Java • Clojure</strong>
+---
+
+<p align="center" style="font-size:17px; line-height:1.8;">
+I enjoy working with data, building models, and slowly turning complexity into something understandable and useful.
 </p>
 
 <p align="center" style="font-size:17px; line-height:1.8;">
-My journey started with mathematics and programming at SMG, where curiosity turned into discipline.  
-At FMI, that foundation evolved into software engineering, data analysis, and machine learning.
+My focus is on <strong>Data Analysis and Applied Machine Learning</strong> — where curiosity meets structure, and ideas become insight.
 </p>
 
-<p align="center" style="font-size:17px; line-height:1.8;">
-I enjoy building backend systems, data pipelines, and ML models that turn complexity into clarity.
+---
+
+<p align="center">
+Languages:
 </p>
 
+<p align="center">
 
-<p align="center" style="font-size:17px;">
-Currently studying at <strong>FMI</strong> and focusing on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
 </p>
-
-
-
-
 ---
 
 
