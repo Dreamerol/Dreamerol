@@ -314,13 +314,6 @@ Currently studying at <strong>FMI</strong>, with a background in mathematics and
 There’s something natural to me in working with data — in shaping it, questioning it, and letting it gradually turn into understanding.
 </p>
 
-<p align="center" style="font-size:17px; line-height:1.8;">
-I focus on <strong>Data Analysis, Software Engineering, and Applied Machine Learning</strong>, where structure meets curiosity and ideas take form.
-</p>
-
-<p align="center" style="font-size:17px; line-height:1.8;">
-Backend systems • Algorithms • Logic • Mathematics
-</p>
 
 ---
 
