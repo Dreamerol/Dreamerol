@@ -35,13 +35,6 @@ Algorithms • Data Structures • APIs • Problem Solving
 Python • C++ • Java • Clojure • SQL
 </p>
 
-
----
-
-<h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
-
-<strong><em><h2 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Applied Machine Learning & APIs | Python • C++ • Java • Clojure • SQL</em></strong> </h2></em></strong> 
-
 ---
 
 
