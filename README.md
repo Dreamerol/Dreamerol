@@ -297,7 +297,7 @@
 ---
 
 
-<h1 align="center">Hi, I'm Mihaela 👋</h1>
+<h1 align="center">Hi, I'm Mihaela 😊</h1>
 
 <p align="center">
 Junior Data Analyst • Software Engineer • Applied ML Enthusiast
@@ -311,29 +311,27 @@ I enjoy turning data into insights and ideas into scalable software systems.
 Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
 </p>
 
-
-
-
-
-
 ---
 
-<div align="center" style="line-height:2;">
+## 📌 Background
 
+<div align="center" style="line-height:1.8;">
 
-<strong>Junior Data Analyst & Software Engineer @ FMI</strong> with a strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br>
+<strong>Junior Data Analyst & Software Engineer @ FMI</strong><br>
 
-Hands-on experience in <strong>end-to-end development</strong>, including <strong>backend systems, scalable workflows, and data pipelines</strong>, using <strong>Python, Java, and Clojure/ClojureScript</strong>. Skilled in <strong>clean code, performance optimization, modular design, API integrations, and version control (Git)</strong>.<br>
+Strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
 
-Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, leveraging <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow</strong>, while applying <strong>backend development, API design, scalable system architecture, and clean coding principles</strong> to build <strong>predictive models</strong> and implement <strong>robust, data-driven solutions</strong>.<br>
+Hands-on experience in <strong>end-to-end software development</strong>, including backend systems, scalable workflows, and data pipelines using <strong>Python, Java, and Clojure/ClojureScript</strong>.<br>
 
-Tech stack also includes <strong>APIs, FastAPI, AWS, and Git</strong>, used to develop <strong>production-ready, scalable systems</strong>.
+Focus on <strong>clean code, performance optimization, modular design, API development, and version control (Git)</strong>.<br><br>
+
+Passionate about <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, working with <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow</strong> to build predictive and data-driven solutions.<br>
+
+Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable, production-ready systems.
 
 </div>
 
-
 ---
-
 
 
 <p align="center">
