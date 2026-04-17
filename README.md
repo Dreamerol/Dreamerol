@@ -294,34 +294,22 @@
 
 ---
 
-<h1 align="center">Hi, I'm Mihaela 😊</h1>
 
-<h2 align="center">
-Data Analyst • Software Engineer • Applied Machine Learning
-</h2>
 
-<p align="center" style="font-size:18px; line-height:1.8;">
-I’ve always been drawn to patterns — the quiet kind that don’t reveal themselves immediately, but slowly begin to make sense with patience and care.
+<p align="center">
+Languages:
 </p>
 
-<p align="center" style="font-size:20px; line-height:1.8;">
-I build systems where data becomes structure, and structure becomes insight.
-</p>
+<p align="center">
 
-<p align="center" style="font-size:18px; line-height:1.8;">
-Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
-Focused on turning theory into working, scalable systems.
-</p>
-
-<p align="center" style="font-size:18px;">
-<p align="center" style="font-size:18px;">
-Currently studying at <strong>FMI</strong>, with a background in mathematics and programming, developed at <strong>SMG (Sofia Mathematical High School)</strong>.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
 
 </p>
 
-<p align="center" style="font-size:17px; line-height:1.8;">
-There’s something natural to me in working with data — in shaping it, questioning it, and letting it gradually turn into understanding.
-</p>
 
 
 
@@ -355,21 +343,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 Currently studying at <strong>FMI</strong>, working on Data Analysis, Machine Learning, and Software Engineering.
 </p>
 
----
 
-<p align="center">
-Languages:
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-
-</p>
 
 
 ---
