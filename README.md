@@ -297,19 +297,19 @@
 ---
 
 
-<h1 align="center">Hi, I'm Mihaela 😊</h1>
+<h1 align="center">I'm Mihaela 😊</h1>
 
 <h2 align="center">
 Junior Data Analyst • Software Engineer • Applied ML Enthusiast
 </h2>
 
-<p align="center" style="font-size:20px; line-height:1.6;">
+<h2 align="center" style="font-size:20px; line-height:1.6;">
 I enjoy turning data into insights and ideas into scalable software systems.
 </p>
 
 <p align="center" style="font-size:20px; line-height:1.6;">
 Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
-</p>
+</h2>
 
 </div>
 
@@ -318,6 +318,8 @@ Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</st
 ## 📌 Background
 
 <div align="center" style="font-size:19px; line-height:2;">
+
+## 📌 Background
 
 <h2 align="center"><strong>Junior Data Analyst & Software Engineer @ FMI</strong></h2>
 
