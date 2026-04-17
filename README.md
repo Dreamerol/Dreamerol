@@ -506,7 +506,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 
-
 ---
 
 ## 🔑 Technical Skills 
@@ -542,7 +541,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 
-
  
 ## 🔑 Key Takeaways 
 
@@ -553,7 +551,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 💡 Quick learner, passionate about **solving real-world problems**  
 - ⚡ Focused on **clean code, scalable design, and efficient algorithms**
 
-  
+ 
 
 ---
 
@@ -563,7 +561,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
     <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
-
 
 
 ---
@@ -712,11 +709,9 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
----
-
-
 
 ---
+
 
 ## 🔑 Key Skills Learned
 
