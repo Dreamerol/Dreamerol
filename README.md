@@ -315,8 +315,6 @@ Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</st
 
 ---
 
-## 📌 Background
-
 <div align="center" style="font-size:19px; line-height:2;">
 
 ## 📌 Background
