@@ -324,67 +324,7 @@ There’s something natural to me in working with data — in shaping it, questi
 </p>
 
 
----
 
-<p align="center">
-Languages:
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-
-</p>
-
-
-
-
-
----
-
-<h1 align="center">Hi, I'm Mihaela 😊</h1>
-
-<h2 align="center">
-Data Analyst • Applied Machine Learning
-</h2>
-
-<p align="center" style="font-size:18px; line-height:1.8;">
-I’m drawn to patterns — the quiet kind that live inside data and only make sense when you take time to listen.
-</p>
-
-<p align="center" style="font-size:18px;">
-Currently studying at <strong>FMI</strong>, with a background in mathematics and programming.
-</p>
-
----
-
-<p align="center" style="font-size:17px; line-height:1.8;">
-I enjoy working with data, building models, and slowly turning complexity into something understandable and useful.
-</p>
-
-<p align="center" style="font-size:17px; line-height:1.8;">
-My focus is on <strong>Data Analysis and Applied Machine Learning</strong> — where curiosity meets structure, and ideas become insight.
-</p>
-
----
-
-<p align="center">
-Languages:
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-
-</p>
 ---
 
 
@@ -415,6 +355,21 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 Currently studying at <strong>FMI</strong>, working on Data Analysis, Machine Learning, and Software Engineering.
 </p>
 
+---
+
+<p align="center">
+Languages:
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+</p>
 
 
 ---
