@@ -297,7 +297,7 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 ---
 
-<h2 align="center">I'm Mihaela 😊</h2>
+<h2 align="center"><strong>MIHAELA KOSEVA</strong></h2>
 
 <h2 align="center">
 Data Analyst • Software Engineer • Applied Machine Learning
