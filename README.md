@@ -300,41 +300,25 @@
 <h1 align="center">I'm Mihaela 😊</h1>
 
 <h2 align="center">
-Junior Data Analyst • Software Engineer • Applied ML Enthusiast
+Data Analyst • Software Engineer • Applied ML
 </h2>
 
-<h2 align="center" style="font-size:20px; line-height:1.6;">
-I enjoy turning data into insights and ideas into scalable software systems.
+<p align="center" style="font-size:20px; line-height:1.8;">
+I build systems where data becomes structure, and structure becomes insight.
 </p>
 
-<p align="center" style="font-size:20px; line-height:1.6;">
-Focused on <strong>Data Analysis, Machine Learning, and Software Engineering</strong> with hands-on experience in <strong>Python, SQL, and modern data/ML tools</strong>.
-</h2>
+<p align="center" style="font-size:18px; line-height:1.8;">
+Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
+Focused on turning theory into working, scalable systems.
+</p>
 
-</div>
+<p align="center" style="font-size:18px; line-height:1.8;">
+Working with <strong>Python, SQL, Java, Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</p>
 
----
-
-<div align="center" style="font-size:19px; line-height:2;">
-
-## 📌 Background
-
-<h2 align="center"><strong>Junior Data Analyst & Software Engineer @ FMI</strong></h2>
-
-<h2 align="center" style="font-size:20px; line-height:1.6;">
-
-Strong foundation in <strong>Algorithms, Data Structures, Problem-Solving, and Applied Mathematics</strong>.<br><br>
-
-Hands-on experience in <strong>end-to-end software development</strong>, including backend systems, scalable workflows, and data pipelines using <strong>Python, Java, and Clojure/ClojureScript</strong>.<br><br>
-
-Focus on <strong>clean code, performance optimization, modular design, API development, and Git workflows</strong>.<br><br>
-
-Passionate about <strong>Data Analysis, Machine Learning, and Software Engineering</strong>, working with <strong>Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow</strong>.<br><br>
-
-Experience with <strong>FastAPI, AWS, and REST APIs</strong> for building scalable production systems.</strong>.
-</h2>
-
-</div>
+<p align="center" style="font-size:18px; line-height:1.8;">
+Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
+</p>
 
 
 
