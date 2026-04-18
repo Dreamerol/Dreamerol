@@ -202,6 +202,8 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 ---
 
 
+
+
 <div align="center">
 
 <table align="center">
@@ -240,121 +242,114 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
-
-
-<p align="center">
-
-<table align="center">
-
-<tr>
-
-  <td align="center" width="400" style="padding:10px;">
-    <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG"
-           width="375" style="border-radius:12px;" />
-    </a>
-    <br>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
-  </td>
-
-  <td align="center" width="400" style="padding:10px;">
-    <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg"
-           width="375" style="border-radius:12px;" />
-    </a>
-    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣
-  </td>
-
-  <td align="center" width="400" style="padding:10px;">
-    <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/f534e462e66212bd1c9e22487ea225afab986f7c/math777.jpg"
-           width="375" style="border-radius:12px;" />
-    </a>
-    <br>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡
-  </td>
-
-</tr>
-
-</table>
-
-</p>
-
-
-
-
-
-
-
-
+---
 
 
 
 <div align="center">
 
+<!-- GRID CONTAINER -->
 <div style="
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 320px);
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 20px;
+  gap: 22px;
 ">
 
-  <!-- CARD 1 -->
-  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="text-decoration:none;">
-    <div style="
-      width: 320px;
-      height: 320px;
-      background: #111;
-      border-radius: 16px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
-    ">
-      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
+  <!-- 1 -->
+  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/1a2ac3a625b08ef5aa6b50cea2b9900f81577aef/ZZZZZZZZZNNNNN777.jpg"
            style="width:100%; height:180px; object-fit:cover;">
-      <div style="padding:12px; text-align:center; color:white; font-weight:bold;">
-        DELIVERY DATA SQL SYSTEM
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        NEURAL NETWORKS
       </div>
     </div>
   </a>
 
-  <!-- CARD 2 -->
+  <!-- 2 -->
+  <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg"
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        NUMERICAL ANALYSIS
+      </div>
+    </div>
+  </a>
+
+  <!-- 3 -->
+  <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg"
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        PROFIT PREDICTOR
+      </div>
+    </div>
+  </a>
+
+  <!-- 4 -->
+  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG"
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        POLYNOMIAL CALCULATOR
+      </div>
+    </div>
+  </a>
+
+  <!-- 5 -->
+  <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg"
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        DJANGO CATALOG APP
+      </div>
+    </div>
+  </a>
+
+  <!-- 6 -->
+  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/f534e462e66212bd1c9e22487ea225afab986f7d/math777.jpg"
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        PHYSICS SIMULATION
+      </div>
+    </div>
+  </a>
+
+  <!-- 7 -->
+  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="text-decoration:none;">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
+        DELIVERY SQL SYSTEM
+      </div>
+    </div>
+  </a>
+
+  <!-- 8 -->
   <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="text-decoration:none;">
-    <div style="
-      width: 320px;
-      height: 320px;
-      background: #111;
-      border-radius: 16px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
-    ">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
       <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
            style="width:100%; height:180px; object-fit:cover;">
-      <div style="padding:12px; text-align:center; color:white; font-weight:bold;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
         PLACEBO EFFECT
       </div>
     </div>
   </a>
 
-  <!-- CARD 3 -->
+  <!-- 9 -->
   <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="text-decoration:none;">
-    <div style="
-      width: 320px;
-      height: 320px;
-      background: #111;
-      border-radius: 16px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
-    ">
+    <div style="width:320px; height:320px; background:#111; border-radius:16px; overflow:hidden;">
       <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
            style="width:100%; height:180px; object-fit:cover;">
-      <div style="padding:12px; text-align:center; color:white; font-weight:bold;">
+      <div style="padding:12px; color:white; text-align:center; font-weight:bold;">
         MOODLE LMS PLATFORM
       </div>
     </div>
@@ -363,15 +358,6 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 </div>
 
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
