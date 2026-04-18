@@ -72,10 +72,6 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 </div>
 
-
-
-
-
 <p align="center">
 
 <table align="center">
@@ -198,6 +194,77 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 </table>
 
 </p>
+
+
+
+
+
+---
+
+
+<div align="center">
+
+<table align="center">
+
+<tr>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/1a2ac3a625b08ef5aa6b50cea2b9900f81577aef/ZZZZZZZZZNNNNN777.jpg"
+           width="375" height="225" style="border-radius:12px;" />
+    </a>
+    <br>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦
+  </td>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg"
+           width="375" height="225" style="border-radius:12px;" />
+    </a>
+    <br>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+  </td>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg"
+           width="375" height="225" style="border-radius:12px;" />
+    </a>
+    <br>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥
+  </td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
