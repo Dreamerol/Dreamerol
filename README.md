@@ -758,6 +758,16 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h3 align="center"> <em>Feel free to explore the projects and give a star if you find them interesting</em></h3>
 
+
+
+
+
+
+<h4 align="center" style="font-weight: normal;">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
+#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
+</h4>
+
 ---
 
 
