@@ -56,11 +56,6 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 </h3>
 
 
-<h3 align="center">
-✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
-</h3>
-
-
 
 ---
 
