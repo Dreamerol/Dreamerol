@@ -242,8 +242,82 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
+<p align="center">
+
+<table align="center">
+
+<tr>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG"
+           width="375" style="border-radius:12px;" />
+    </a>
+    <br>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+  </td>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg"
+           width="375" style="border-radius:12px;" />
+    </a>
+    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣
+  </td>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/f534e462e66212bd1c9e22487ea225afab986f7c/math777.jpg"
+           width="375" style="border-radius:12px;" />
+    </a>
+    <br>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡
+  </td>
+
+</tr>
+
+</table>
+
+</p>
 
 
+
+
+
+
+<p align="center">
+
+<table align="center">
+
+<tr>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
+           width="375" style="border-radius:12px;" />
+    </a>
+    <br>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
+  </td>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
+           width="375" style="border-radius:12px;" />
+    </a>
+    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧
+  </td>
+
+  <td align="center" width="400" style="padding:10px;">
+    <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+      <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
+           width="375" style="border-radius:12px;" />
+    </a>
+    <br>𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠
+  </td>
+
+</tr>
+
+</table>
+
+</p>
 
 
 
