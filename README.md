@@ -403,7 +403,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 
-<h2 align="center">✨ <strong>HIGHLIGHTS</strong> ✨</h2>
+<h2 align="center">✨ <strong>𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦</strong> ✨</h2>
 
 </div>
 
