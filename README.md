@@ -283,48 +283,86 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
-<p align="center">
 
-<table align="center">
 
-<tr>
 
-  <td align="center" width="400" style="padding:10px;">
-    <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+
+
+<div align="center">
+
+<div style="
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+">
+
+  <!-- CARD 1 -->
+  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="text-decoration:none;">
+    <div style="
+      width: 320px;
+      height: 320px;
+      background: #111;
+      border-radius: 16px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+    ">
       <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
-           width="375" style="border-radius:12px;" />
-    </a>
-    <br>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
-  </td>
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; text-align:center; color:white; font-weight:bold;">
+        DELIVERY DATA SQL SYSTEM
+      </div>
+    </div>
+  </a>
 
-  <td align="center" width="400" style="padding:10px;">
-    <a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
+  <!-- CARD 2 -->
+  <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="text-decoration:none;">
+    <div style="
+      width: 320px;
+      height: 320px;
+      background: #111;
+      border-radius: 16px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+    ">
       <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
-           width="375" style="border-radius:12px;" />
-    </a>
-    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧
-  </td>
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; text-align:center; color:white; font-weight:bold;">
+        PLACEBO EFFECT
+      </div>
+    </div>
+  </a>
 
-  <td align="center" width="400" style="padding:10px;">
-    <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+  <!-- CARD 3 -->
+  <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM" style="text-decoration:none;">
+    <div style="
+      width: 320px;
+      height: 320px;
+      background: #111;
+      border-radius: 16px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+    ">
       <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
-           width="375" style="border-radius:12px;" />
-    </a>
-    <br>𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠
-  </td>
+           style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding:12px; text-align:center; color:white; font-weight:bold;">
+        MOODLE LMS PLATFORM
+      </div>
+    </div>
+  </a>
 
-</tr>
+</div>
 
-</table>
-
-</p>
-
-
-
-
-
-
-
+</div>
 
 
 
