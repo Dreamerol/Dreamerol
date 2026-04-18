@@ -178,6 +178,9 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+
 <div align="center">
 
 <table align="center">
@@ -190,7 +193,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/1a2ac3a625b08ef5aa6b50cea2b9900f81577aef/ZZZZZZZZZNNNNN777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
 </td>
 
 <td align="center" width="360" style="padding:10px;">
@@ -198,7 +201,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
 </td>
 
 <td align="center" width="360" style="padding:10px;">
@@ -206,7 +209,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
 </td>
 
 </tr>
@@ -219,7 +222,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</span>
 </td>
 
 <td align="center" width="360" style="padding:10px;">
@@ -227,7 +230,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣</span>
 </td>
 
 <td align="center" width="360" style="padding:10px;">
@@ -235,7 +238,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/f534e462e66212bd1c9e22487ea225afab986f7d/math777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</span>
 </td>
 
 </tr>
@@ -248,7 +251,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a7cdc9c084f8f7ea56aafb5be0bc099f364dd03/ZZZSQL777.JPG"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</span>
 </td>
 
 <td align="center" width="360" style="padding:10px;">
@@ -256,7 +259,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</span>
 </td>
 
 <td align="center" width="360" style="padding:10px;">
@@ -264,7 +267,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:41px; font-weight:800;">𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
+<br><span style="font-size:24px; font-weight:800; display:inline-block; transform: scale(1.25,1.25);">𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
 </td>
 
 </tr>
@@ -272,12 +275,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </table>
 
 </div>
-
-
-
-
-
-
 
 
 
