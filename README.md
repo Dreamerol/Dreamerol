@@ -304,27 +304,26 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 Data Analyst • Software Engineer • Applied Machine Learning
 </h2>
 
-<h4 align="center" style="font-size:18px; line-height:1.8;">
+<h3 align="center" style="font-size:20px; line-height:1.8;">
 I build systems where data becomes structure, and structure becomes insight.
-</h4>
+</h3>
 
-<h4 align="center" style="font-size:18px; line-height:1.8;">
+<h3 align="center" style="font-size:18px; line-height:1.8;">
 Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
 Focused on turning theory into working, scalable systems.
-</h4>
+</h3>
 
-<h4 align="center" style="font-size:18px; line-height:1.8;">
+<h3 align="center" style="font-size:18px; line-height:1.8;">
 Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
-</h4>
+</h3>
 
-<h4 align="center" style="font-size:18px;">
+<h3 align="center" style="font-size:18px;">
 Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine Learning, and Software Engineering.
-</h4>
+</h3>
 
-<h4 align="center" style="font-size:18px;">
+<h3 align="center" style="font-size:18px;">
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
-</h4>
-
+</h3>
 
 ---
 
