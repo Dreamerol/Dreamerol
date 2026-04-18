@@ -304,9 +304,9 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 Data Analyst • Software Engineer • Applied Machine Learning
 </h2>
 
-<h3 align="center" style="font-size:20px; line-height:1.8;">
+<h2 align="center" style="font-size:24px; line-height:1.6;">
 I build systems where data becomes structure, and structure becomes insight.
-</h3>
+</h2>
 
 <h3 align="center" style="font-size:18px; line-height:1.8;">
 Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
