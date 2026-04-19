@@ -659,7 +659,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-## 📊 Neural Networks 
+## 📊 Neural Networks   [## 📊 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 
 - 🛠️ **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 - 🎯 **Focus:** Machine Learning, AI, Neural Networks  
