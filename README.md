@@ -877,14 +877,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-  />
-</p>
-
-
----
 
 <div align="center">
 
