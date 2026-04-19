@@ -256,7 +256,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/2ef7d607286d170020d452696c1f5286077191a4/ZZZZZEDU33.JPG"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><span style="font-size:24px; font-weight:800;">𝗠𝗢𝗢𝗗𝗟𝗘 𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
+<br><span style="font-size:24px; font-weight:800;">𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
 </td>
 
 </tr>
