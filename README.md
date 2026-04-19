@@ -659,7 +659,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-[📊 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
+### [📊 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 
 - 🛠️ **Tech Stack:** Python, TensorFlow, NumPy, Pandas  
 - 🎯 **Focus:** Machine Learning, AI, Neural Networks  
@@ -669,16 +669,16 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
-## 💹 Profit Predictor 
-
+### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)                                                                       
 - 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
 - 🎯 **Focus:** Data Analysis, Machine Learning  
 - 📊 Built **predictive models** for financial and business data  
 - 📈 Analyzed trends and visualized **key metrics**  
-- ⚡ Improved model accuracy through **data preprocessing**  
+- ⚡ Improved model accuracy through **data preprocessing**
+  
 ---
 
-## 💊 Placebo Effect 
+### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
 
 - 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
 - 🎯 **Focus:** Data Analysis, Statistics, Experimental Design  
