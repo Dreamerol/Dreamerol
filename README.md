@@ -888,6 +888,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
+---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerol&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&bg_color=0d1117)
 
 
