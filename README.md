@@ -159,12 +159,9 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 <div align="center">
 
-## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲
+## 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> 
 
 </div>
-
-
-## 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> 
 
 
 
