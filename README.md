@@ -290,6 +290,26 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+<h1 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</h1>
+
+<h3 align="center">
+𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
+</h3>
+
+I am a Junior Data Analyst and Software Engineer with a background in Mathematics, Algorithms, and Software Engineering at FMI.
+
+I focus on turning data into structured insights and building practical software systems.
+
+I work with Python, SQL, Java, and Clojure to develop data analysis solutions, backend systems, and machine learning projects.
+
+Currently focused on Data Analysis, Machine Learning, System Design, and Backend Engineering.
+
+
+
+
+
+---
+
 <h2 align="center"><strong>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ FMI</strong></h2>
 
 <h2 align="center" style="font-size:18px; font-weight:normal; letter-spacing:1px;">
