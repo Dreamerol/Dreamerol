@@ -872,6 +872,37 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 
+
+<div align="center">
+
+📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
+
+<br><br>
+
+✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
+
+<br>
+
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a>
+&nbsp;🐙&nbsp;
+<a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>
+
+</div>
+
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/Dreamerol/GITHUB-STATS">
+    <b>👉 𝗔𝗟𝗟 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b>
+  </a>
+</p>
+
+
+
+---
+
+
+
 <div align="center">
 
 📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
