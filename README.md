@@ -886,7 +886,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 <p align="center">
-<b>👉 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b> → <a href="https://github.com/Dreamerol/GITHUB-STATS">GITHUB-STATS</a>
+<b>👉 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b> → <a href="https://github.com/Dreamerol/GITHUB-STATS">𝗚𝗜𝗧𝗛𝗨𝗕-𝗦𝗧𝗔𝗧𝗦</a>
 </p>
 
 
