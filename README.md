@@ -868,14 +868,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-<br>
-
-<p align="center">
-👉 View full analytics dashboard → <a href="https://github.com/Dreamerol/GITHUB-STATS">GITHUB-STATS</a>
-</p>
-
 
 ---
 
@@ -889,6 +881,14 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </span>
 
 </div>
+
+
+<br>
+
+<p align="center">
+👉 View full analytics dashboard → <a href="https://github.com/Dreamerol/GITHUB-STATS">GITHUB-STATS</a>
+</p>
+
 
 
 
