@@ -553,6 +553,15 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>✨ Click any badge to view project</em></strong>
+  </a>
+</h3>
+
+
+---
+
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -696,16 +705,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h3>
 
 
-
-
----
-
-
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>✨ Click any badge to view project</em></strong>
-  </a>
-</h3>
 
 
 ---
