@@ -287,9 +287,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
----
-
 <br>
 
 <h1 align="center"><strong>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ FMI</strong></h1>
@@ -322,8 +319,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
----
-
 
 <p align="center">
   
@@ -344,8 +339,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 
-
----
+<br>
 
 
 <div align="center">
@@ -355,6 +349,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <div align="center">
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+
+<br>
 
 
 
