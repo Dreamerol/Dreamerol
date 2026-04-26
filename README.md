@@ -530,15 +530,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-<!-- EXTRA STATS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreamerol&theme=radical" width="98%" />
-</p>
-
-
-
-
-
 
 
 <!-- LANGUAGES (CORE IDENTITY) -->
