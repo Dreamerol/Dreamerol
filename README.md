@@ -512,17 +512,44 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <h2 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
 
 
+<br>
+
 <!-- STARS + PROFILE VIEWS -->
 <p align="center">
   <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
+  
   <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffb000&label=STARS" />
+  
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />
 </p>
 
 
 
+<br>
+
+
+
+
+<!-- EXTRA STATS -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreamerol&theme=radical" width="98%" />
+</p>
+
+
+
+
+
+
+<!-- MAIN STATS -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true" />
+</p>
 
 <br>
+
+
+
 
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
@@ -534,11 +561,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-
-<!-- EXTRA STATS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreamerol&theme=radical" width="98%" />
-</p>
 
 
 
