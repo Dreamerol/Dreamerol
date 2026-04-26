@@ -501,6 +501,24 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 
+
+
+---
+
+
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="STATS_LINK"/>
+  <img height="180em" src="LANGUAGES_LINK"/>
+</p>
+
+
+
+
+
 ---
 
 
