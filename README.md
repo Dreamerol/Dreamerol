@@ -457,7 +457,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
-<br>
+
 <br>
 
 <div align="center">
@@ -468,8 +468,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </div>
 
 <br>
-
-
 
 <h1 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
