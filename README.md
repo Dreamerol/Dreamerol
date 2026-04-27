@@ -445,6 +445,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h1 align="center">MIHAELA KOSEVA</h1>
 
+<br>
+
 <div align="center">
 
   <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
