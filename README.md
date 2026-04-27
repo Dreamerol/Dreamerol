@@ -437,7 +437,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-<br>
+
 
 <h1 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</h1>
 
@@ -455,7 +455,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-<br>
+
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/GITHUB-STATS">
@@ -463,7 +463,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </a>
 </h1>
 
-<br>
+
 
 <br>
 
@@ -476,13 +476,12 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
 </p>
 
-<br>
 
 <br>
 
 <br>
 
-<br>
+
 
 <!-- EXTRA STATS -->
 <p align="center">
@@ -491,7 +490,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 <br>
-<br>
+
 
 
 <!-- LANGUAGES (CORE IDENTITY) -->
@@ -505,7 +504,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-<br>
+
 
 
 
