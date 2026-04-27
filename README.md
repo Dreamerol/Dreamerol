@@ -436,17 +436,13 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 
-
-
-<br>
-
 <br>
 
 <h1 align="center">MIHAELA KOSEVA</h1>
 
-<p align="center">
+<h2 align="center">
   DATA & SOFTWARE ENGINEER │ APPLIED ML │ ∫ data → systems ✨
-</p>
+</h2>
 
 <br>
 
