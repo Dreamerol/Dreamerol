@@ -469,15 +469,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-
-<h2 align="center">
-## 👉  <a href="https://github.com/Dreamerol/GITHUB-STATS">
-    🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
-  </a>
-</h2>
-
-<br>
-
 <!-- STARS + PROFILE VIEWS -->
 <p align="center">
   <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
@@ -486,6 +477,17 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
 </p>
+
+<br>
+
+
+<h2 align="center">
+## 👉  <a href="https://github.com/Dreamerol/GITHUB-STATS">
+    🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
+  </a>
+</h2>
+
+<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
 <br>
 
