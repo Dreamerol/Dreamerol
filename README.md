@@ -502,6 +502,26 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+
+<!-- STARS + PROFILE VIEWS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
+  
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffb000&label=STARS" />
+  
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
+</p>
+
+<br>
+
+
+<h1 align="center">💥 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗 💥</h1>
+
+<h2 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
+
+
+<br>
+
 <div align="center">
 
   <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
@@ -515,25 +535,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 
-<!-- STARS + PROFILE VIEWS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
-  
-  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffb000&label=STARS" />
-  
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
-</p>
-
-<br>
-
-<h1 align="center">💥 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗 💥</h1>
-
-<h2 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
-
-
-<br>
-
-<br>
 
 <!-- EXTRA STATS -->
 <p align="center">
