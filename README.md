@@ -687,7 +687,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <div align="center">
 
-# 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> 
+# 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗦𝗪𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> 
 
 </div>
 
