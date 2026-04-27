@@ -496,10 +496,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
 </p>
 
-<br>
 
-
-<h1 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
 <br>
 
@@ -511,7 +508,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </a>
 
 </div>
-
 
 <br>
 
