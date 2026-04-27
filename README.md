@@ -512,10 +512,11 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
-<br>
 
 
 <h2 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
+
+<br>
 
 <!-- STARS + PROFILE VIEWS -->
 <p align="center">
@@ -542,7 +543,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
 </p>
 
-<br>
+
 
 
 
