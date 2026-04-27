@@ -436,7 +436,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 
-<br>
+
 
 <br>
 
@@ -444,14 +444,17 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h1 align="center">MIHAELA KOSEVA</h1>
 
+<p align="center">
+  DATA & SOFTWARE ENGINEER │ APPLIED ML │ ∫ data → systems ✨
+</p>
+
 <br>
 
 <div align="center">
-
-  <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
-     width="100%"/>
-
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true" width="100%"/>
 </div>
+
+<br>
 
 <br>
 
