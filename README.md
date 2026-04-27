@@ -527,12 +527,14 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
 </p>
 
-
+<br>
 
 <!-- EXTRA STATS -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreamerol&theme=radical" width="98%" />
 </p>
+
+<br>
 
 <br>
 
@@ -544,7 +546,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 
-
+<br>
 
 
 ---
