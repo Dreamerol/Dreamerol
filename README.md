@@ -471,9 +471,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </a>
 </h1>
 
-<h1 align="center"><b>⚡ Performance & Activity</b></h1>
-
-
 <br>
 
 <!-- STARS + PROFILE VIEWS -->
@@ -487,6 +484,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 <br>
+
+<h1 align="center"><b>Performance & Activity</b></h1>
 
 <br>
 
