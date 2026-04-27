@@ -462,7 +462,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 <br>
-<br>
+
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
