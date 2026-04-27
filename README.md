@@ -734,22 +734,21 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
+<br>
+
+---
 
 <br>
 
-<br>
+<div align="center">
 
+<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/7ec7e4f5d8ec8823e74ffcdb7a91570841c12fe0/!!!!!!!!!!!!!!!!!!!_BANNER999.PNG?raw=true" />
+</a>
 
-
-
-![](https://github.com/Dreamerol/Dreamerol/blob/7ec7e4f5d8ec8823e74ffcdb7a91570841c12fe0/!!!!!!!!!!!!!!!!!!!_BANNER999.PNG)
-
-
-
+</div>
 
 <br>
-
-
 
 
 ### [📊 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
