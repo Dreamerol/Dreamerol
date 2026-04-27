@@ -436,7 +436,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
-<br>
 
 
 <h1 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</h1>
