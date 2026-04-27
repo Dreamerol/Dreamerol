@@ -466,7 +466,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
   </a>
 </h1>
 
@@ -475,7 +475,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h2>
 
 <h2 align="center">
-  Sofia University “St. Kliment Ohridski” 
+  Sofia University “St. Kliment Ohridski” (FMI)
 </h2>
 
 
