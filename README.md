@@ -434,7 +434,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results
   
 
-
+<h1 align="center">MIHAELA KOSEVA</h1>
 
 <br>
 
