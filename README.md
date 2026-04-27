@@ -433,7 +433,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 🗄️ Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
 - 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results
   
----
+
 
 
 <br>
