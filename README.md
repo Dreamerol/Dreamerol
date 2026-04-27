@@ -463,7 +463,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </a>
 </h1>
 
-<br>
 
 <br>
 
@@ -481,6 +480,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+<br>
 
 
 <!-- EXTRA STATS -->
