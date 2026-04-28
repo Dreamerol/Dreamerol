@@ -4,7 +4,6 @@
 ![my-banner](Banner-SMALL.png)
 
 <br>
-<br>
 
 ---
 
