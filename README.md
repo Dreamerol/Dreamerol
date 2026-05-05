@@ -537,7 +537,19 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 <br>
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dreamerol
+  &hide=stars,issues,contribs
+  &show_icons=false
+  &hide_border=true
+  &bg_color=0d1117
+  &title_color=ff00ff
+  &text_color=ffffff" />
+</p>
+
+---
 
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
