@@ -515,15 +515,24 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 <p align="center">
-  
-  <img height="32" src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
 
-  <img height="32" src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ff8c00&label=STARS&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
 
-  <img height="32" src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ff8c00&label=STARS&logo=github&logoColor=white" />
+
+  <img src="https://img.shields.io/github/followers/Dreamerol?style=for-the-badge&color=ff7a18&label=FOLLOWERS&logo=github&logoColor=white" />
+
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />
 
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-FOCUSED%20%F0%9F%94%A5-ff6a00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-JUNIOR%20→%20MID-ff8c00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STACK-C%20%7C%20C%2B%2B%20%7C%20PYTHON-ff7a18?style=for-the-badge" />
+</p>
 ---
 
 
