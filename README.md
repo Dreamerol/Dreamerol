@@ -491,9 +491,15 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true" width="100%"/>
-</div>
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
+
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ff6a00&label=STARS&logo=github&logoColor=white" />
+
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />
+
+</p>
 
 
 
