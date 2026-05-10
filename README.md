@@ -3,6 +3,7 @@
 
 <br>
 
+[![my-banner](Banner-SMALL.png)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
 
 ![my-banner](Banner-SMALL.png)
 
