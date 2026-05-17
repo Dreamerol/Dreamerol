@@ -512,15 +512,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-<br>
-
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
-</p>
-
-
 
 <br>
 
