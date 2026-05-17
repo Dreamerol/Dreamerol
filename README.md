@@ -507,20 +507,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
-<br>
 
-
-
-<!-- LANGUAGES (CORE IDENTITY) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
-</p>
-
-
-</div>
-
-<br>
 <br>
 <br>
 
@@ -532,6 +519,17 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://img.shields.io/badge/Contributions-3.28k%2B-ff6a00?style=for-the-badge" />
 
 </p>
+
+
+
+<!-- LANGUAGES (CORE IDENTITY) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
+</p>
+
+
+</div>
 
 <br>
 
