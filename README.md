@@ -501,7 +501,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-<br>
+
 
 <h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
@@ -531,12 +531,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://img.shields.io/badge/Contributions-3.28k%2B-ff6a00?style=for-the-badge" />
 
 </p>
-
-<br>
-
-
-<br>
-<br>
 
 
 ---
