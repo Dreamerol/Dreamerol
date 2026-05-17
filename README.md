@@ -575,7 +575,11 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ---
 
 <p align="center">
+  
+<b>
 🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & Optimization | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
+</b>
+  
 </p>
 
 
