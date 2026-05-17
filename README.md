@@ -464,9 +464,10 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-<br>
 
 ---
+
+<br>
 
 
 <p align="center">
@@ -509,7 +510,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </div>
 
 
-<br>
+
 
 <h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
