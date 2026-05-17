@@ -409,6 +409,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+---
+
 ## 📊 Data Analysis & Modeling 
 
 - 🐼 **Pandas** & **NumPy** & **Matplotlib** → Manipulated and visualized data  
