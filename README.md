@@ -656,7 +656,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <div align="center">
 
 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/8bae31961f7747f4d3681031768af7f6bd210d60/Z_BANNER777.PNG?raw=true" />
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/0cea87c126ed7127843cfe4224af32e62d5dc9d3/Z_BANNER9.png?raw=true" />
 </a>
 
 </div>
