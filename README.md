@@ -467,18 +467,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 
-
-
-<br>
-
-<br>
-
-
-<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
-
-<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
-
-
 <br>
 <br>
 
@@ -490,6 +478,19 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img src="https://img.shields.io/badge/Contributions-3.28k%2B-ff6a00?style=for-the-badge" />
 
 </p>
+
+
+<br>
+
+
+<h1 align="center">
+  <a href="https://github.com/Dreamerol/GITHUB-STATS">
+    <b>👉 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b>
+  </a>
+</h1>
+
+<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
+
 
 <br>
 <br>
