@@ -525,59 +525,41 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
-
-
-## 💡 CORE SKILLS
+## 💡 CORE ENGINEERING SKILLS
 
 ---
 
-### 🧠 COMPUTER SCIENCE & ENGINEERING FUNDAMENTALS
-- Data Structures & Algorithms (Python, Java, C++)
-- System Design Fundamentals (scalable backend thinking)
-- Object-Oriented Programming (OOP)
-- Functional Programming (Clojure / ClojureScript)
-- Clean Code & Software Architecture
+### 🧠 SYSTEMS
+- DSA (Python, Java, C++)
+- System Design (scalable, distributed)
+- OOP + Functional Programming
+- Concurrency & performance
 
 ---
 
-### 🤖 MACHINE LEARNING & DATA SYSTEMS
+### 🤖 ML & DATA
 - Neural Networks (TensorFlow, Scikit-learn)
-- Predictive Modeling & Statistical Learning
-- Gradient Descent & Backpropagation
-- Data Analysis & Visualization (Pandas, NumPy, Matplotlib)
+- Predictive modeling
+- Data pipelines
+- Data analysis (Pandas, NumPy)
 
 ---
 
-### 🏗️ BACKEND & SYSTEMS ENGINEERING
-- REST APIs & Backend Development (Java, Python, Clojure)
-- Data Processing Pipelines
-- API Integration & System Design
+### 🏗️ BACKEND & DISTRIBUTED SYSTEMS
+- Production backend systems
+- REST APIs & system architecture
+- Distributed systems fundamentals
 
 ---
 
 ### 📊 DATA ENGINEERING
 - SQL (PostgreSQL)
-- Data Modeling & Query Optimization
+- Data modeling & optimization
 
 ---
 
-### 🛠 ENGINEERING TOOLS
-- Git & Version Control
-- Linux / Shell
-- VS Code, IntelliJ IDEA
-- Debugging & Performance Optimization
-
----
-
-## 🎯 FOCUS AREAS
-
-🧠 Algorithms  
-🏗️ Scalable Systems  
-🤖 ML Engineering  
-📊 Data-Driven Applications  
-🔷 Clean Architecture  
-🟢 Performance Optimization
-
+## 🎯 FOCUS
+Algorithms • Distributed Systems • ML Engineering • Scalable Backend • Data Systems • Production Architecture
 
 ---
 
