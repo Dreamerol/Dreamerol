@@ -9,6 +9,18 @@
 
 <br>
 
+<div align="center">
+
+📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 — ✉️ MICHAELAKOSEVA@GMAIL.COM — 
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> — 
+🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> — 
+🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">𝗥𝗘𝗣𝗢𝗦</a> — 
+✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> — 
+👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗦𝗧𝗔𝗧𝗦</b></a>
+
+</div>
+
+
 
 <div align="center">
 
