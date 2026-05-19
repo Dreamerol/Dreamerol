@@ -527,62 +527,57 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-## 💡 Key Competencies & Tools 
-
-- 🧠 **Algorithms & Data Structures** – Python, Java & C++ for AI & data-intensive tasks
-- 🤖 **Applied Machine Learning & Neural Networks** – Python & relevant libraries for practical AI solutions
-- 🛠️ **Functional Programming & Clean Code** – Python, Clojure & ClojureScript; modular, maintainable, and efficient
-- 🏗️ **Backend & Systems Development** – Java, Clojure, OOP, REST APIs & API integrations, data processing, distributed systems
-- 🔄 **Version Control & Dev Tools** – Git, VS Code, IntelliJ IDEA
-- 💡 **Computational Thinking & Problem Solving** – solving real-world challenges
-
+## 💡 CORE SKILLS
 
 ---
 
-<p align="center">
-  
-<b>
-🎲 Game Logic & Simulation | 🤖 Predictive Modeling | 📊 Data Visualization | 🧠 Algorithms & DSA | 💻 OOP | ☕ Functional Programming | 🌐 Backend & APIs | 🗄 SQL & Databases | ⏱ Forecasting | 🧪 Neural Networks | 🐧 Linux | ⚡ Clean Code
-</b>
-  
-</p>
-
-
+### 🧠 COMPUTER SCIENCE & ENGINEERING FUNDAMENTALS
+- Data Structures & Algorithms (Python, Java, C++)
+- System Design Fundamentals (scalable backend thinking)
+- Object-Oriented Programming (OOP)
+- Functional Programming (Clojure / ClojureScript)
+- Clean Code & Software Architecture
 
 ---
 
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
+### 🤖 MACHINE LEARNING & DATA SYSTEMS
+- Neural Networks (TensorFlow, Scikit-learn)
+- Predictive Modeling & Statistical Learning
+- Gradient Descent & Backpropagation
+- Data Analysis & Visualization (Pandas, NumPy, Matplotlib)
 
 ---
 
+### 🏗️ BACKEND & SYSTEMS ENGINEERING
+- REST APIs & Backend Development (Java, Python, Clojure)
+- Data Processing Pipelines
+- API Integration & System Design
 
-## 🔑 Technical Skills 
+---
 
-- 🖥 **Programming:** Python | C++ | Java | SQL | Clojure/ClojureScript  
-- 🏗 **Software Engineering:** Data Structures & Algorithms | Modular & Scalable Design | Functional Programming | Object-Oriented Programming (OOP)  
-- 📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Data Visualization | Statistical Analysis  
-- 🤖 **Machine Learning:** Neural Networks | TensorFlow | Backpropagation | Gradient Descent | Model Evaluation | Loss Functions (MSE) | Predictive Modeling  
-- 📐 **Mathematical Modeling:** ODEs | SIR Models | Dynamic Systems  
-- 🛠 **Tools & Tech:** Git | Version Control | REST APIs | VS Code | IntelliJ IDEA
+### 📊 DATA ENGINEERING
+- SQL (PostgreSQL)
+- Data Modeling & Query Optimization
+
+---
+
+### 🛠 ENGINEERING TOOLS
+- Git & Version Control
+- Linux / Shell
+- VS Code, IntelliJ IDEA
+- Debugging & Performance Optimization
+
+---
+
+## 🎯 FOCUS AREAS
+
+🧠 Algorithms  
+🏗️ Scalable Systems  
+🤖 ML Engineering  
+📊 Data-Driven Applications  
+🔷 Clean Architecture  
+🟢 Performance Optimization
+
 
 ---
 
@@ -685,79 +680,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Fully responsive UI with modern UI/UX design principles.  
 - Central hub linking all repositories and professional profiles.
 
-
----
-
-
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
----
-
- 
-## 🔑 Key Takeaways 
-
-- 🧠 Strong foundation in **CS fundamentals** (Algorithms, Data Structures, C++)  
-- 📊 Hands-on experience with **Data & Machine Learning projects**  
-- 🔗 Capable of **bridging theory with practical implementations**  
-- 🚀 Ready for **junior/mid-level SWE roles** or **data/ML internships**  
-- 💡 Quick learner, passionate about **solving real-world problems**  
-- ⚡ Focused on **clean code, scalable design, and efficient algorithms**
-
- 
-
----
-
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
-</div>
-
-
----
-
-## 🔑 Key Skills Learned
-
-- 🤖 Neural Network (Tensorflow)  
-- 📉 Backpropagation & Gradient Descent  
-- 📊 Data Visualization & Analysis  
-- 💡 Data structures & Algorithms
-- 🧮 Databases SQL
-- 🐬 Numerical Analysis
 
 
 ---
