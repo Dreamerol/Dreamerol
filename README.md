@@ -533,6 +533,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ## 💡 CORE ENGINEERING SKILLS
 
+<br>
+
 ### 🧠 SYSTEMS
 - DSA (Python, Java, C++)
 - System Design (scalable, distributed systems)
