@@ -288,7 +288,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
+</div>
 
 <br>
 
@@ -344,6 +344,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
+</div>
 
 <br>
 
