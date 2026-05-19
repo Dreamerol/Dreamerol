@@ -539,7 +539,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - OOP + Functional Programming (Clojure / ClojureScript)
 - Concurrency & performance
 
----
+<br>
 
 ### 🤖 ML & DATA
 - Neural Networks (TensorFlow, Scikit-learn)
@@ -547,7 +547,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Data pipelines & processing
 - Data analysis (Pandas, NumPy)
 
----
+<br>
 
 </td>
 
@@ -558,13 +558,13 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - REST APIs & system architecture
 - Distributed systems fundamentals
 
----
+<br>
 
 ### 📊 DATA ENGINEERING
 - SQL (PostgreSQL)
 - Data modeling & optimization
 
----
+<br>
 
 ## 🎯 FOCUS
 Algorithms • Distributed Systems • ML Engineering • Scalable Backend • Data Systems • Production Architecture
