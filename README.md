@@ -399,6 +399,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </h2>
 
 
+
+<br>
+
+<div align="center">
+
+# 👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
+
+### Python • SQL • Data Analysis • Machine Learning
+
+### ∫ data → systems ✨
+
 <br>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
