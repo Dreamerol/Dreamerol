@@ -332,46 +332,73 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
+</div>
 
-<h2 align="center">✨ <strong>𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦 ✨</strong></h2>
+<br>
+
+<div align="center">
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🟡 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
+
+
+
+### 🟦 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+- Data Structures and Algorithms (Python, Java, C++) with complexity optimization
+- System Design (scalable, distributed, fault-tolerant architectures)
+- Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
+- Concurrency, parallelism, and performance optimization
+- Design of high-performance and maintainable software systems
+
+
+### 🟣 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔
+- Neural Networks (TensorFlow, Scikit-learn) for predictive systems
+- Machine learning pipelines and end-to-end ML workflows
+- Predictive modeling, feature engineering, and statistical learning
+- Data analysis, visualization, and exploration (Pandas, NumPy, Matplotlib)
+- Applied ML systems for real-world data-driven decision making
+
+<br>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗜𝗦𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+- Production-grade backend systems (Java, Python, Clojure)
+- REST API design, microservices, and system architecture
+- Distributed systems fundamentals (scalability, reliability, availability)
+- Service-oriented architecture and system integration
+- Building robust and scalable backend services
+
+
+### 🟠 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚
+- SQL (PostgreSQL) – complex queries and optimization
+- Data modeling for scalable and efficient systems
+- Query optimization and performance tuning
+- Relational database design and data integrity
+
+
+## 🔵 𝗙𝗢𝗖𝗨𝗦
+
+- Data Structures and Algorithms • System Design • Distributed Systems
+- Machine Learning Engineering • Data Engineering • Scalable Backend Systems
+- Production-grade Architecture • High-performance Software Design
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-
 ---
-
-## 📊 Data Analysis & Modeling 
-
-- 🐼 **Pandas** & **NumPy** & **Matplotlib** → Manipulated and visualized data  
-- 📈 **Statistical & Mathematical Methods** → Extracted insights from **5K–100K+ rows**  
-- 🤖 **Predictive Modeling** & **Exploratory Data Analysis** → Achieved actionable insights & **30% faster data processing**  
-- ⚡ **Dynamic Simulations** & **Optimized Pipelines** → Real-world problem-solving  
-- 💡 Focus on **scalable, clean, and efficient workflows** for consistent results
-
-  
----
-
-## 💻 Software Engineering & Core Skills 
-
-- 🏗️ Developed **backend systems**, modular functional components, and **data pipelines** for scalable software solutions  
-- ⚡ Built and optimized **core algorithms** and **REST API integrations**  
-- 🔄 Applied **version control (Git)**, **code reviews**, and **Agile practices** in collaborative environments  
-- 🧹 Designed **clean, maintainable, and efficient code** for practical applications  
-- 💡 Focused on **scalable, robust, and production-ready solutions**
-
-  
----
-
-
-## 🧠 Neural Networks & Applied ML
-
-- 🤖 Designed and trained **Neural Networks** with **TensorFlow** and custom scratch implementations  
-- 📊 Applied **backpropagation, gradient descent, and ML algorithms** for predictions, vector classification (2D/3D), and simulations  
-- 📈 Evaluated models with **accuracy up to 92%**, **MSE: 0.03**, and implemented **SIR epidemiological models with ODEs**  
-- 🗄️ Processed datasets ranging from **5K–100K+ rows** for real-world ML applications  
-- 💡 Emphasized **scalable, clean, and efficient ML workflows** for robust results
-  
-
 ---
 
 <p align="center">
