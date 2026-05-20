@@ -679,6 +679,93 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
+<div align="center">
+
+<table width="100%">
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, TensorFlow, NumPy, Pandas
+
+- Focus: Machine Learning, AI, Neural Networks  
+- Built neural network models for prediction tasks  
+- Applied backpropagation and gradient descent  
+- Performance analysis and visualization  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
+
+- Focus: Data Analysis, Machine Learning  
+- Built predictive financial models  
+- Data-driven trend analysis  
+- Improved accuracy via preprocessing  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, Pandas, NumPy, Matplotlib
+
+- Focus: Statistics, Experimental Analysis  
+- Studied placebo effect datasets  
+- Statistical analysis and visualization  
+- Data cleaning and EDA pipeline  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• SQL (PostgreSQL)
+
+- Normalized relational database design  
+- Query optimization (~30% improvement)  
+- KPI tracking and reporting system  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
+
+- Modular backend architecture  
+- API-driven service integration  
+- Distributed systems design principles  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
+
+- Responsive UI/UX design  
+- Central project hub  
+- Badge-driven navigation system  
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
 
 
 <p align="center">
