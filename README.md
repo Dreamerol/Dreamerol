@@ -533,7 +533,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ## 🟡 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
 
-<br>
+
 
 ### 🟦 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 - Data Structures and Algorithms (Python, Java, C++) with complexity optimization
@@ -542,7 +542,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Concurrency, parallelism, and performance optimization
 - Design of high-performance and maintainable software systems
 
-<br>
 
 ### 🟣 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔
 - Neural Networks (TensorFlow, Scikit-learn) for predictive systems
