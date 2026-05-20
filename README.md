@@ -563,7 +563,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Service-oriented architecture and system integration
 - Building robust and scalable backend services
 
-<br>
 
 ### 🟠 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚
 - SQL (PostgreSQL) – complex queries and optimization
@@ -571,7 +570,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Query optimization and performance tuning
 - Relational database design and data integrity
 
-<br>
 
 ## 🔵 𝗙𝗢𝗖𝗨𝗦
 Data Structures and Algorithms • Distributed Systems • Machine Learning Engineering • Scalable Backend Systems • Production-grade Architecture • Data-intensive Systems • High-performance Software Design
