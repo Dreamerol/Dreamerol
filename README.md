@@ -314,42 +314,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br>
 
 
-
 ---
 
-
-
-
-<div align="center">
-
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
-  </a>
-</h2>
-
-
-<br>
-
-<h2 align="center" style="font-size:24px; line-height:1.6;">
-Build systems where data becomes structure, and structure becomes insight.
-</h2>
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
-Focused on turning theory into working, scalable systems.
-</h2>
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
-</h2>
-
-<h2 align="center" style="font-size:18px; font-weight:normal;">
-Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine Learning, and Software Engineering.
-</h2>
-
-<h2 align="center" style="font-size:18px; font-weight:normal;">
-Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
-</h2>
 
 <br>
 <br>
@@ -430,71 +396,38 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
 
-</div>
 
-<br>
 
 <div align="center">
 
-<table width="100%">
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
+    👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+  </a>
+</h2>
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 🟡 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
-
-
-
-### 🟦 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-- Data Structures and Algorithms (Python, Java, C++) with complexity optimization
-- System Design (scalable, distributed, fault-tolerant architectures)
-- Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
-- Concurrency, parallelism, and performance optimization
-- Design of high-performance and maintainable software systems
-
-
-### 🟣 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔
-- Neural Networks (TensorFlow, Scikit-learn) for predictive systems
-- Machine learning pipelines and end-to-end ML workflows
-- Predictive modeling, feature engineering, and statistical learning
-- Data analysis, visualization, and exploration (Pandas, NumPy, Matplotlib)
-- Applied ML systems for real-world data-driven decision making
 
 <br>
 
-</td>
+<h2 align="center" style="font-size:24px; line-height:1.6;">
+Build systems where data becomes structure, and structure becomes insight.
+</h2>
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
+Focused on turning theory into working, scalable systems.
+</h2>
 
-<td width="50%" valign="top">
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</h2>
 
-## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗜𝗦𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-- Production-grade backend systems (Java, Python, Clojure)
-- REST API design, microservices, and system architecture
-- Distributed systems fundamentals (scalability, reliability, availability)
-- Service-oriented architecture and system integration
-- Building robust and scalable backend services
+<h2 align="center" style="font-size:18px; font-weight:normal;">
+Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine Learning, and Software Engineering.
+</h2>
 
-
-### 🟠 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚
-- SQL (PostgreSQL) – complex queries and optimization
-- Data modeling for scalable and efficient systems
-- Query optimization and performance tuning
-- Relational database design and data integrity
-
-
-## 🔵 𝗙𝗢𝗖𝗨𝗦
-
-- Data Structures and Algorithms • System Design • Distributed Systems
-- Machine Learning Engineering • Data Engineering • Scalable Backend Systems
-- Production-grade Architecture • High-performance Software Design
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<h2 align="center" style="font-size:18px; font-weight:normal;">
+Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
+</h2>
 
 ---
 
