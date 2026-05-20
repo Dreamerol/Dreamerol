@@ -783,7 +783,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h3 align="center"> <em>⭐ Feel free to explore the projects and give a star if you find them interesting</em></h3>
 
-<br>
 
 <h3 align="center"> <em>Built with passion for data, systems and ML 🚀</em></h3>
 
