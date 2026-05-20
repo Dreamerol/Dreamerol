@@ -597,7 +597,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 
-
 ### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)                                                                       
 - 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
 - 🎯 **Focus:** Data Analysis, Machine Learning  
@@ -614,6 +613,14 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 🧪 Studied **placebo effect** using real-world datasets  
 - 📊 Performed **statistical analysis** and visualized outcomes  
 - ⚡ Applied **data cleaning, EDA, and result interpretation**
+
+<br>
+
+### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL)
+
+- Designed normalized relational database schema  
+- Optimized SQL queries, improving performance by ~30%  
+- Supported KPI tracking and reporting workflows
 
 <br>
 
