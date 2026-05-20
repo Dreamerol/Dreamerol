@@ -119,6 +119,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br><span style="font-size:24px; font-weight:800;">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
 </td>
 
+
+
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/5921b2251645759da88942d7e32078ff4c65e8ea/ZZZZZZZZZZZZPROFIT7777.jpg"
@@ -716,6 +718,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
+</a>
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
