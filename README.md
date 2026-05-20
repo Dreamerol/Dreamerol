@@ -772,11 +772,11 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <td colspan="3" style="height:40px;"></td>
 </tr>
 
+<br>
+
 </table>
 
 </div>
-
----
 
 
 <br>
