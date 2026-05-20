@@ -78,11 +78,7 @@ Python • SQL • Data Analysis • Machine Learning
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
-
 </div>
-
-
 
 <br>
 
@@ -194,10 +190,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 
-
-
 <br>
-
 
 
 <p align="center">
@@ -221,8 +214,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 <br>
-
----
 
 
 <div align="center">
