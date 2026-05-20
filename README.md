@@ -817,9 +817,13 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
-<br>
 
-<br>
+<p align="center">
+  🔗 Explore more on my GitHub portfolio: 
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank">
+    github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026
+  </a>
+</p>
 
 
 
