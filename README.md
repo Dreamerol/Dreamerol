@@ -682,14 +682,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-<h2 align="center">🌎 <strong>FUTURE</strong></h2>
-
-<h2 align="center"> <strong><em>✨ Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
-
-
-<h3 align="center"> <em>⭐ Feel free to explore the projects and give a star if you find them interesting</em></h3>
-
-<br>
 
 <h3 align="center"> 
  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
@@ -780,10 +772,17 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
-</div>
 
+
+<h2 align="center">🌎 <strong>FUTURE</strong></h2>
+
+<h2 align="center"> <strong><em>✨ Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
+
+
+<h3 align="center"> <em>⭐ Feel free to explore the projects and give a star if you find them interesting</em></h3>
 
 <br>
+
 
 <p align="center">
  <i>Built with passion for data, systems and ML 🚀</i>
