@@ -572,7 +572,10 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 ## 🔵 𝗙𝗢𝗖𝗨𝗦
-Data Structures and Algorithms • Distributed Systems • Machine Learning Engineering • Scalable Backend Systems • Production-grade Architecture • Data-intensive Systems • High-performance Software Design
+
+- Data Structures and Algorithms • System Design • Distributed Systems
+- Machine Learning Engineering • Data Engineering • Scalable Backend Systems
+- Production-grade Architecture • High-performance Software Design
 
 </td>
 
@@ -581,7 +584,6 @@ Data Structures and Algorithms • Distributed Systems • Machine Learning Engi
 </table>
 
 </div>
-
 
 ---
 
