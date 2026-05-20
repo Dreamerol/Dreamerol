@@ -318,7 +318,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <br>
-<br>
 
 
 <p align="center">
@@ -342,7 +341,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 <br>
-
 
 <div align="center">
 
