@@ -55,6 +55,7 @@ Python • SQL • Data Analysis • Machine Learning
 
 <br>
 
+
 ---
 
 
@@ -679,8 +680,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </div>
 
 
----
-
+<br>
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
@@ -688,6 +688,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </a>
 </h3>
 
+<br>
 
 <p align="center">
 
