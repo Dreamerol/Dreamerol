@@ -531,11 +531,11 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="50%" valign="top">
 
-## 💡 CORE ENGINEERING SKILLS
+## <b>CORE ENGINEERING SKILLS</b>
 
 <br>
 
-### 🧠 SYSTEMS
+### <b>SYSTEMS</b>
 - Data Structures and Algorithms (Python, Java, C++)
 - System Design (scalable, distributed systems)
 - Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
@@ -543,7 +543,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-### 🤖 MACHINE LEARNING & DATA
+### <b>MACHINE LEARNING & DATA</b>
 - Neural Networks (TensorFlow, Scikit-learn)
 - Predictive modeling and machine learning systems
 - Data pipelines and processing workflows
@@ -555,20 +555,20 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="50%" valign="top">
 
-## 🏗️ BACKEND & DISTRIBUTED SYSTEMS
+## <b>BACKEND & DISTRIBUTED SYSTEMS</b>
 - Production backend systems (Java, Python, Clojure)
 - REST API design and system architecture
 - Distributed systems fundamentals
 
 <br>
 
-### 📊 DATA ENGINEERING
+### <b>DATA ENGINEERING</b>
 - SQL (PostgreSQL)
 - Data modeling and optimization
 
 <br>
 
-## 🎯 FOCUS
+## <b>FOCUS</b>
 Data Structures and Algorithms • Distributed Systems • Machine Learning Engineering • Scalable Backend Systems • Data Systems • Production Architecture
 
 </td>
