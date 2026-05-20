@@ -717,7 +717,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Analyzed real-world placebo effect datasets  
 - Applied statistical modeling and hypothesis testing  
 - Built data visualization and insight pipelines  
-- Performed data cleaning and feature prep  
+- Performed data cleaning 
 
 </td>
 
@@ -741,10 +741,9 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 ### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
 
-- Designed modular backend service architecture  
-- Implemented API-driven system integration layer  
-- Applied distributed systems design principles  
-- Worked with scalable service communication patterns  
+- Designed modular backend service architecture
+- Implemented API-driven system integration layer
+- Applied distributed systems design principles and scalable service communication patterns
 
 </td>
 
