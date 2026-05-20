@@ -343,10 +343,10 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
 </div>
 
 
+<br>
 <br>
 
 <div align="center">
@@ -360,8 +360,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br>
 
 </div>
-
-<br>
 
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
