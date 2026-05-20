@@ -594,7 +594,16 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - ⚡ Applied **backpropagation, gradient descent, and optimization**  
 - 📈 Visualized results and analyzed **performance metrics**  
 
----
+<br>
+
+### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
+
+- Designed backend integration system using API-driven architecture  
+- Implemented modular service communication layer for distributed systems  
+- Focused on scalable backend design and maintainable system structure  
+- Worked with event-driven and data synchronization workflows  
+
+<br>
 
 ### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)                                                                       
 - 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
@@ -603,7 +612,16 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 📈 Analyzed trends and visualized **key metrics**  
 - ⚡ Improved model accuracy through **data preprocessing**
   
----
+<br>
+
+### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
+
+- Designed backend integration system using API-driven architecture  
+- Implemented modular service communication layer for distributed systems  
+- Focused on scalable backend design and maintainable system structure  
+- Worked with event-driven and data synchronization workflows  
+
+<br>
 
 ### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
 
@@ -613,7 +631,16 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 📊 Performed **statistical analysis** and visualized outcomes  
 - ⚡ Applied **data cleaning, EDA, and result interpretation**
 
----
+<br>
+
+### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
+
+- Designed backend integration system using API-driven architecture  
+- Implemented modular service communication layer for distributed systems  
+- Focused on scalable backend design and maintainable system structure  
+- Worked with event-driven and data synchronization workflows  
+
+<br>
 
 ### [🌐 SOFTWARE PORTFOLIO](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
 - 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 & images linking repositories.
