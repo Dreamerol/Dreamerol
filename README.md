@@ -11,8 +11,7 @@
 📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> 🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">𝗥𝗘𝗣𝗢𝗦</a> ✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> 👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a>
 </div>
 
-
----
+<hr>
 
 <p align="center">
   
@@ -269,7 +268,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 
-
 <br>
 
 
@@ -406,7 +404,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
----
+<hr>
 
 <br>
 
@@ -450,8 +448,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
----
-
+<hr>
 
 <p align="center">
   
@@ -559,7 +556,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
-
 
 
 <br>
