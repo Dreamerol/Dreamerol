@@ -531,7 +531,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="50%" valign="top">
 
-## 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
+## 🟡 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
 
 <br>
 
