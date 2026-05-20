@@ -270,8 +270,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
----
+<br>
 
 
 <p align="center">
@@ -413,7 +412,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-A-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&label=STARS&color=ff6a00" />
   <img src="https://img.shields.io/github/followers/Dreamerol?label=FOLLOWERS&style=for-the-badge&color=ff6a00&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />
