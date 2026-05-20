@@ -523,8 +523,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-
-
 <div align="center">
 
 <table width="100%">
@@ -538,18 +536,18 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 ### 🧠 SYSTEMS
-- DSA (Python, Java, C++)
+- Data Structures and Algorithms (Python, Java, C++)
 - System Design (scalable, distributed systems)
-- OOP + Functional Programming (Clojure / ClojureScript)
-- Concurrency & performance
+- Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
+- Concurrency and performance optimization
 
 <br>
 
-### 🤖 ML & DATA
+### 🤖 MACHINE LEARNING & DATA
 - Neural Networks (TensorFlow, Scikit-learn)
-- Predictive modeling & ML systems
-- Data pipelines & processing
-- Data analysis (Pandas, NumPy)
+- Predictive modeling and machine learning systems
+- Data pipelines and processing workflows
+- Data analysis and feature engineering (Pandas, NumPy)
 
 <br>
 
@@ -559,19 +557,19 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ## 🏗️ BACKEND & DISTRIBUTED SYSTEMS
 - Production backend systems (Java, Python, Clojure)
-- REST APIs & system architecture
+- REST API design and system architecture
 - Distributed systems fundamentals
 
 <br>
 
 ### 📊 DATA ENGINEERING
 - SQL (PostgreSQL)
-- Data modeling & optimization
+- Data modeling and optimization
 
 <br>
 
 ## 🎯 FOCUS
-Algorithms • Distributed Systems • ML Engineering • Scalable Backend • Data Systems • Production Architecture
+Data Structures and Algorithms • Distributed Systems • Machine Learning Engineering • Scalable Backend Systems • Data Systems • Production Architecture
 
 </td>
 
