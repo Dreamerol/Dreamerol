@@ -654,8 +654,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="33%" valign="top">
 
-### 📊 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦  
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">(Python, TensorFlow)</a>
+### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
+(Python, TensorFlow)
 
 - Tech Stack: Python, TensorFlow, NumPy, Pandas  
 - Focus: Machine Learning, AI, Neural Networks  
@@ -667,8 +667,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="33%" valign="top">
 
-### 💰 𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟  
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">(Python, Scikit-learn)</a>
+### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
+(Python, Scikit-learn)
 
 - Tech Stack: Python, Pandas, Scikit-learn  
 - Focus: Data Analysis, Machine Learning  
@@ -680,8 +680,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="33%" valign="top">
 
-### 💊 𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟  
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">(Python, Pandas)</a>
+### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
+(Python, Pandas, NumPy, Matplotlib)
 
 - Tech Stack: Python, Pandas, NumPy, Matplotlib  
 - Focus: Statistics, Experimental Analysis  
@@ -697,8 +697,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="33%" valign="top">
 
-### 📦 𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠  
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">(SQL)</a>
+### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
+(SQL)
 
 - Normalized relational database design  
 - Query optimization (~30% improvement)  
@@ -708,8 +708,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="33%" valign="top">
 
-### 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠  
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">(Java, Clojure)</a>
+### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
+(Java, Clojure)
 
 - Modular backend architecture  
 - API-driven service integration  
@@ -719,8 +719,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="33%" valign="top">
 
-### 🌐 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘  
-<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">(HTML, CSS, JS)</a>
+### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
+(HTML, CSS, JavaScript)
 
 - Responsive UI/UX design  
 - Central project hub  
