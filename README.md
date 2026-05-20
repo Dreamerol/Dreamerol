@@ -679,7 +679,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
----
+<br>
 
 <h2 align="center">🌎 <strong>FUTURE</strong></h2>
 
@@ -688,8 +688,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <h3 align="center"> <em>⭐ Feel free to explore the projects and give a star if you find them interesting</em></h3>
 
-
-<br>
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
