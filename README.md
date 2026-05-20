@@ -590,15 +590,13 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </div>
 
 <br>
-
-
 <div align="center">
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="16">
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:16px;">
 
 ### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python, TensorFlow, NumPy, Pandas
@@ -611,7 +609,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:16px;">
 
 ### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
@@ -624,7 +622,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:16px;">
 
 ### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python, Pandas, NumPy, Matplotlib
@@ -633,7 +631,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Analyzed real-world placebo effect datasets  
 - Applied statistical modeling and hypothesis testing  
 - Built data visualization and insight pipelines  
-- Performed data cleaning 
+- Performed data cleaning  
 
 </td>
 
@@ -641,7 +639,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:16px;">
 
 ### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• SQL (PostgreSQL)
@@ -652,27 +650,26 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:16px;">
 
 ### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
 
-- Designed modular backend service architecture
-- Implemented API-driven system integration layer
-- Applied distributed systems and scalable communication patterns
+- Designed modular backend service architecture  
+- Implemented API-driven system integration layer  
+- Applied distributed systems and scalable communication patterns  
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:16px;">
 
 ### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
 
-- Built responsive UI/UX portfolio system
-- Centralized all projects into single hub
-- Implemented badge-driven navigation structure
-- Designed layout for scalable portfolio expansion
-
+- Built responsive UI/UX portfolio system  
+- Centralized all projects into single hub  
+- Implemented badge-driven navigation structure  
+- Designed layout for scalable portfolio expansion  
 
 </td>
 
