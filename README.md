@@ -669,6 +669,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Built responsive UI/UX portfolio system
 - Centralized all projects into single hub
 - Implemented badge-driven navigation structure
+- Designed layout for scalable portfolio expansion
 
 
 </td>
