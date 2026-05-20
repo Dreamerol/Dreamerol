@@ -704,7 +704,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Built end-to-end financial prediction pipeline  
 - Applied feature engineering and statistical learning  
 - Performed trend analysis and forecasting  
-- Improved model accuracy via preprocessing and tuning  
+- Improved model accuracy via tuning  
 
 </td>
 
@@ -717,7 +717,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - Analyzed real-world placebo effect datasets  
 - Applied statistical modeling and hypothesis testing  
 - Built data visualization and insight pipelines  
-- Performed data cleaning and feature preparation  
+- Performed data cleaning and feature prep  
 
 </td>
 
