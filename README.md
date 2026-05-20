@@ -596,14 +596,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
-### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
 
-- Designed backend integration system using API-driven architecture  
-- Implemented modular service communication layer for distributed systems  
-- Focused on scalable backend design and maintainable system structure  
-- Worked with event-driven and data synchronization workflows  
-
-<br>
 
 ### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)                                                                       
 - 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
@@ -612,15 +605,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 - 📈 Analyzed trends and visualized **key metrics**  
 - ⚡ Improved model accuracy through **data preprocessing**
   
-<br>
-
-### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
-
-- Designed backend integration system using API-driven architecture  
-- Implemented modular service communication layer for distributed systems  
-- Focused on scalable backend design and maintainable system structure  
-- Worked with event-driven and data synchronization workflows  
-
 <br>
 
 ### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
