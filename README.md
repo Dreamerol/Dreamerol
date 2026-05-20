@@ -585,110 +585,72 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
+
 <br>
-
-
----
-
-
 
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="16">
+<table width="100%">
 
 <tr>
 
-<td width="33%" valign="top" style="padding:16px;">
+<td width="50%" valign="top">
 
-### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, TensorFlow, NumPy, Pandas
+## 🟡 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
 
-- Focus: Machine Learning, AI, Neural Networks  
-- Built neural network models for prediction tasks  
-- Applied backpropagation and gradient descent optimization  
-- Designed and evaluated model performance pipelines  
-- Visualized results and analyzed metrics  
+
+
+### 🟦 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+- Data Structures and Algorithms (Python, Java, C++) with complexity optimization
+- System Design (scalable, distributed, fault-tolerant architectures)
+- Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
+- Concurrency, parallelism, and performance optimization
+- Design of high-performance and maintainable software systems
+
+
+### 🟣 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔
+- Neural Networks (TensorFlow, Scikit-learn) for predictive systems
+- Machine learning pipelines and end-to-end ML workflows
+- Predictive modeling, feature engineering, and statistical learning
+- Data analysis, visualization, and exploration (Pandas, NumPy, Matplotlib)
+- Applied ML systems for real-world data-driven decision making
+
+<br>
 
 </td>
 
-<td width="33%" valign="top" style="padding:16px;">
+<td width="50%" valign="top">
 
-### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
+## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗜𝗦𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+- Production-grade backend systems (Java, Python, Clojure)
+- REST API design, microservices, and system architecture
+- Distributed systems fundamentals (scalability, reliability, availability)
+- Service-oriented architecture and system integration
+- Building robust and scalable backend services
 
-- Focus: Data Analysis, Machine Learning, Predictive Modeling  
-- Built end-to-end financial prediction pipeline  
-- Applied feature engineering and statistical learning  
-- Performed trend analysis and forecasting  
-- Improved model accuracy via tuning  
 
-</td>
+### 🟠 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚
+- SQL (PostgreSQL) – complex queries and optimization
+- Data modeling for scalable and efficient systems
+- Query optimization and performance tuning
+- Relational database design and data integrity
 
-<td width="33%" valign="top" style="padding:16px;">
 
-### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, Pandas, NumPy, Matplotlib
+## 🔵 𝗙𝗢𝗖𝗨𝗦
 
-- Focus: Statistics, Experimental Design, Data Analysis  
-- Analyzed real-world placebo effect datasets  
-- Applied statistical modeling and hypothesis testing  
-- Built data visualization and insight pipelines  
-- Performed data cleaning  
+- Data Structures and Algorithms • System Design • Distributed Systems
+- Machine Learning Engineering • Data Engineering • Scalable Backend Systems
+- Production-grade Architecture • High-performance Software Design
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• SQL (PostgreSQL)
-
-- Designed normalized relational database schema  
-- Optimized SQL queries for performance (~30% improvement)  
-- Built KPI tracking and reporting workflows  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
-
-- Designed modular backend service architecture  
-- Implemented API-driven system integration layer  
-- Applied distributed systems and scalable communication patterns  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
-
-- Built responsive UI/UX portfolio system  
-- Centralized all projects into single hub  
-- Implemented badge-driven navigation structure  
-- Designed layout for scalable portfolio expansion  
-
-</td>
-
-</tr>
-
-<!-- EMPTY SPACER ROW -->
-<tr>
-<td colspan="3" style="height:40px;"></td>
-</tr>
-
 
 </table>
 
 </div>
 
 <br>
-
 
 
 
