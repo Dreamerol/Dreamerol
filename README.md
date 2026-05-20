@@ -148,6 +148,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <br>
 
+<hr>
+
 
 <p align="center">
   
@@ -270,6 +272,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <br>
 
+<hr>
+
 
 <p align="center">
   
@@ -320,6 +324,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <br>
+
+<hr>
 
 
 <p align="center">
@@ -517,6 +523,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+<hr>
+
 
 <p align="center">
   
@@ -560,6 +568,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 <br>
+
+<hr>
 
 <p align="center">
   
