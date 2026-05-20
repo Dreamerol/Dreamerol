@@ -684,11 +684,11 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-<h2 align="center"> 
+<h1 align="center"> 
  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
   <em>✨ Click any badge to view project</em></h3>
     </a>
-</h2>
+</h1>
 
 <br>
 
