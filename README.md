@@ -657,7 +657,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 - Designed modular backend service architecture
 - Implemented API-driven system integration layer
-- Applied distributed systems design principles and scalable service communication patterns
+- Applied distributed systems and scalable communication patterns
 
 </td>
 
