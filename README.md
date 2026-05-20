@@ -536,18 +536,20 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 ### 🟦 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-- Data Structures and Algorithms (Python, Java, C++)
-- System Design (scalable, distributed systems)
+- Data Structures and Algorithms (Python, Java, C++) with complexity optimization
+- System Design (scalable, distributed, fault-tolerant architectures)
 - Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
-- Concurrency and performance optimization
+- Concurrency, parallelism, and performance optimization
+- Design of high-performance and maintainable software systems
 
 <br>
 
 ### 🟣 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔
-- Neural Networks (TensorFlow, Scikit-learn)
-- Predictive modeling and machine learning systems
-- Data pipelines and processing workflows
-- Data analysis and feature engineering (Pandas, NumPy)
+- Neural Networks (TensorFlow, Scikit-learn) for predictive systems
+- Machine learning pipelines and end-to-end ML workflows
+- Predictive modeling, feature engineering, and statistical learning
+- Data analysis, visualization, and exploration (Pandas, NumPy, Matplotlib)
+- Applied ML systems for real-world data-driven decision making
 
 <br>
 
@@ -555,21 +557,25 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <td width="50%" valign="top">
 
-## 🟩 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗜𝗦𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-- Production backend systems (Java, Python, Clojure)
-- REST API design and system architecture
-- Distributed systems fundamentals
+## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗜𝗦𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+- Production-grade backend systems (Java, Python, Clojure)
+- REST API design, microservices, and system architecture
+- Distributed systems fundamentals (scalability, reliability, availability)
+- Service-oriented architecture and system integration
+- Building robust and scalable backend services
 
 <br>
 
 ### 🟠 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚
-- SQL (PostgreSQL)
-- Data modeling and optimization
+- SQL (PostgreSQL) – complex queries and optimization
+- Data modeling for scalable and efficient systems
+- Query optimization and performance tuning
+- Relational database design and data integrity
 
 <br>
 
 ## 🔵 𝗙𝗢𝗖𝗨𝗦
-Data Structures and Algorithms • Distributed Systems • Machine Learning Engineering • Scalable Backend Systems • Data Systems • Production Architecture
+Data Structures and Algorithms • Distributed Systems • Machine Learning Engineering • Scalable Backend Systems • Production-grade Architecture • Data-intensive Systems • High-performance Software Design
 
 </td>
 
