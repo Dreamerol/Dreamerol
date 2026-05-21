@@ -466,7 +466,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
-<h2 align="center"> <strong>✨ Turning data into insights & Making a difference through real-world solutions</strong> </h2>
+<h2 align="center"> <strong>✨ Turning data into actionable insights through systems, algorithms, and scalable software solutions</strong> </h2>
 
 
 <h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
