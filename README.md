@@ -528,6 +528,39 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
+<br>
+
+<hr>
+
+<br>
+
+<div align="center">
+
+## 🟠 𝗠𝗬 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/0cea87c126ed7127843cfe4224af32e62d5dc9d3/Z_BANNER9.png?raw=true" />
+</a>
+
+</div>
+
+
+<br>
 
 <hr>
 
