@@ -34,7 +34,7 @@
 
 </div>
 
-
+<hr>
 
 <br>
 
@@ -245,6 +245,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 
+
+<hr>
+
+
+
 <br>
 
 <div align="center">
@@ -315,6 +320,9 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 
+<hr>
+
+
 <p align="center">
   
   <img src="https://img.shields.io/badge/PORTFOLIO-A-ff6a00?style=for-the-badge&logo=github&logoColor=white" />  
@@ -352,6 +360,12 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 <br>
+
+
+
+<hr>
+
+
 
 <div align="center">
 
@@ -416,6 +430,9 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </div>
 
 <br>
+
+
+<hr>
 
 
 
