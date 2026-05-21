@@ -3,6 +3,8 @@
 
 [![my-banner](Banner-SMALL.png)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
 
+<br>
+
 <hr>
 
 <div align="center" style="white-space:nowrap;">
