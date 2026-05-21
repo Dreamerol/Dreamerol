@@ -226,9 +226,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
 
 - Built responsive UI/UX portfolio system  
-- Centralized all projects into single hub  
-- Implemented badge-driven navigation structure  
-- Designed layout for scalable portfolio expansion  
+- Centralized projects into unified hub  
+- Designed scalable badge-driven navigation  
 
 </td>
 
