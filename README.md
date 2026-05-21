@@ -440,10 +440,10 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 
-<h2 align="center"> <strong><em>✨ Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
+<h2 align="center"> <strong>✨ Turning data into insights & Making a difference through real-world solutions</strong> </h2>
 
 
-<h2 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h2>
+<h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
 
 <br>
 <br>
