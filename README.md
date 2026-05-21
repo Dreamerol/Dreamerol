@@ -327,7 +327,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   
   <img src="https://img.shields.io/badge/PORTFOLIO-A-ff6a00?style=for-the-badge&logo=github&logoColor=white" />  
   <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&label=STARS&color=ff6a00&logo=github&logoColor=white" />  
-  <img src="https://img.shields.io/github/followers/Dreamerol?label=FOLLOWERS&style=for-the-badge&color=ff6a00&logo=github&logoColor=white" />  
+<img src="https://img.shields.io/github/followers/Dreamerol?label=FOLLOWERS&style=for-the-badge&color=ff6a00" /> 
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />  
   <img src="https://img.shields.io/badge/CONTRIBUTIONS-3.28k%2B-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
   
