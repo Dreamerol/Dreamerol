@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> 
+## <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> 
 
 </div>
 
@@ -339,7 +339,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 <h2 align="center">
-  👉 <a href="https://github.com/Dreamerol/GITHUB-STATS">
+  <a href="https://github.com/Dreamerol/GITHUB-STATS">
     <b>🟡 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b>
   </a>
 </h2>
@@ -441,7 +441,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <div align="center">
 
-## 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟠 𝗠𝗬 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟠 𝗠𝗬 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
