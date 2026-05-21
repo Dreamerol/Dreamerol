@@ -225,9 +225,10 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 ### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
 
-- Built responsive UI/UX portfolio system  
-- Centralized projects into unified hub  
-- Designed scalable badge-driven navigation  
+- Built responsive UI/UX portfolio architecture system  
+- Centralized projects into scalable unified showcase hub  
+- Designed badge-driven navigation and visual branding structure  
+
 
 </td>
 
