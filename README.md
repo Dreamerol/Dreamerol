@@ -532,7 +532,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <div align="center">
 
-## 🟠 𝗠𝗬 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲
+## 🟠 [𝗠𝗬 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲](https://github.com/Dreamerol/CARDS-PORTFOLIO-2026)
 
 </div>
 
