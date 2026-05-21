@@ -322,7 +322,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <hr>
 
-<br><br>
+<br>
 
 
 <p align="center">
