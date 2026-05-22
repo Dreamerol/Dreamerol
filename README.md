@@ -294,15 +294,15 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## Python • SQL • Data Analysis • Machine Learning
 
 ## ∫ data → systems ✨
 
-<br>
-
 </div>
+
+<br>
 
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
