@@ -459,11 +459,12 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <em> Click any badge to view project</em>
  </a>
   
-</h2
+</h2>
   
 
-
 <br>
+<br>
+
 
 <p align="center">
 
