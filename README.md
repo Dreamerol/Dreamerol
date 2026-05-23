@@ -458,38 +458,41 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
   <em> Click any badge to view project</em>
  </a>
-</h2>
+  
+</h2
+  
+
 
 <br>
 
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF6D00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C42?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-7C3AED?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-6D28D9?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Poker%20Game-6D28D9?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Poker%20Game-5B21B6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-1A73E8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Databases-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Algorithms-22C55E?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-4285F4?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-3B82F6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0F9D58?style=for-the-badge&logo=atom&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-14B8A6?style=for-the-badge&logo=atom&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
@@ -497,39 +500,39 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </a>
 
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20Clojure%20API-FF6D00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Java%20Clojure%20API-F97316?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-0F9D58?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-16A34A?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-F4B400?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-FACC15?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-DB4437?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-E11D48?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-  <img height="65" src="https://img.shields.io/badge/Web%20Systems-1A73E8?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Web%20Systems-1D4ED8?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-FF6D00?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-FF8C42?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-7C3AED?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-6D28D9?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/SQL%20System-1A73E8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/SQL%20System-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-0F9D58?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-22C55E?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
@@ -537,7 +540,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </a>
 
 <a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS%20System-4285F4?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/LMS%20System-3B82F6?style=for-the-badge"/>
 </a>
 
 </p>
