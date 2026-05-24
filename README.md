@@ -365,7 +365,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
 
-<br>
+
 <br>
 
 <!-- LANGUAGES (CORE IDENTITY) -->
@@ -377,7 +377,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
-<br>
+
 
 <br>
 
