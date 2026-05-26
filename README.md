@@ -321,9 +321,6 @@ Focused on turning theory into working, scalable systems.
 Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
 </h2>
 
-<h2 align="center" style="font-size:18px; font-weight:normal;">
-Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
-</h2>
 
 
 <br>
