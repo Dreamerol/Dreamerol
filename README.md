@@ -352,7 +352,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br>
 
 
 ![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
