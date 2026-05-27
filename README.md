@@ -333,6 +333,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
   
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 
+<img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 
 <img src="https://img.shields.io/badge/APPLIED%20ML-6b7280?style=for-the-badge&logo=github&logoColor=white" />
 
