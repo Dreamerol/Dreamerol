@@ -344,7 +344,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/GITHUB-STATS">
-    <b>📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b>
+    <b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b>
   </a>
 </h1>
 
