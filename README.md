@@ -337,9 +337,18 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 </p>
 
+<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=7c3aed" />
+
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-06b6d4?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-06b6d4?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=06b6d4" />
+
+
+<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
 
 
 <br>
