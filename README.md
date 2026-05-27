@@ -330,39 +330,33 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
   
+<br>
+
 <p align="center">
  
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/APPLIED ML-BACKEND SYS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPLIED_ML-BACKEND_SYSTEMS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
 
 </p>
 
-
 <br>
-
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/GITHUB-STATS">
-    <b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b>
+    🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
   </a>
 </h1>
 
-<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
-
-
-
-
+<h2 align="center">
+  ∫ data → systems ✨
+</h2>
 
 <br>
 
-
-![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
-
-</div>
-
-
-
+<p align="center">
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG" />
+</p>
 
 
 <br>
