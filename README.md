@@ -427,9 +427,12 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<h2 align="center"> 
+
+
+
+ <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>Selected Software & Data Projects →</em>
+  <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>
   
