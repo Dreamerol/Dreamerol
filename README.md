@@ -62,7 +62,7 @@
 </div>
 
 
-<br><br>
+<br>
 
 
 <div align="center">
@@ -275,7 +275,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
 
-<br><br>
+<br>
 
 
 
