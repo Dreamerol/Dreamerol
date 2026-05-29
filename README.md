@@ -22,7 +22,9 @@
 
 </div>
 
+
 <hr>
+
 
 <p align="center">
 
@@ -43,7 +45,6 @@
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
-
 
 
 </div>
@@ -306,6 +307,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </div>
 
+
 <br>
 
 
@@ -328,9 +330,9 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-
   
 <br>
+
 
 <p align="center">
  
@@ -339,6 +341,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
 
 </p>
+
 
 <br>
 
@@ -352,11 +355,13 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
   ∫ data → systems ✨
 </h2>
 
+
 <br>
 
 
 
 ![](https://github.com/Dreamerol/Dreamerol/blob/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
+
 
 
 <br>
