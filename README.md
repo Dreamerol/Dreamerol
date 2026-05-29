@@ -360,7 +360,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-![](https://github.com/Dreamerol/Dreamerol/blob/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
+![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
 
 
 
