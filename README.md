@@ -354,9 +354,9 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG" />
-</p>
+
+
+![](https://github.com/Dreamerol/Dreamerol/blob/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
 
 
 <br>
