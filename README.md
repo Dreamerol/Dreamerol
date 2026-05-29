@@ -535,7 +535,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <div align="center">
 
 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/0cea87c126ed7127843cfe4224af32e62d5dc9d3/Z_BANNER9.png?raw=true" />
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/0cea87c126ed7127843cfe4224af32e62d5dc9d3/Z_BANNER9.png?raw=true" />
 </a>
 
 </div>
