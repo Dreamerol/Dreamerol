@@ -350,8 +350,14 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <h1 align="center">
   <a href="https://github.com/Dreamerol/GITHUB-STATS">
     🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
-  </a>
+      </a>
 </h1>
+
+<div align="center">
+
+## ∫ data → systems → insights ✨
+
+</div>
 
 
 <br><br>
