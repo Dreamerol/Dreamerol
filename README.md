@@ -1,7 +1,7 @@
 
 <br>
 
-[![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/00daa204569d6385569ca92610f800922e71f026/Banner%20DATA%20SWE.jpg)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
+[![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner%20DATA%20SWE.jpg)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
 
 <br>
 
