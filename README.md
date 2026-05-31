@@ -284,7 +284,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
   <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
     alt="Portfolio Cards"
     width="100%"/>
 
@@ -364,7 +364,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
+![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)
 
 
 
@@ -539,7 +539,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <div align="center">
 
 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/0cea87c126ed7127843cfe4224af32e62d5dc9d3/Z_BANNER9.png?raw=true" />
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Z_BANNER9.png?raw=true" />
 </a>
 
 </div>
