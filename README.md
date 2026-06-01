@@ -1,10 +1,9 @@
 
-<br><br>
+<br>
 
 [![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner%20DATA%20SWE.jpg)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
 
-<br><br>
-
+<br>
 
 
 
