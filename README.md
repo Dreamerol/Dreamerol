@@ -421,7 +421,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 - Relational database design and data integrity
 
 
-## 🔵 𝗙𝗢𝗖𝗨𝗦
+### 🔵 𝗙𝗢𝗖𝗨𝗦
 
 - Data Structures and Algorithms • System Design • Distributed Systems
 - Machine Learning Engineering • Data Engineering • Scalable Backend Systems
