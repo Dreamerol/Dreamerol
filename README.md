@@ -567,11 +567,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <br><br>
 
 
-
-
-<h2 align="center"> <strong>✨ Turning data into insights through systems, algorithms and software solutions</strong> </h2>
-
-
 <h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
 
 
