@@ -1,7 +1,7 @@
 
 <br>
 
-[![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner%20DATA%20SWE.jpg)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
+[![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner%20DATA%20SWE.jpg)](https://github.com/Dreamerol/PORTFOLIO)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol/CARDFOLIO">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
@@ -245,7 +245,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <td width="33%" valign="top" style="padding:16px;">
 
-### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
+### 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
 
 - Built responsive UI/UX portfolio architecture system  
@@ -277,11 +277,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-##  👉  <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🧩 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</a> 
+##  👉  <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</a> 
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+<a href="https://github.com/Dreamerol/CARDFOLIO">
 
 
 <br>
@@ -290,7 +290,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+<a href="https://github.com/Dreamerol/CARDFOLIO">
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
@@ -307,7 +307,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢  𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+## <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">🟢  𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
@@ -348,7 +348,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 <h1 align="center">
-  <a href="https://github.com/Dreamerol/GITHUB-STATS">
+  <a href="https://github.com/Dreamerol/ALLSTATS">
     🔥 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 & 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
       </a>
 </h1>
@@ -365,7 +365,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-[![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol/GITHUB-STATS)
+[![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol/ALLSTATS)
 
 
 
@@ -448,7 +448,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
  <h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+ 👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>
