@@ -1,6 +1,13 @@
 
 <br>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
+       width="100%"
+       alt="Mihaela Koseva Banner" />
+</div>
+
 [![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML%20DATA%20SWE.jpg)](https://github.com/Dreamerol/PORTFOLIO)
 
 https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg
