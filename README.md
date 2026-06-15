@@ -2,11 +2,9 @@
 <br><br>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
-       width="100%"
-       alt="Mihaela Koseva Banner" />
-</div>
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
+     width="100%"
+     alt="Mihaela Koseva Banner" />
 
 
 
