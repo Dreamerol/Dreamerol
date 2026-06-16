@@ -21,7 +21,7 @@
 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> • 
 🧩 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
 ✅ <a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a> • 
-👉 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a>
+📊 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a>
 </span>
 
 </div>
