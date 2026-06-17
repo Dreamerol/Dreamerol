@@ -203,7 +203,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <td width="33%" valign="top" style="padding:16px;">
 
-### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
+### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
 
 - Focus: Data Analysis, Machine Learning, Predictive Modeling  
@@ -255,7 +255,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <td width="33%" valign="top" style="padding:16px;">
 
-### 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
+### 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
 
 - Built responsive UI/UX portfolio architecture system  
