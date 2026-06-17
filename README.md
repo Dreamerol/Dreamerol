@@ -245,7 +245,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 - Designed modular backend service architecture
 - Implemented API-driven system integration layer
-- Applied distributed systems and communication patterns
+- Applied systems and communication patterns
 - Developed RESTful APIs and backend services
 
 </td>
