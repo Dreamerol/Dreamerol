@@ -177,7 +177,16 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+
+
+
 <br>
+
+
+
+
 
 
 
@@ -188,66 +197,67 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <tr>
 
-<td width="33%" valign="top" style="padding:16px;">
+<td width="50%" valign="top" style="padding:16px;">
 
 ### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python, TensorFlow, NumPy, Pandas
 
-- Focus: Machine Learning, AI, Neural Networks  
-- Built neural network models for prediction tasks  
-- Applied backpropagation and gradient descent optimization  
-- Designed and evaluated model performance pipelines  
-- Visualized results and analyzed metrics  
+- Focus: Machine Learning, AI, Neural Networks
+- Built neural network models for prediction tasks
+- Applied backpropagation and gradient descent optimization
+- Designed and evaluated model performance pipelines
+- Visualized results and analyzed metrics
 
 </td>
 
-<td width="33%" valign="top" style="padding:16px;">
+<td width="50%" valign="top" style="padding:16px;">
 
 ### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
 
-- Focus: Data Analysis, Machine Learning, Predictive Modeling  
-- Built end-to-end financial prediction pipeline  
-- Applied feature engineering and statistical learning  
-- Performed trend analysis and forecasting  
-- Improved model accuracy via tuning  
+- Focus: Data Analysis, Machine Learning, Predictive Modeling
+- Built end-to-end financial prediction pipeline
+- Applied feature engineering and statistical learning
+- Performed trend analysis and forecasting
+- Improved model accuracy via tuning
 
 </td>
 
+</tr>
 
-<td width="33%" valign="top" style="padding:16px;">
+<tr>
+
+<td width="50%" valign="top" style="padding:16px;">
 
 ### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• SQL (PostgreSQL)
 
-- Designed normalized relational database schema  
-- Optimized SQL queries for performance (~30% improvement)  
-- Built KPI tracking and reporting workflows  
+- Designed normalized relational database schema
+- Optimized SQL queries for performance (~30% improvement)
+- Built KPI tracking and reporting workflows
 
 </td>
 
-<td width="33%" valign="top" style="padding:16px;">
+<td width="50%" valign="top" style="padding:16px;">
 
 ### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
 
-- Designed modular backend service architecture  
-- Implemented API-driven system integration layer  
-- Applied distributed systems and scalable communication patterns  
+- Designed modular backend service architecture
+- Implemented API-driven system integration layer
+- Applied distributed systems and communication patterns
+- Developed RESTful APIs and backend services
 
 </td>
 
 </tr>
 
-<!-- EMPTY SPACER ROW -->
-<tr>
-<td colspan="3" style="height:40px;"></td>
-</tr>
-
-
 </table>
 
 </div>
+
+
+
 
 
 
