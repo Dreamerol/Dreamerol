@@ -340,7 +340,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
+<br><br>
 
 
 
@@ -351,11 +351,11 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://github.com/Dreamerol/ALLSTATS">
     🔥 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 & 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
       </a>
-</h2>
+</h1>
 
 <div align="center">
 
