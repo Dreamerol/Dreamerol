@@ -214,22 +214,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </td>
 
-<td width="33%" valign="top" style="padding:16px;">
-
-### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, Pandas, NumPy, Matplotlib
-
-- Focus: Statistics, Experimental Design, Data Analysis  
-- Analyzed real-world placebo effect datasets  
-- Applied statistical modeling and hypothesis testing  
-- Built data visualization and insight pipelines  
-- Performed data cleaning  
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="33%" valign="top" style="padding:16px;">
 
@@ -250,18 +234,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 - Designed modular backend service architecture  
 - Implemented API-driven system integration layer  
 - Applied distributed systems and scalable communication patterns  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
-
-- Built responsive UI/UX portfolio architecture system  
-- Centralized projects into scalable unified showcase hub  
-- Designed badge-driven navigation and visual branding structure  
-
 
 </td>
 
