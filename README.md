@@ -397,12 +397,10 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-
-
 <a href="https://github.com/Dreamerol/ALLSTATS">
   <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg"
        alt="Tech Stack"
-       style="width: 90%; height: auto; display: block; margin: 0 auto;" />
+       style="width: 90%; display: block; margin: 0 auto;" />
 </a>
 
 
