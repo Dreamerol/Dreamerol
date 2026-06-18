@@ -62,6 +62,24 @@
 
 
 
+<div align="center">
+
+<h2 style="font-size:42px; line-height:1.2;">
+🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+</h2>
+
+
+  <h2 align="center">
+  Backend systems • Data pipelines • Applied ML for scalable applications
+  </h2>
+
+
+
+
+<br>
+
+
+
 
 <div align="center">
 
