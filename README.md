@@ -64,8 +64,10 @@
 
 <div align="center">
 
-<h2 style="font-size:42px; line-height:1.2;">
-🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+<h2 style="font-size:42px; line-height:1.2;" align="center">
+  <a href="https://github.com/Dreamerol/VIZITKA">
+    🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+  </a>
 </h2>
 
 
