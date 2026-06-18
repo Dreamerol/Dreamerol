@@ -370,11 +370,11 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://github.com/Dreamerol/ALLSTATS">
     🔥 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦  &  𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
       </a>
-</h2>
+</h1>
 
 <div align="center">
 
@@ -384,21 +384,24 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
-<br>
-<br>
 
 
+<br><br>
 
 
-[![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol/ALLSTATS)
-
-
-
-
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
 
 
 <br>
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
+
+
+
+<br><br>
+
+
 
 
 
