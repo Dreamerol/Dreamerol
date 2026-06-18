@@ -340,8 +340,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 ## <a href="https://www.uni-sofia.bg" target="_blank">𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
-## Python • SQL • Applied ML • Backend Development
-
 
 </div>
 
