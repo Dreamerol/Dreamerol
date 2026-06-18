@@ -65,7 +65,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/VIZITKA" target="_blank">
+# <a href="https://github.com/Dreamerol/VIZITKA" target="_blank">
 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 @ 𝗙𝗠𝗜
 </a>
 
