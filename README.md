@@ -402,7 +402,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
   <a href="https://github.com/Dreamerol/ALLSTATS">
     <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg"
          alt="Tech Stack"
-         width="90%" />
+         width="95%" />
   </a>
 </p>
 
