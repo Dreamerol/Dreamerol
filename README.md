@@ -417,7 +417,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <td width="50%" valign="top">
 
-## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
 - Production-grade backend systems (Java, Python, Clojure)
 - REST API design, microservices, and system architecture
 - Distributed systems fundamentals (scalability, reliability, availability)
