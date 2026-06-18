@@ -395,21 +395,10 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
   <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
 </a>
 
-</div>
-
-
-<p align="center">
-  <a href="https://github.com/Dreamerol/ALLSTATS">
-    <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg"
-         alt="Tech Stack"
-         width="95%" />
-  </a>
-</p>
-
-</div>
 
 
 <br>
+
 
 <a href="https://github.com/Dreamerol/ALLSTATS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
