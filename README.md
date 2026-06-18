@@ -392,7 +392,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <td width="50%" valign="top">
 
-## 🟢 𝗖𝗢𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
+## 🟢 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
 
 
 
