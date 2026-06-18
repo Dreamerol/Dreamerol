@@ -3,6 +3,36 @@
 
 
 
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/ALLSTATS">
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg"
+       alt="Tech Stack"
+       width="48%" />
+</a>
+
+<a href="https://github.com/Dreamerol/ALLSTATS">
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg"
+       alt="Languages"
+       width="48%" />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
      width="100%"
      alt="Mihaela Koseva Banner" />
