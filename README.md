@@ -65,11 +65,9 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/VIZITKA" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>
+## <a href="https://github.com/Dreamerol/VIZITKA" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 @ 𝗙𝗠𝗜</a>
 
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-## 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 ∙ 𝗗𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 ∙ 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 𝗳𝗼𝗿 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+## 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 ∙ 𝗗𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 ∙ 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟
 
 ## ∫ data → systems ✨
 
