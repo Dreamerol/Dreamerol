@@ -581,9 +581,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
   <img height="65" src="https://img.shields.io/badge/LMS%20System-2C2C54?style=for-the-badge"/>
      </a>
 
-<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS_System-2C2C54?style=for-the-badge" />
-</a>
 
 
 </p>
@@ -682,6 +679,11 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 <a href="https://komarev.com/ghpvc/?username=Dreamerol">
   <img height="65" src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=8A2BE2&label=VISITORS"/>
 </a>
+
+<a href="https://github.com/Dreamerol">
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=8A2BE2" />
+</a>
+
 
 </p>
 
