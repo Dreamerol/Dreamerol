@@ -4,10 +4,17 @@
 
 
 
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
-     width="100%"
-     alt="Mihaela Koseva Banner" />
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
+    width="100%"
+    alt="Mihaela Koseva Banner"
+  />
+</a>
+
+</div>
 
 
 
