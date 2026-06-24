@@ -2,9 +2,7 @@
 <br>
 
 
-![MIHAELA KOSEVA](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_1.PNG)
-
-
+![MIHAELA KOSEVA](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_12.PNG)
 
 
 
@@ -13,7 +11,7 @@
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_1.PNG"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_12.PNG"
     width="100%"
     alt="Mihaela Koseva Banner"
   />
