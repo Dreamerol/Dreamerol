@@ -5,6 +5,28 @@
 
 
 
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_888.PNG"
+    alt="Vizitka"
+    width="100%"  
+  />
+</a>
+
+</div>
+
+
+
+
+<br>
+
+
+
+
+
+
 
 
 
