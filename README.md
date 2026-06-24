@@ -28,26 +28,6 @@
 
 
 
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_777.PNG"
-    width="100%"
-    alt="Mihaela Koseva Banner"
-  />
-</a>
-
-</div>
-
-
-
-<br>
-
-
-
 <div align="center" style="white-space:nowrap;">
 
 <span style="font-size:1.15em;">
