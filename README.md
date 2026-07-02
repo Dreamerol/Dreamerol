@@ -88,9 +88,11 @@
 
 
 
+
+
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>  
+## ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
@@ -109,11 +111,12 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>  
 
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
 </div>
+
 
 
 
