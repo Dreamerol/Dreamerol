@@ -621,16 +621,22 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
+
+
+
+
 <div align="center">
-
-<a href="https://github.com/Dreamerol/VIZITKA">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true"
-    alt="VIZITKA Banner"
-  />
-</a>
-
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
 </div>
+
+
 
 
 
@@ -709,21 +715,8 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br>
 
 
-
-
-
-<div align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
-      width="100%"
-      alt="Mihaela Koseva Banner"
-    />
-  </a>
-</div>
 
 
 
@@ -733,13 +726,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <br><br><br><br>
 
-
-
-
-<br>
-<br>
-<br>
-<br>
 
 
 
