@@ -390,11 +390,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
       </a>
 </h1>
 
-<div align="center">
-
-## ∫ data → systems ✨
-
-</div>
 
 
 
