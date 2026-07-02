@@ -82,28 +82,6 @@
 
 
 
-<br><br><br>
-
-
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/PORTFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
-    width="100%"
-    alt="Portfolio Banner"
-    style="border-radius:18px;" 
-  />
-</a>
-
-</div>
-
 
 
 
