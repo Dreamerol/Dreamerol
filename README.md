@@ -1,13 +1,21 @@
 
+
+
+
+
+
+
+
 <br>
+
 
 
 
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_333.png"
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
     width="100%"
     alt="Mihaela Koseva Banner"
   />
@@ -17,7 +25,15 @@
 
 
 
-<hr><hr>
+<br>
+
+
+
+
+
+
+
+
 
 
 
@@ -37,7 +53,9 @@
 
 
 
-<hr><hr>
+
+<hr>
+
 
 
 
