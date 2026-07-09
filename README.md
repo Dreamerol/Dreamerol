@@ -119,16 +119,6 @@
 
 
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
-</td>
-
-</tr>
-
 
 
 
@@ -165,18 +155,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2022.png
-
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2022.png"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 <br><span style="font-size:24px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
 </td>
 
 </tr>
+
 
 <!-- ROW 2 -->
 <tr>
