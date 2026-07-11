@@ -619,7 +619,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <h1>
 <a href="https://github.com/Dreamerol/AI-DATA-BUILDS">
- 👉  𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 • 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
+ 🧠  𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 • 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
 </a>
 </h1>
 
@@ -631,7 +631,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br>
 
 
 
