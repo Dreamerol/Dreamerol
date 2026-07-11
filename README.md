@@ -608,7 +608,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br>
 
 
 
@@ -619,7 +619,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <h1>
 <a href="https://github.com/Dreamerol/AI-DATA-BUILDS">
-𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 • 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
+ 👉  𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 • 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
 </a>
 </h1>
 
@@ -630,7 +630,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br>
 
 
 
@@ -642,7 +642,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
       width="100%"
-      alt="Mihaela Koseva Banner"
+      alt="AI Data Builds"
     />
   </a>
 </div>
