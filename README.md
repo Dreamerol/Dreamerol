@@ -639,7 +639,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol/AI-DATA-BUILDS" target="_blank">
+  <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
       width="100%"
