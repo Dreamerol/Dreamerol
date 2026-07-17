@@ -342,6 +342,36 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20123.png
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20123.png"
+    alt="Portfolio Cards"
+    width="100%"/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
