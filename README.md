@@ -123,6 +123,26 @@
 <br>
 
 
+https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN.webp
+
+
+
+
+<div align="center">
+
+  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN.webp"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
+    />
+  </a>
+
+</div>
+
+
+
+
 
 
 
