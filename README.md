@@ -638,37 +638,36 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 </a>
 </h1>
 
-
-
 </div>
 
 
 
 
 
-<br><br>
+
+<br>
 
 
 
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+
+  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
     <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
       width="100%"
-      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+      alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
     />
   </a>
+
 </div>
 
 
 
 
 
-
 <br><br>
-
 
 
 
@@ -705,14 +704,29 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+
+<div align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    />
+  </a>
+</div>
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
 ---
-
-
-
-
-
-
-
 
 
 
