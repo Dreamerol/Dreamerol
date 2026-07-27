@@ -313,7 +313,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -436,7 +436,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
+<br><br>
 
 
 
