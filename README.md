@@ -22,19 +22,6 @@
 
 
 
-<br>
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png">
-</p>
-
-
-
-
-
 
 <br>
 
