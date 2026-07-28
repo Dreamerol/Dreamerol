@@ -51,41 +51,6 @@
 
 
 
-<hr>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png">
-</p>
-
-<br><br>
-
-
-
-
-
-
 
 
 
@@ -121,13 +86,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png">
-
-
-
-
-
-
 <br><br><br>
 
 
@@ -147,10 +105,15 @@
 
 
 
+<br>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png">
+</p>
 
 <br><br>
+
+
 
 
 
