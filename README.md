@@ -65,25 +65,7 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 
 
 
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20111.png"
-    width="100%"
-    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science, Portfolio"
-  />
-</a>
-
-</div>
-
-
-
-
-
-
+---
 
 
 
