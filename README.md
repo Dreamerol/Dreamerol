@@ -73,6 +73,7 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 
 
 <br><br>
+<br>
 
 
 
@@ -126,6 +127,7 @@ Collaborated through Git, code reviews, debugging, testing, and Agile practices.
 
 
 <br><br>
+<br>
 
 
 
