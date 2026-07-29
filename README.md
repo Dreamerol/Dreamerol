@@ -70,9 +70,6 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 
 
 
-<br>
-
-
 
 
 <br><br>
