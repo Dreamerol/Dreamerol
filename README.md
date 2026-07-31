@@ -714,6 +714,14 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 
 
 
+---
+
+<p align="center">
+  <sub>
+    © 2026 Mihaela Koseva. All rights reserved.<br>
+    Original portfolio design, custom graphics and content. Please respect the author's work and do not reproduce or redistribute it without permission.
+  </sub>
+</p>
 
 <br><br><br>
 
