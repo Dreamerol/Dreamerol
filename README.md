@@ -609,6 +609,37 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
+<div align="center">
+
+<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
+
+Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+© 2026 Mihaela Koseva. All rights reserved.<br>
+Original portfolio design, custom graphics, layout, and content.<br>
+Please respect the author's work and do not reproduce or redistribute it without permission.
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore more on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
@@ -634,18 +665,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
-
-
-<div align="center">
-  <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.png"
-      width="100%"
-      alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
-    />
-  </a>
-</div>
 
 
 
@@ -713,8 +732,6 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 </table>
 
 
-
----
 
 <p align="center">
   <sub>
