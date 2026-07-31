@@ -614,9 +614,11 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+Mihaela Koseva (Михаела Косева) • Sofia University • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
 
 </p>
+
+
 
 <p style="font-size:10px; opacity:0.7;">
 © 2026 Mihaela Koseva. All rights reserved.<br>
@@ -624,38 +626,6 @@ Original portfolio design, custom graphics, layout, and content.<br>
 Please respect the author's work and do not reproduce or redistribute it without permission.
 </p>
 
-<p style="font-size:10px; opacity:0.7;">
-🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
-</p>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
-
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
-
-</p>
-
-
-
-<p align="center">
-  
-<p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva. All rights reserved. • Original portfolio design, custom graphics, layout, and content. Please respect the author's work and do not reproduce or redistribute it without permission.
-</p>
-
 
 <p style="font-size:10px; opacity:0.7;">
 🔗 Explore more on GitHub:
@@ -663,6 +633,9 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </p>
 
 </div>
+
+
+
 
 
 
