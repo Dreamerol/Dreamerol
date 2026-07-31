@@ -593,16 +593,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
@@ -620,22 +610,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
