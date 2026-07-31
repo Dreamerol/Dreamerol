@@ -619,11 +619,8 @@ Mihaela Koseva (Михаела Косева) • Sofia University • AI Enginee
 </p>
 
 
-
 <p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva. All rights reserved.<br>
-Original portfolio design, custom graphics, layout, and content.<br>
-Please respect the author's work and do not reproduce or redistribute it without permission.
+© 2026 Mihaela Koseva (Михаела Косева). All rights reserved. • Original portfolio design, graphics & content. Do not reproduce without permission.
 </p>
 
 
