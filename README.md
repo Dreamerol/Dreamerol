@@ -648,6 +648,15 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 </p>
 
+
+
+<p align="center">
+  
+<p style="font-size:10px; opacity:0.7;">
+© 2026 Mihaela Koseva. All rights reserved. • Original portfolio design, custom graphics, layout, and content. Please respect the author's work and do not reproduce or redistribute it without permission.
+</p>
+
+
 <p style="font-size:10px; opacity:0.7;">
 🔗 Explore more on GitHub:
 <a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
@@ -656,11 +665,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </div>
 
 
-
-
-
-
-<br><br><br>
 
 
 
@@ -733,12 +737,7 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 
 
 
-<p align="center">
-  <sub>
-    © 2026 Mihaela Koseva. All rights reserved.<br>
-    Original portfolio design, custom graphics and content. Please respect the author's work and do not reproduce or redistribute it without permission.
-  </sub>
-</p>
+
 
 <br><br><br>
 
