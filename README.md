@@ -628,7 +628,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <p style="font-size:10px; opacity:0.7;">
 🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Sofia University • GitHub • Dreamerol</a>
 </p>
 
 </div>
