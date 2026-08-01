@@ -403,7 +403,7 @@ Build systems where data becomes structure and structure becomes insight.
 </h2>
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Background in Mathematics, Algorithms, and Software Engineering.  
+Build systems where data becomes structure and structure becomes insight. Background in Mathematics, Algorithms, and Software Engineering.  
 Focused on turning theory into practical, scalable systems.
 </h2>
 
