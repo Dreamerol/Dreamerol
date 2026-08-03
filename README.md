@@ -109,7 +109,7 @@ Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and mod
 </h2>
 
 <h2>
-Designed and implemented AI workflows, data processing pipelines, and scalable software components.<br>
+Designed and implemented AI workflows, data processing pipelines, and scalable software components.
 Applied machine learning techniques for data analysis, automation, and intelligent system development.<br><br>
 
 Integrated AI capabilities into software platforms through experimentation, model development, and engineering best practices.
