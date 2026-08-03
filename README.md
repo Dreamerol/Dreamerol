@@ -102,6 +102,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
   
+  
 <h2>
 Developed AI-powered software solutions and data-centric systems.<br>
 Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI technologies to build intelligent, scalable applications.
@@ -113,6 +114,7 @@ Designed and implemented AI workflows, data pipelines, feature engineering solut
 
 Integrated AI capabilities into software platforms through ML model development, model evaluation, experimentation, and engineering practices. Built backend services, REST API integrations, and scalable data solutions for distributed systems.
 </h2>
+
 
 
 </div>
