@@ -95,28 +95,27 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+
+
+
 <div align="center">
 
 
 
-
-
-
-
 <h2>
-Developed backend systems and distributed integrations for data-driven platforms.<br>
-Worked with <b>Java</b>, <b>Clojure</b>, <b>ClojureScript</b>, and <b>Python</b> to build scalable software solutions.
+Developed AI-driven software solutions and data-focused systems.<br>
+Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and modern AI technologies to build intelligent applications.
 </h2>
 
+<p>
+Designed and implemented AI workflows, data processing pipelines, and scalable software components.<br>
+Applied machine learning techniques for data analysis, automation, and intelligent system development.<br><br>
 
-<h2>
-Designed and implemented backend services and reusable platform components.<br>
-Built and maintained REST API integrations for distributed systems.
-Developed data processing pipelines and automation workflows.<br><br>
-  
-Applied functional programming principles for scalable, maintainable software.<br>
-Collaborated through Git, code reviews, debugging, testing, and Agile practices.
-</h2>
+Integrated AI capabilities into software platforms through experimentation, model development, and engineering best practices.
+</p>
+
+
 
 </div>
 
