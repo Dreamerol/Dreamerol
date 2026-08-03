@@ -112,6 +112,13 @@ Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI 
 <h2>
 Designed and implemented AI workflows, data processing pipelines, feature engineering solutions, and scalable software components. Applied machine learning algorithms, data analytics, and automation techniques for intelligent system development.<br><br>
 
+
+Integrated AI capabilities into software platforms through ML model development, model evaluation, experimentation, and engineering best practices. Built backend services, REST API integrations, and scalable data solutions for reliable distributed systems.
+
+
+
+
+
 Integrated AI capabilities into software platforms through ML model development, data-driven experimentation, and engineering best practices. Built backend services, REST API integrations, and scalable data solutions for reliable distributed systems.
 </h2>
 
