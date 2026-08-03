@@ -103,10 +103,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<h3>
+<h2>
 Developed backend systems and distributed integrations for data-driven platforms.<br>
 Worked with <b>Java</b>, <b>Clojure</b>, <b>ClojureScript</b>, and <b>Python</b> to build scalable software solutions.
-</h3>
+</h2>
 
 
 <h3>
