@@ -69,7 +69,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <br><br>
-<br><br>
+<br>
 
 
 
@@ -128,7 +128,7 @@ Built backend services, REST API integrations, and scalable data solutions for r
 
 
 
-<br><br><br>
+<br><br>
 
 
 
