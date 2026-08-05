@@ -68,14 +68,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br><br>
-<br>
-
-
-
-
-
-
 <div align="center">
 
 # <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>  
