@@ -439,11 +439,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
-
-
-
-
 
 
 <h1 align="center">
@@ -463,20 +458,19 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<a href="https://github.com/Dreamerol/ALLSTATS">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.png"
-        width="100%"
-      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia" />
-</a>
 
+
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.png" 
+     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
+     
 
 <br>
 
 
-<a href="https://github.com/Dreamerol/ALLSTATS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" 
-      width="100%"
-     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia" />
+     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
 
 
 
@@ -550,73 +544,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 </div>
 
-
-
-
-
-
-
-<div align="center">
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🟢 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗦𝗞𝗜𝗟𝗟𝗦
-
-
-
-### 🔵 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-- Data Structures and Algorithms (Python, Java, C++) with complexity optimization
-- System Design (scalable, distributed, fault-tolerant architectures)
-- Object-Oriented Programming + Functional Programming (Clojure / ClojureScript)
-- Concurrency, parallelism, and performance optimization
-- Design of high-performance and maintainable software systems
-
-
-### 🟣 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔
-- Neural Networks (TensorFlow, Scikit-learn) for predictive systems
-- Machine learning pipelines and end-to-end ML workflows
-- Predictive modeling, feature engineering, and statistical learning
-- Data analysis, visualization, and exploration (Pandas, NumPy, Matplotlib)
-- Applied ML systems for real-world data-driven decision making
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
-- Production-grade backend systems (Java, Python, Clojure)
-- REST API design, microservices, and system architecture
-- Distributed systems fundamentals (scalability, reliability, availability)
-- Service-oriented architecture and system integration
-- Building robust and scalable backend services
-
-
-### 🟠 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚
-- SQL (PostgreSQL) – complex queries and optimization
-- Data modeling for scalable and efficient systems
-- Query optimization and performance tuning
-- Relational database design and data integrity
-
-
-### 🟡 𝗙𝗢𝗖𝗨𝗦
-
-- Data Structures and Algorithms • System Design • Distributed Systems
-- Machine Learning Engineering • Data Engineering • Scalable Backend Systems
-- Production-grade Architecture • High-performance Software Design
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 
 
