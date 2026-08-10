@@ -9,7 +9,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-DREAMEROL.png"
     width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)"
   />
 </a>
 
@@ -34,7 +34,7 @@
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
 width="100%"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)"
 />
 
 </a>
@@ -448,14 +448,14 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.png" 
-     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
+     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)" />
      
 
 <br>
 
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" 
-     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
+     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)" />
 
 
 
@@ -548,7 +548,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <h1>
 <a
   href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
-  title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
+  title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)">
   ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 </a>
 </h1>
@@ -569,7 +569,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
       width="100%"
-      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)"
     />
   </a>
 
