@@ -285,6 +285,29 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+  <img
+    src="https://github.com/Dreamerol/Dreamerol/blob/main/Osnovni-proekti_22.png"
+    alt="Featured Projects — Machine Learning, AI, Data Science, Backend, Python, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+   width="100%"
+  >
+</a>
+
+</div>
+
+
+
+<br>
+
+
+
+
+
+
 <div align="center">
 
 <a href="https://github.com/Dreamerol/ALLSTATS">
