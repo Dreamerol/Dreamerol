@@ -275,7 +275,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 # 🟢 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
 
 
-# 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, <br> 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 𝗮𝗻𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+# 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗶𝗻 𝗔𝗜/𝗠𝗟, 𝗗𝗮𝘁𝗮, 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
 
 </div>
 
