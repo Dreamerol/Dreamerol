@@ -458,7 +458,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 # 🟢 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
 
 
-# AI/ML • Data Engineering • Software Engineering • Algorithms
+# AI/ML • Data & Software Engineering • Algorithms  
 
 </div>
 
