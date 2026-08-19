@@ -490,8 +490,25 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Osnovni-proekti.png
 
 
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Osnovni-proekti.png"
+    alt="Featured Projects — Machine Learning, AI, Data Science, Backend, Python, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineer, AI Engineer, Applied Machine Learning, Data Science, Backend Engineering, Python, C++, Java, SQL, Sofia"
+   width="100%"
+  >
+</a>
+
+</div>
 
 
 
