@@ -495,8 +495,8 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<h2 align="center">⭐ Feel free to explore the repos and star any you find interesting</h2>
 
+<h2 align="center">⭐ Feel free to explore the repos and star if you find them interesting</h2>
 
 
 
