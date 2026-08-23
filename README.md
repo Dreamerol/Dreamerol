@@ -352,7 +352,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
   <br>
 
-Building systems where <strong>data becomes structure, and structure becomes insight.</strong><br>
+Building systems where <strong>data becomes structure, and structure becomes insight.</strong>
 A background in <strong>Mathematics, Algorithms, and Software Engineering</strong>, with a focus on turning theory into practical, scalable systems.
 
 </h2>
