@@ -348,21 +348,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
-
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Build systems where data becomes structure and structure becomes insight. Background in Mathematics, Algorithms, and Software Engineering.  
-Focused on turning theory into practical, scalable systems.
+
+<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • СМГ <br><br>
+Building systems where <strong>data becomes structure, and structure becomes insight.</strong>
+With a background in <strong>Mathematics, Algorithms, and Software Engineering</strong>, I focus on turning theory into practical, scalable systems.
+
 </h2>
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+  Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
 </h2>
-
-
-
-
-
 
 
 
