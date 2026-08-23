@@ -350,7 +350,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
 
-<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • СМГ <br><br>
+<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • СМГ <br>
 Building systems where <strong>data becomes structure, and structure becomes insight.</strong>
 With a background in <strong>Mathematics, Algorithms, and Software Engineering</strong>, I focus on turning theory into practical, scalable systems.
 
