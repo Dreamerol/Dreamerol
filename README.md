@@ -107,7 +107,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
   
 <h2>
-<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • (СМГ)<br>
+<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • СМГ<br>
 Developed AI-powered software solutions and data-centric systems.<br>
 Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI technologies to build intelligent, scalable applications.
 </h2>
