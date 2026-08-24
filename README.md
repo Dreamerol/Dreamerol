@@ -1,4 +1,10 @@
-
+<div align="center">
+  <a href="https://github.com/Dreamerol/ALLSTATS">
+    <strong style="font-size: 2em;">
+      𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 & 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
+    </strong>
+  </a>
+</div>
 
 
 
