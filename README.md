@@ -378,7 +378,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build <strong>da
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/ALLSTATS">
-    🔥 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦  &  𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
+     𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦  &  𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
       </a>
 </h1>
 
