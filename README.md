@@ -56,6 +56,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 🧩 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
 ✅ <a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a> • 
 📊 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗔𝗟𝗟𝗦𝗧𝗔𝗧𝗦</b></a>
+  **Website:** [Mihaela Koseva — AI Engineer & Software Engineer](https://dreamerol.github.io/MIHAELA-KOSEVA/)
 </span>
 
 </div>
