@@ -47,22 +47,57 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="center">
 
+<table>
+<tr>
 
+<td align="center" width="12.5%">
+🌐<br>
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>
+</td>
 
-<div align="center" style="white-space:nowrap;">
+<td align="center" width="12.5%">
+🟢<br>
+<a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
+</td>
 
-<span style="font-size:1.15em;">
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 • 
-✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 • 
-🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> • 
-🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> • 
-🧩 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
-✅ <a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a> • 
-📊 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗔𝗟𝗟𝗦𝗧𝗔𝗧𝗦</b></a>
-</span>
+<td align="center" width="12.5%">
+🧩<br>
+<a href="https://github.com/Dreamerol/CARDFOLIO">𝗥𝗘𝗣𝗢𝗦</a>
+</td>
+
+<td align="center" width="12.5%">
+📊<br>
+<a href="https://github.com/Dreamerol/ALLSTATS">𝗦𝗧𝗔𝗧𝗦</a>
+</td>
+
+<td align="center" width="12.5%">
+✅<br>
+<a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a>
+</td>
+
+<td align="center" width="12.5%">
+🐙<br>
+<a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>
+</td>
+
+<td align="center" width="12.5%">
+🔗<br>
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a>
+</td>
+
+<td align="center" width="12.5%">
+✉️<br>
+<a href="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg">𝗖𝗢𝗡𝗧𝗔𝗖𝗧</a>
+</td>
+
+</tr>
+</table>
 
 </div>
+
+
 
 
 ---
