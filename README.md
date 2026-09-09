@@ -520,7 +520,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build <strong>da
 
 <h1>
 ⚛️  <a
-  href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
+  href="https://github.com/Dreamerol/AI-DATA-BUILDS"
   title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia">
    𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 </a>
@@ -541,7 +541,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build <strong>da
 
 <div align="center">
 
-  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+  <a href="https://github.com/Dreamerol/AI-DATA-BUILDS">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
       width="100%"
