@@ -511,7 +511,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build <strong>da
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -533,12 +533,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build <strong>da
 
 
 
-<br>
-
-
-
-
-
+<br><br>
 
 
 
@@ -563,7 +558,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build <strong>da
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -624,7 +619,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -653,7 +648,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
