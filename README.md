@@ -352,6 +352,67 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# 👉  <a href="https://github.com/Dreamerol/CARDFOLIO">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
+
+# 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟
+</div>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-CARDFOLIO.jpg"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia"
+    width="100%"/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br><br><br>
 
 
@@ -416,67 +477,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <br><br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-# 👉  <a href="https://github.com/Dreamerol/CARDFOLIO">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
-
-# 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟
-</div>
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-CARDFOLIO.jpg"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia"
-    width="100%"/>
-
-</a>
-
-</div>
-
-
-
-
-
-
-
 
 
 
