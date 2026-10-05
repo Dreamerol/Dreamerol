@@ -51,6 +51,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
 <br>
 
 
@@ -178,6 +179,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
 <div align="center">
 
   
@@ -229,8 +231,8 @@ Integrated AI capabilities into software platforms through ML model development,
 
 
 
-<br>
 
+<br><br>
 
 
 
@@ -376,8 +378,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
-
 <div align="center">
 
 # 👉  <a href="https://github.com/Dreamerol/CARDFOLIO">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
@@ -389,11 +389,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br>
 
-
-
-
+<br><br>
 
 
 
