@@ -111,12 +111,12 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
-<td align="center" width="12%">
-<span style="font-size:1.55em;">🔗</span><br>
-<span style="font-size:1.4em;"><a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a></span>
-</td>
 
-<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+
+
+
+
 
 <td align="center" width="12%">
 <span style="font-size:1.55em;">✉️</span><br>
