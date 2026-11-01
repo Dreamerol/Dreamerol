@@ -113,16 +113,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-
-
-
-
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">✉️</span><br>
-<span style="font-size:1.4em;"><a href="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg">𝗖𝗢𝗡𝗧𝗔𝗖𝗧</a></span>
-</td>
-
 </tr>
 </table>
 
