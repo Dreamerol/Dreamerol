@@ -731,11 +731,22 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<!-- Dark theme, large size -->
 
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=Dreamerol&theme=dark&size=large)](https://github.com/qkitzero/github-contribution-growth-graph)
+
+<!-- Only commits and PRs, purple theme -->
+
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=YOUR_USERNAME&types=commit,pr&theme=purple)](https://github.com/qkitzero/github-contribution-growth-graph)
+
+<!-- Custom date range -->
+
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=YOUR_USERNAME&from=2020-01-01&to=2025-12-31)](https://github.com/qkitzero/github-contribution-growth-graph)
 
 
 [![GitHub Contribution Growth Graph](https://qkitzero.xyz)](https://github.com)
 
+[![dreamerol's GitHub Stats](https://vercel.app)](https://github.com)
 
 
 
